@@ -8,9 +8,9 @@
 
 ## Pages
 - [[garden/fragments/GIFs\|GIFs]]
-- [[garden/trees/Sharing Your Story\|Sharing Your Story]]
-- [[garden/trees/Social Media\|Social Media]]
-- [[garden/trees/Digital Gardens\|Digital Gardens]]
+- [[garden/fragments/Sharing Your Story\|Sharing Your Story]]
+- [[garden/notes/Social Media\|Social Media]]
+- [[garden/notes/Digital Gardens\|Digital Gardens]]
 ## Journal 
 
 **1/31/25**

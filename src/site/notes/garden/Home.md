@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T01:11:48.607-05:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T10:24:48.325-05:00"}
 ---
 
-#path/faq
 
 # Hello!
-Welcome to my site! This is a digital garden which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. Unlike most sites you may be used to, there's no information architecture and you won't find structural navigation.
+Welcome to my site! This is a [[garden/notes/Digital Gardens\|digital garden]] which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. I am already having anxiety about learning in public.
 
 ## Browse to read!
-My goal for this site is to create non-linear paths of browsing and learning. I write about my experiences, what I'm reading/watching, things I've learned, creative projects, etc. 
+My goal for this site is to create non-linear paths of browsing and learning. 
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content if you prefer:
 
