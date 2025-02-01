@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-01-31T23:00:41.467-05:00"}
+{"dg-publish":true,"dg-path":"fragments/social-media.md","permalink":"/fragments/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-01-31T23:00:41.467-05:00"}
 ---
 
 #topic/social-media 

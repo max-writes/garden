@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/abcs/","created":"2024-12-23T22:03:41.256-05:00","updated":"2025-01-31T22:58:01.731-05:00"}
+{"dg-publish":true,"dg-path":"fragments/abcs.md","permalink":"/fragments/abcs/","created":"2024-12-23T22:03:41.256-05:00","updated":"2025-01-31T22:58:01.731-05:00"}
 ---
 
 #topic/music 

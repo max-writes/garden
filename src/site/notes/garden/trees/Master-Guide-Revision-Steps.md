@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/master-guide-revision-steps/","created":"2024-12-14T13:59:14.763-05:00","updated":"2025-01-31T23:07:02.921-05:00"}
+{"dg-publish":true,"dg-path":"trees/Master-Guide-Revision-Steps.md","permalink":"/trees/master-guide-revision-steps/","created":"2024-12-14T13:59:14.763-05:00","updated":"2025-01-31T23:07:02.921-05:00"}
 ---
 
 

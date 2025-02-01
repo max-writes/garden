@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/crushes/","created":"2024-12-23T21:40:39.556-05:00","updated":"2025-01-31T22:58:35.735-05:00"}
+{"dg-publish":true,"dg-path":"fragments/crushes.md","permalink":"/fragments/crushes/","created":"2024-12-23T21:40:39.556-05:00","updated":"2025-01-31T22:58:35.735-05:00"}
 ---
 
 

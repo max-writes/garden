@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-01-31T23:07:07.749-05:00"}
+{"dg-publish":true,"dg-path":"trees/Monster-Hunter-Now.md","permalink":"/trees/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-01-31T23:07:07.749-05:00"}
 ---
 
 

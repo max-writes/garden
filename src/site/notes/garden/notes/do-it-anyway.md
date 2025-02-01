@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/do-it-anyway/","created":"2024-12-29T21:09:26.060-05:00","updated":"2025-01-31T23:01:16.157-05:00"}
+{"dg-publish":true,"dg-path":"notes/do-it-anyway.md","permalink":"/notes/do-it-anyway/","created":"2024-12-29T21:09:26.060-05:00","updated":"2025-01-31T23:01:16.157-05:00"}
 ---
 
 

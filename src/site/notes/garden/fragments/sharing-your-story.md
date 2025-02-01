@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/sharing-your-story/","created":"2024-12-23T22:00:02.972-05:00","updated":"2025-01-31T23:00:28.207-05:00"}
+{"dg-publish":true,"dg-path":"fragments/sharing-your-story.md","permalink":"/fragments/sharing-your-story/","created":"2024-12-23T22:00:02.972-05:00","updated":"2025-01-31T23:00:28.207-05:00"}
 ---
 
 #topic/storytelling 

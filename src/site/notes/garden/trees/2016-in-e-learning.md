@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/2016-in-e-learning/","created":"2024-12-14T14:04:53.447-05:00","updated":"2025-01-31T23:04:45.331-05:00"}
+{"dg-publish":true,"dg-path":"trees/2016-in-e-learning.md","permalink":"/trees/2016-in-e-learning/","created":"2024-12-14T14:04:53.447-05:00","updated":"2025-01-31T23:04:45.331-05:00"}
 ---
 
 #topic/education #topic/teaching #topic/learning 

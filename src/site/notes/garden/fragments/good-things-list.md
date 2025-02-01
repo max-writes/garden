@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/good-things-list/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-01-31T22:59:48.124-05:00"}
+{"dg-publish":true,"dg-path":"fragments/good-things-list.md","permalink":"/fragments/good-things-list/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-01-31T22:59:48.124-05:00"}
 ---
 
 

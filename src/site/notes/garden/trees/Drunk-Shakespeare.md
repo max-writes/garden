@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/drunk-shakespeare/","created":"2024-12-14T14:19:08.792-05:00","updated":"2025-01-31T23:05:56.858-05:00"}
+{"dg-publish":true,"dg-path":"trees/Drunk-Shakespeare.md","permalink":"/trees/drunk-shakespeare/","created":"2024-12-14T14:19:08.792-05:00","updated":"2025-01-31T23:05:56.858-05:00"}
 ---
 
 #topic/lgbtq 

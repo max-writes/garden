@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/master-guide-approach/","created":"2024-12-14T14:07:39.551-05:00","updated":"2025-01-31T23:06:53.088-05:00"}
+{"dg-publish":true,"dg-path":"trees/Master-Guide-approach.md","permalink":"/trees/master-guide-approach/","created":"2024-12-14T14:07:39.551-05:00","updated":"2025-01-31T23:06:53.088-05:00"}
 ---
 
 #topic/information-management #topic/content-management #max/lessons-learned

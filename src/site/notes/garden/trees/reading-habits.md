@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/reading-habits/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-01-31T23:07:12.495-05:00"}
+{"dg-publish":true,"dg-path":"trees/reading-habits.md","permalink":"/trees/reading-habits/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-01-31T23:07:12.495-05:00"}
 ---
 
 #topic/reading 

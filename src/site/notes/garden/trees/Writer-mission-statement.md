@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/writer-mission-statement/","created":"2024-12-14T14:06:24.814-05:00","updated":"2025-01-31T23:08:18.216-05:00"}
+{"dg-publish":true,"dg-path":"trees/Writer-mission-statement.md","permalink":"/trees/writer-mission-statement/","created":"2024-12-14T14:06:24.814-05:00","updated":"2025-01-31T23:08:18.216-05:00"}
 ---
 
 

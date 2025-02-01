@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-01-31T23:01:51.399-05:00"}
+{"dg-publish":true,"dg-path":"notes/mental-health.md","permalink":"/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-01-31T23:01:51.399-05:00"}
 ---
 
 

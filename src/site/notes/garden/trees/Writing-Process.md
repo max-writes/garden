@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/writing-process/","created":"2024-12-14T13:46:13.716-05:00","updated":"2025-01-31T23:08:46.925-05:00"}
+{"dg-publish":true,"dg-path":"trees/Writing-Process.md","permalink":"/trees/writing-process/","created":"2024-12-14T13:46:13.716-05:00","updated":"2025-01-31T23:08:46.925-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-01-31T23:05:09.326-05:00"}
+{"dg-publish":true,"dg-path":"trees/Autobiography-of-a-writer.md","permalink":"/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-01-31T23:05:09.326-05:00"}
 ---
 
 #topic/writing #path/career 

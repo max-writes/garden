@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:31:17.936-05:00"}
+{"dg-publish":true,"dg-path":"trees/today-i-learned.md","permalink":"/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:31:17.936-05:00"}
 ---
 
 #path/TIL

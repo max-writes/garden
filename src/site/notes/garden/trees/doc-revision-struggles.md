@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/doc-revision-struggles/","created":"2024-12-14T14:00:20.942-05:00","updated":"2025-01-31T23:05:44.367-05:00"}
+{"dg-publish":true,"dg-path":"trees/doc-revision-struggles.md","permalink":"/trees/doc-revision-struggles/","created":"2024-12-14T14:00:20.942-05:00","updated":"2025-01-31T23:05:44.367-05:00"}
 ---
 
 #topic/writing #topic/process #max/lessons-learned 

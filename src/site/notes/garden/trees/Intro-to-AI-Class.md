@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/intro-to-ai-class/","created":"2024-12-14T13:50:46.918-05:00","updated":"2025-01-31T23:06:27.574-05:00"}
+{"dg-publish":true,"dg-path":"trees/Intro-to-AI-Class.md","permalink":"/trees/intro-to-ai-class/","created":"2024-12-14T13:50:46.918-05:00","updated":"2025-01-31T23:06:27.574-05:00"}
 ---
 
 #type/online-courses #topic/artificial-intelligence

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/i-want-to-write/","created":"2024-12-14T14:25:46.278-05:00","updated":"2025-01-31T23:06:21.574-05:00"}
+{"dg-publish":true,"dg-path":"trees/I-Want-to-Write.md","permalink":"/trees/i-want-to-write/","created":"2024-12-14T14:25:46.278-05:00","updated":"2025-01-31T23:06:21.574-05:00"}
 ---
 
 #topic/writing #path/career 

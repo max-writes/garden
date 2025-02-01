@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/axe-con-2024/","created":"2024-12-14T13:51:49.885-05:00","updated":"2025-01-31T23:05:17.363-05:00"}
+{"dg-publish":true,"dg-path":"trees/Axe-Con-2024.md","permalink":"/trees/axe-con-2024/","created":"2024-12-14T13:51:49.885-05:00","updated":"2025-01-31T23:05:17.363-05:00"}
 ---
 
 #topic/accessibility #max/lessons-learned 

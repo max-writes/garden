@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/10-years-doc-work/","created":"2024-12-14T13:53:37.108-05:00","updated":"2025-01-31T23:04:34.792-05:00"}
+{"dg-publish":true,"dg-path":"trees/10-years-doc-work.md","permalink":"/trees/10-years-doc-work/","created":"2024-12-14T13:53:37.108-05:00","updated":"2025-01-31T23:04:34.792-05:00"}
 ---
 
 #topic/writing  #max/lessons-learned #path/career

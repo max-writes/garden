@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/seasonal-observation/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-01-31T23:07:30.841-05:00"}
+{"dg-publish":true,"dg-path":"trees/Seasonal-Observation.md","permalink":"/trees/seasonal-observation/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-01-31T23:07:30.841-05:00"}
 ---
 
 #topic/seasons #topic/life-tracking

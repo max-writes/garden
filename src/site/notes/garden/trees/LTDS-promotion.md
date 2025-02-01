@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-01-31T23:06:43.847-05:00"}
+{"dg-publish":true,"dg-path":"trees/LTDS-promotion.md","permalink":"/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-01-31T23:06:43.847-05:00"}
 ---
 
 #topic/writing #path/career 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/routines-and-ruts/","created":"2024-12-14T11:48:08.924-05:00","updated":"2025-01-31T23:07:21.741-05:00"}
+{"dg-publish":true,"dg-path":"trees/Routines-and-Ruts.md","permalink":"/trees/routines-and-ruts/","created":"2024-12-14T11:48:08.924-05:00","updated":"2025-01-31T23:07:21.741-05:00"}
 ---
 
 #type/podcast-rec #topic/productivity 

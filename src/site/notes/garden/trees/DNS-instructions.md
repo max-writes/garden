@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/dns-instructions/","created":"2024-12-14T14:09:54.808-05:00","updated":"2025-01-31T23:05:30.623-05:00"}
+{"dg-publish":true,"dg-path":"trees/DNS-instructions.md","permalink":"/trees/dns-instructions/","created":"2024-12-14T14:09:54.808-05:00","updated":"2025-01-31T23:05:30.623-05:00"}
 ---
 
 #topic/web #type/how-to|

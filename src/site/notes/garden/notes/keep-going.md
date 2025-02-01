@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/keep-going/","created":"2025-01-19T21:28:29.386-05:00","updated":"2025-01-31T23:01:26.327-05:00"}
+{"dg-publish":true,"dg-path":"notes/keep-going.md","permalink":"/notes/keep-going/","created":"2025-01-19T21:28:29.386-05:00","updated":"2025-01-31T23:01:26.327-05:00"}
 ---
 
 

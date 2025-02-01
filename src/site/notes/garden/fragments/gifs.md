@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/gifs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-01-31T22:58:57.003-05:00"}
+{"dg-publish":true,"dg-path":"fragments/gifs.md","permalink":"/fragments/gifs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-01-31T22:58:57.003-05:00"}
 ---
 
 

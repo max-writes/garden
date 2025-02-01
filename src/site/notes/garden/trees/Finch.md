@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-01-31T23:06:13.626-05:00"}
+{"dg-publish":true,"dg-path":"trees/Finch.md","permalink":"/trees/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-01-31T23:06:13.626-05:00"}
 ---
 
 

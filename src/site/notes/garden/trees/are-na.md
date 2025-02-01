@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/are-na/","created":"2024-12-19T23:18:40.031-05:00","updated":"2025-01-31T23:05:04.995-05:00"}
+{"dg-publish":true,"dg-path":"trees/are-na.md","permalink":"/trees/are-na/","created":"2024-12-19T23:18:40.031-05:00","updated":"2025-01-31T23:05:04.995-05:00"}
 ---
 
 

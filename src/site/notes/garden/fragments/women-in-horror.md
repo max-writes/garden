@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/fragments/women-in-horror/","created":"2024-12-23T21:56:38.440-05:00","updated":"2025-01-31T23:00:51.299-05:00"}
+{"dg-publish":true,"dg-path":"fragments/women-in-horror.md","permalink":"/fragments/women-in-horror/","created":"2024-12-23T21:56:38.440-05:00","updated":"2025-01-31T23:00:51.299-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/6-year-drummerversary/","created":"2024-12-14T14:17:54.505-05:00","updated":"2025-01-31T23:04:22.824-05:00"}
+{"dg-publish":true,"dg-path":"trees/6-year-drummerversary.md","permalink":"/trees/6-year-drummerversary/","created":"2024-12-14T14:17:54.505-05:00","updated":"2025-01-31T23:04:22.824-05:00"}
 ---
 
 
