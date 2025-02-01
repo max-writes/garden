@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:44:43.105-05:00"}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:47:36.563-05:00"}
 ---
 
 #path/faq
@@ -7,8 +7,10 @@
 # Hello!
 Welcome to my site! This is a digital garden which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. Unlike most sites you may be used to, there's no information architecture and you won't find structural navigation.
 
-It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content:
+## Browse to read!
+My goal for this site is to create non-linear paths of browsing and learning. I write about my experiences, what I'm reading/watching, things I've learned, creative projects, and more! 
 
+It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content if you prefer:
 
 | What         | Description                                                                                                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,9 +24,11 @@ Thank you for your patience while I get things organized.
 
 ---
 
+### How it's made
 This site uses [Obsidian](http://obsidian.md), the [Digital Garden plugin](https://dg-docs.ole.dev/), [Nelify](http://netlify.com), and [GitHub](https://github.com/). 
 
 I used [Wanderloots](https://wanderloots.xyz/)' ["How I Published My Obsidian Notes Website For Free" YouTube video](https://www.youtube.com/watch?v=7f8e5IiUkeo) to get everything working. It took 3 months to establish my Obsidian knowledge flow and 50 minutes to learn how to publish the site.
+### In progress
 
 This site is *always* a work in progress.
 
