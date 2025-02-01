@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:33:10.904-05:00"}
+{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:35:38.220-05:00"}
 ---
 
 #path/faq
@@ -9,11 +9,14 @@ Welcome to my site! This is a digital garden which means it's a mostly flat file
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content:
 
-* *fragments*: Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.**
-* *notes*: Quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.**
-* *trees*: Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**
-* #path/career : Posts related to my career
 
+| What         | Description                                                                                                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| fragments    | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.** |
+| notes        | Quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.**                                |
+| trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                        |
+| #path/career | Related to my career                                                                                                                                                                |
+| #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                        |
 Thank you for your patience while I get things organized.
 
 ---
@@ -27,6 +30,6 @@ This site is *always* a work in progress.
 To do
 - Figure out image and video syncing & embedding
 - Folder structure is not publishing properly
-- Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number")
+- Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp)
 - Check all links - some unpublished pages are linked
 	- Can I use a customized "page not found" template 
