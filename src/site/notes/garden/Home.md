@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T00:17:10.882-05:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T01:06:03.407-05:00"}
 ---
 
 #path/faq
@@ -33,8 +33,16 @@ I used [Wanderloots](https://wanderloots.xyz/)' ["How I Published My Obsidian No
 This site is *always* a work in progress.
 
 To do
-- Figure out image and video syncing & embedding
-- Folder structure is not publishing properly
-- Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp)
-- Check all links - some unpublished pages are linked
-	- Can I use a customized "page not found" template 
+- [ ] Improve image and video syncing & embedding (it's ugly)
+- [ ] Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp)
+- [ ] Check all links - some unpublished pages are linked
+	- [ ] Can I use a customized "page not found" template 
+- [ ] How to get dataview plugin stuff to publish to site?
+- [ ] Clean up book pages metadata template & fix existing files
+	- [ ] Remove created/updated dates
+	- [ ] Reorder/add formatting
+	- [ ] Prettify descriptions
+	- [ ] Genre/author pages
+	- [ ] Add a header for easier navigation and better structure
+	- [ ] Move the tags to the top of the doc for consistency across site
+- [x] Folder structure is not publishing properly ✅ 2025-02-01 (I fixed this by updating the path rewrite rules in the Digital Garden plugin - basically, I didn't really fix the issue but updating my navigation bar got rid of it)
