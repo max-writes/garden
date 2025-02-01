@@ -1,18 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:26:56.530-05:00"}
+{"dg-publish":true,"permalink":"/garden/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:28:27.731-05:00"}
 ---
 
 #path/TIL
 
 # Today I Learned 
 
-## Journal 
-<iframe src="https://docs.google.com/document/d/1l-1sRbjk7LLnksiLkkFWuDkSw-IVhDQYzdm1ybVQEZI/edit?usp=drivesdk"/>
-
-
 ## Pages
-- [[garden/fragments/gifs\|gifs]]]
+- [[garden/fragments/gifs\|gifs]]
 - [[garden/fragments/sharing-your-story\|sharing-your-story]]
 - [[garden/fragments/social-media\|social-media]]
 - [[garden/digital-gardens\|digital-gardens]]
+## Journal 
+
+**1/22/25**
+
+Sweaters were originally worn by rowers and designed to make you sweat. Similarly, sweatshirts were originally designed as athletic wear to absorb sweat.
+
+Sweaters transitioned into casual wear in the mid-1900s. Before that, they were worn by fishermen and sportsmen, then later adopted by golfers.
+
+**1/8/25**
+
+TIL that federal holidays are only required PTO for federal institutions and that private employers are not required to provide those days off. I knew SOME private employers were not required, but I didn’t know it was so strict in the types.
+
+TIL you can add your personal M365 calendar to a SharePoint sites page using the M365 calendar web part. I think it probably pulls for the user, so it's more like a personal dashboard/homepage helper?
+
+OR you can add a Teams/group calendar, for example: The calendar associated with the department Teams library and chat. There isn't a "SharePoint site" calendar because this SharePoint site isn't a Teams site.
+
+There is no way to show the events from the "Events" feature on SharePoint in a calendar view. You get the usual content views (filmstrip, grid). I have always known there was no way to do the events as a calendar but I thought maybe they updated it. And they did! To let you show your personal M365 calendar.
+
 
