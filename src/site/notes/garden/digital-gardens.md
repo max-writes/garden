@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T22:30:06.274-05:00"}
+{"dg-publish":true,"permalink":"/garden/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T22:33:30.500-05:00"}
 ---
 
 #topic/obsidian #topic/information-management
 
 # Digital gardens
-*Updated: 1/19/25* 
 
 ## Notes
 
@@ -40,6 +39,7 @@ Ideas:
 [[garden/purpose-guidelines\|purpose-guidelines]]
 
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
+
 ## Links
 ### How I built myself a Digital Garden
 Link: [timrodenbroeker.de/digital-garden](https://timrodenbroeker.de/digital-garden/)
