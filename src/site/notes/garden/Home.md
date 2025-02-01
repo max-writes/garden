@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T01:10:06.258-05:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T01:11:48.607-05:00"}
 ---
 
 #path/faq
@@ -32,12 +32,13 @@ I used [Wanderloots](https://wanderloots.xyz/)' ["How I Published My Obsidian No
 
 This site is *always* a work in progress.
 
-To do
+To do 
 - [ ] Improve image and video syncing & embedding (it's ugly)
 - [ ] Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp)
 - [ ] Check all links - some unpublished pages are linked
 - [ ] Can I use a customized "page not found" template 
 - [ ] How to get dataview plugin stuff to publish to site?
+- [ ] Why does this to do list look so weird on the site?
 
 - [ ] Clean up book pages metadata template & fix existing files
 	- [ ] Remove created/updated dates
