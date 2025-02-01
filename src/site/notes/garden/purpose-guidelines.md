@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T22:26:10.443-05:00"}
+{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T23:10:16.776-05:00"}
 ---
 
 #path/faq
@@ -78,13 +78,13 @@ same folder structure as above, including:
 Items are ready for the **garden** website when:
 - the file uses an alphanumeric title with hyphens instead of spaces (filename)
 - you've previewed the note for spacing etc 
-- you added the share property to the page
+- you added the publish property to the page
 - all sources have proper citing if you know it
 - you're ready to share a half baked thought without anxiety 
 - you have QA'd the filename 
 - the site is not having any deployment issues 
 ### Grouping 
-- use tags to index keywords or search terms based on topics that interest me, format: #topic / something 
+- use tags to index keywords or search terms based on topics that interest me, format: # topic/something 
 - use tags as status indicators for quick a quick list of posts (eg, books in progress, currently writing, so I can pull them up easily)
 - tag structure 
 	- topic/
