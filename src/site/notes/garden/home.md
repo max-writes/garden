@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:17:04.882-05:00"}
+{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:26:32.878-05:00"}
 ---
 
 #path/faq
@@ -23,3 +23,10 @@ This site uses [Obsidian](http://obsidian.md), the [Digital Garden plugin](https
 I used [Wanderloots](https://wanderloots.xyz/)' ["How I Published My Obsidian Notes Website For Free" YouTube video](https://www.youtube.com/watch?v=7f8e5IiUkeo) to get everything working. It took 3 months to establish my Obsidian knowledge flow and 50 minutes to learn how to publish the site.
 
 This site is *always* a work in progress.
+
+To do
+- Figure out image and video syncing & embedding
+- Folder structure is not publishing properly
+- Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number")
+- Check all links - some unpublished pages are linked
+	- Can I use a customized "page not found" template 
