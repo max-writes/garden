@@ -4,7 +4,7 @@
 
 #path/faq
 
-# Max-Writes.com
+# MaxWrites.com
 Welcome to my site!
 
 Thank you for your patience while I get things organized.
