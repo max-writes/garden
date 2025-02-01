@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:28:27.731-05:00"}
+{"dg-publish":true,"permalink":"/garden/trees/today-i-learned/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-01-31T23:31:17.936-05:00"}
 ---
 
 #path/TIL
@@ -12,6 +12,10 @@
 - [[garden/fragments/social-media\|social-media]]
 - [[garden/digital-gardens\|digital-gardens]]
 ## Journal 
+
+**1/31/25**
+
+When you publish Obsidian notes, they have to go through a workflow. Obsidian makes Markdown (.md) files. You can run them through a pipeline that deploys via GitHub to a static site generator, which converts the Markdown files to HTML, then publishes them to the web.
 
 **1/22/25**
 
