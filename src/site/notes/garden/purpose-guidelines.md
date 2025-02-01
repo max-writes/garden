@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T23:10:16.776-05:00"}
+{"dg-publish":true,"dg-path":"purpose-guidelines.md","permalink":"/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T23:10:16.776-05:00"}
 ---
 
 #path/faq

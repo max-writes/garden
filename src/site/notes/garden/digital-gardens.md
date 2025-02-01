@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T22:33:30.500-05:00"}
+{"dg-publish":true,"dg-path":"digital-gardens.md","permalink":"/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T22:33:30.500-05:00"}
 ---
 
 #topic/obsidian #topic/information-management
