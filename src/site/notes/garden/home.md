@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:26:32.878-05:00"}
+{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:33:10.904-05:00"}
 ---
 
 #path/faq
 
-# MaxWrites.com
+# Hello!
 Welcome to my site! This is a digital garden which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections.
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content:
