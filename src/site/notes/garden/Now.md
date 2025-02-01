@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T22:26:04.155-05:00"}
+{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T22:55:06.394-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -7,6 +7,23 @@
 [[garden/Now-archive\|Now-archive]]
 
 Max's instructions: Insert the now template, then answer the questions.
+
+## January 31, 2025
+I got on my computer to type up my month in review but instead of doing that, I decided to figure out how to publish my Obsidian notes to a website so I can (eventually) move my portfolio into my garden. So here we are!
+
+Listening to: Silence (nighttime sounds on a Friday)
+
+What I've been doing with websites:
+* I have been in a slump since inauguration day, so not much. I finally built [a page for my minizines](http://zinetherapy.neocities.org/library) so people can download and print them at home.
+* Otherwise just working on this site tonight! I'm excited I figured out the workflow to publish from Obsidian to my new host Netlify. Netlify is free for my purposes! Previously I was paying $150+/year for a site that was much harder to manage.
+
+What's going on creatively:
+* I finished a coloring zine (which you can download from the zine link above). I used to make coloring zines a lot so I recently made a goal to make another one, and then I achieved it! Hoorah!
+* I've focused most of my creative energy in Obsidian but I am getting a good flow down and taking lots of notes.
+
+What's going on at work:
+- This week I developed my first "official" RACI matrix (I've done them before, but for personal uses and understanding my role in something, not for a whole process/team). It took a few hours to build and fill out which was fun (but not that fun). The fun part was analysis and trying to summarize the matrix into a digestible format so people know what they're getting into before they look at it. We meet to discuss this next Friday.
+- We got access to ChatGPT for a trial to see how we might be able to integrate the tool into our workflows (and specifically: create bots to help with work). I'm immediately hooked! I started with a DocBot (Doctor Bottom) where I plugged in 4 of my team's major guides (50+ pages each), added some structure and rules, and then began quizzing it with a bunch of questions. So far my colleagues and I are impressed with the results so far, though it still needs some tweaking.
 
 ## January 25, 2025
 It's been a weird week.
