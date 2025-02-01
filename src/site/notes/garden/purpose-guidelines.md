@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T22:13:43.752-05:00"}
+{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T22:26:10.443-05:00"}
 ---
 
 #path/faq
 
 # Max's Digital Garden purpose and guidelines 
-
-*Updated: 1/16/25*
 
 This PKM system will collect and do the following for me:
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T22:13:15.561-05:00"}
+{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T22:26:04.155-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
 [[garden/Now-archive\|Now-archive]]
 
-Insert the now template, then answer the questions.
+Max's instructions: Insert the now template, then answer the questions.
 
 ## January 25, 2025
 It's been a weird week.
