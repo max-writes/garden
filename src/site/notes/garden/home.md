@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:44:28.096-05:00"}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-01-31T23:44:43.105-05:00"}
 ---
 
 #path/faq
 
 # Hello!
-Welcome to my site! This is a digital garden which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. Unlike most sites you may be used to, there's no information architecture and you won't find topic-based navigation.
+Welcome to my site! This is a digital garden which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. Unlike most sites you may be used to, there's no information architecture and you won't find structural navigation.
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content:
 
