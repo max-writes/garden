@@ -10,7 +10,7 @@
 - [[garden/fragments/gifs\|gifs]]
 - [[garden/fragments/sharing-your-story\|sharing-your-story]]
 - [[garden/fragments/social-media\|social-media]]
-- [[garden/digital-gardens\|digital-gardens]]
+- [[garden/trees/digital-gardens\|digital-gardens]]
 ## Journal 
 
 **1/31/25**

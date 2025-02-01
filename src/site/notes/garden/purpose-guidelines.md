@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"purpose-guidelines.md","permalink":"/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T23:10:16.776-05:00"}
+{"dg-publish":true,"dg-path":"purpose-guidelines.md","permalink":"/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-02-01T00:16:09.116-05:00"}
 ---
 
 #path/faq
 
 # Max's Digital Garden purpose and guidelines 
 
-This PKM system will collect and do the following for me:
+This PKM (personal knowledge management) system will collect and do the following for me:
 
 - Reflection and learning journal as a writer and using a PKMS
 - A place to curate my portfolio
@@ -22,17 +22,20 @@ This PKM system will collect and do the following for me:
 
 ## Tools
 
-- Digital garden: Obsidian, GitHub
+- Digital garden: Obsidian, GitHub, Netlify
 - Notes and record keeping: DrawNote, Google drive, are.na, paper journals
+	- Seasons bingo journal
+	- Hobonichi weekly planner
+	- Art journal
 - Life tracking: Daylio, Finch, personal budget, Google calendar 
-- Life sharing: Neocities sites, digital garden, Letterboxd, Storygraph, MyAlbum
+- Life sharing: Neocities sites, Maxwrites, Letterboxd, Storygraph, MyAlbum, Shapchat (private), are.na
 ## Content management 
 
 ### Obsidian folder structure 
 - Use the **0** (zero) folder for life stuff. this is all private.
 - Use the **digital garden** folder for drafts and creating empty pages/ideas.
-- Move items to the **garden** when they are ready to publish to the site (may be in progress). Once a month, publish via *enveloppe* plugin.
-- in these folders, use the folder idea outlined below under each heading 
+- Move items to the **garden** when they are ready to publish to the site. (These items may be in progress, publish once you feel no anxiety about sharing a half-formed thought.)
+- Once a month or as needed, publish via *Digital Garden* plugin ([plugin website](https://dg-docs.ole.dev/)).
 
 #### 0 folder (private)
 This stuff will probably never see the public.
@@ -41,24 +44,22 @@ Folder structure:
 - daily (daily notes)
 - health (keep up with meds, personal appointments, etc)
 - ideas (all files that are just a brain fart of ideas)
-- projects (personal and home project tracking and reflection, some may move to garden)
 - responsibilities (taking care of my home, car, etc)
 - seasons (seasonal based to do, notes, projects, reflection, some may move to the garden)
 - templates (my templates for my obsidian setup)
 - zenny (taking care of my cat, appointments, blood work results, etc)
 
 this folder is also where I keep 
-- my homepage, which loads when I open Obsidian and thanks to the *homepage* plugin I can have a separate one on mobile vs desktop.
+- my homepage, which loads when I open Obsidian and thanks to the *homepage* plugin I can have a separate one on mobile vs desktop ([plugin website](https://github.com/mirnovov/obsidian-homepage))
 - a snippets file which holds my cheat sheet for markdown and other script.
 
 #### digital garden (drafts)
 Items that enter the **digital garden**
+- add tags below file name
 - ​the title uses h1 
-- last updated date below that
-- add tags below date
 - other headers use h2, h3 etc.
-- add created date at the bottom under a horizontal rule
-- ideally, the file uses an alphanumeric title with hyphens instead of spaces (filename), but not required.
+- if you are adding a previously created file, add created date at the bottom under a horizontal rule
+- ideally, the file uses an alphanumeric title with hyphens instead of spaces (filename), but not required quite yet.
 
 subfolders:
 - **notes** from sources (books, podcast episodes, articles, etc)
@@ -84,11 +85,38 @@ Items are ready for the **garden** website when:
 - you have QA'd the filename 
 - the site is not having any deployment issues 
 ### Grouping 
-- use tags to index keywords or search terms based on topics that interest me, format: # topic/something 
-- use tags as status indicators for quick a quick list of posts (eg, books in progress, currently writing, so I can pull them up easily)
-- tag structure 
+- Use tags to index keywords or search terms based on topics that interest me, format: # topic/something 
+- Use tags as status indicators for quick a quick list of posts (eg, books in progress, currently writing, so I can pull them up easily)
+- Tag structure 
 	- topic/
-	- help/map, FAQ, glossary
 	- max/
 	- path/ (entry points to content)
-- use bookmarks for stuff I use in everyday life (eg grocery list, to do)
+- Use bookmarks for stuff I use in everyday life (eg grocery list, to do)
+
+### Templates
+- Diary entries (insert into notes as needed)
+	- Anger diary, therapy survey (part of my self-therapy practice)
+	- Book report (questions about a book I just finished)
+	- EOY and Decade questions (from [Steph Ango](https://stephango.com))
+	- Now (inserts template text for my [[garden/Now\|Now]] page)
+- Template pages
+	- Book page (uses the *Book Search* plugin to create a page with metadata for a specific book - [plugin website](https://github.com/anpigon/obsidian-book-search-plugin))
+	- Seasonal to do (I create one each season, this has the categories set up for me)
+- Formatting help for consistency
+	- External link (drops template text in for me to edit)
+	- Quote (template text)
+
+### Plugins
+**Core**
+- Backlinks (show links from other files in the current file)
+- Canvas (create visual notes and connect ideas)
+- Command palette (Ctrl+P to open command list)
+- Daily notes
+- Graph view
+- Note composer (merge or split notes)
+- Templates
+
+**Community**
+- Dataview (used for various reasons, especially to pull recently updated pages)
+- Digital Garden (used for my publishing workflow)
+- Homepage (customized Obsidian homepage desktop vs mobile)
