@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/digital-gardens.md","permalink":"/trees/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T23:54:09.444-05:00"}
+{"dg-publish":true,"dg-path":"trees/digital-gardens.md","permalink":"/trees/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-02-01T00:18:07.181-05:00"}
 ---
 
 #topic/obsidian #topic/information-management
@@ -36,7 +36,7 @@ Ideas:
 	- stage of tree growth = how formulated an idea it is vs scratch notes still
 	- (like animal crossing)
 
-[[garden/purpose-guidelines\|purpose-guidelines]]
+[[garden/Purpose and Guidelines\|Purpose and Guidelines]]
 
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
 
