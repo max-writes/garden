@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T21:52:58.017-05:00"}
+{"dg-publish":true,"permalink":"/garden/purpose-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-01-31T22:13:43.752-05:00"}
 ---
 
 #path/faq
 
-***Contents***
-```table-of-contents
-```
 # Max's Digital Garden purpose and guidelines 
 
 *Updated: 1/16/25*
@@ -97,6 +94,3 @@ Items are ready for the **garden** website when:
 	- max/
 	- path/ (entry points to content)
 - use bookmarks for stuff I use in everyday life (eg grocery list, to do)
-
----
-Created: 12/17/24

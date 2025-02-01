@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T21:52:38.970-05:00"}
+{"dg-publish":true,"permalink":"/garden/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-01-31T22:13:05.747-05:00"}
 ---
 
 #topic/obsidian #topic/information-management
 
-***Contents***
-```table-of-contents
-```
 # Digital gardens
 *Updated: 1/19/25* 
 
@@ -87,7 +84,3 @@ WHAT I DID?
 
 "After creating this, I set a reminder to be reminded every Saturday evening to sit and write. That’s all I’ve done. And for the last four weeks, I have been working on this project. You can see my profile and check how many articles I have published."
 
-
-
----
-Created: 1/13/25

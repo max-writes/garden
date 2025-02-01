@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T21:52:46.493-05:00"}
+{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T22:13:15.561-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
-
-***Contents***
-```table-of-contents
-```
 # Now
 [[garden/Now-archive\|Now-archive]]
 
