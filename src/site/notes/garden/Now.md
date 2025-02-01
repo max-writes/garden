@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/now/"}
+{"dg-publish":true,"permalink":"/garden/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T21:52:46.493-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)

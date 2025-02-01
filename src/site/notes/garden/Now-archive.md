@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/now-archive/"}
+{"dg-publish":true,"permalink":"/garden/now-archive/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-01-31T21:52:50.900-05:00"}
 ---
 
 # Now (archive)
