@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/TIL.md","permalink":"/trees/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-02-01T00:28:00.057-05:00"}
+{"dg-publish":true,"dg-path":"trees/TIL.md","permalink":"/trees/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-02-07T22:15:08.089-05:00"}
 ---
 
-#path/TIL
+
 
 # Today I Learned 
 
@@ -12,6 +12,12 @@
 - [[garden/notes/Social Media\|Social Media]]
 - [[garden/notes/Digital Gardens\|Digital Gardens]]
 ## Journal 
+
+**2/7/25**
+
+![original_ff97113e2b65a1f3f40c547ceab4e803.jpg](/img/user/garden/trees/attachments/original_ff97113e2b65a1f3f40c547ceab4e803.jpg)
+
+A group called SPARTA ensures transgender individuals have the right to serve in the US Military.
 
 **1/31/25**
 

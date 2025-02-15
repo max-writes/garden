@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-01-31T23:06:13.626-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-02-01T11:48:58.662-05:00"}
 ---
 
 
-#type/app-rec #topic/self-care
+#type/app-rec #topic/life-tracking 
 
 
 # Finch

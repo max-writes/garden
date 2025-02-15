@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Reading Habits Reflection.md","permalink":"/trees/reading-habits-reflection/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-01-31T23:07:12.495-05:00"}
+{"dg-publish":true,"dg-path":"trees/Reading Habits Reflection.md","permalink":"/trees/reading-habits-reflection/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-02-01T18:25:36.921-05:00"}
 ---
 
-#topic/reading 
+
 # Reading habits
 
 When I am reading I am reading three books at a time, at least. one audiobook while I am sitting on my couch taking notes or driving, one ebook while I'm waiting for my turn or I'm sitting somewhere dark, and a physical book which I always forget to bring with me but which I end up reading for hours some random Sunday afternoon. 
@@ -47,5 +47,4 @@ how many parts of ourselves do we have to let go of throughout our lives? are we
 
 I was thinking about starting a book blog where I would keep my reviews but then I realized it would only have 12 posts a year. I think I will stick to storygraph for those, for now. I like that it gives me stats.
 
----
-Created: 12/31/24
+![20250201_175844~3.jpg](/img/user/garden/trees/attachments/20250201_175844~3.jpg)

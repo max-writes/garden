@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-02-01T00:45:09.029-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-02-01T11:53:26.606-05:00"}
 ---
 
 
@@ -22,18 +22,3 @@ All my complaints and quips aside, something she said in this book will stick wi
 Written: 1/7/24
 
 ---
-tags: #type/book-rec #topic/hollywood
-title: Unsinkable : A Memoir
-author: [Debbie Reynolds, Dorian Hannaway]
-category: [Biography & Autobiography]
-
-description: Unsinkable is the definitive memoir by film legend and Hollywood icon Debbie Reynolds. In Unsinkable, the late great actress, comedienne, singer, and dancer Debbie Reynolds shares the highs and lows of her life as an actress during Hollywood’s Golden Age, anecdotes about her lifelong friendship with Elizabeth Taylor, her experiences as the foremost collector of Hollywood memorabilia, and intimate details of her marriages and family life with her children, Carrie and Todd Fisher. A story of heartbreak, hope, and survival, “America’s Sweetheart” Debbie Reynolds picks up where she left off in her first memoir, Debbie: My Life, and is illustrated with previously unpublished photos from Reynolds’s personal collection. Debbie Reynolds died on December 28, 2016, at the age of 84, just one day after the death of her daughter, actress and author Carrie Fisher.
-
-publisher: Harper Collins
-published: 2013-04-02
-total pages: 310
-isbn: 0062213679 9780062213679
-
-
-created: 2025-01-07 20:35:02
-updated: 2025-01-07 20:35:02

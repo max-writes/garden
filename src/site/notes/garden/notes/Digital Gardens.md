@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-02-01T00:18:07.181-05:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-02-15T12:41:39.837-05:00"}
 ---
 
-#topic/obsidian #topic/information-management
+ #topic/information-management
 
 # Digital gardens
 
-## Notes
+Add: About, Tools, Examples
+## Max's brainstorming
+> [!NOTE]
+> This is some brainstorming I did before setting up my digital garden. I thought about how I could tie ideas of real-world gardening and landscaping into this, read about hypertext art/expression, and browsed a bunch of other digital gardens for inspiration.
 
 Garden freestyle: 
 trees, flowers, paths, lawns, birds & butterflies, weeds, soil, water, rocks, walls, steps, hedges
@@ -38,11 +41,20 @@ Ideas:
 
 [[garden/Purpose and Guidelines\|Purpose and Guidelines]]
 
+<iframe src="https://walky.space/digitalgarden" width="90%" height="500" allow="autoplay"></iframe>
+
+
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
 
 ## Links
 
 The [ObsidianMD subreddit](https://www.reddit.com/r/ObsidianMD) has been a vital source of tips & tricks. My are.na channel (embedded above) includes links to other digital garden sites. Here I'll include articles that have influenced how my garden evolves.
+
+### Digital Garden Terms of Service
+Link: [github.com/max-writes/digital-garden-tos](https://github.com/max-writes/digital-garden-tos)
+
+> I have a right to be wrong or incomplete in my Digital Garden, either due to paucity of time or knowledge. You will not hold this, or my readership, against me because I will keep learning, with your help. Everything in the Digital Garden is a living document and I will retract or rephrase things I no longer agree with.
+
 
 ### Organising a personal Knowledge Management system
 Link: [adubrg.medium.com/organising-a-personal-knowledge-management-system](https://adubrg.medium.com/organising-a-personal-knowledge-management-system-62dd0a758aa1)

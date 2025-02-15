@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/GIFs.md","permalink":"/fragments/gi-fs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-01-31T22:58:57.003-05:00"}
+{"dg-publish":true,"dg-path":"fragments/GIFs.md","permalink":"/fragments/gi-fs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-02-15T13:26:15.829-05:00"}
 ---
 
-
-#topic/digital-technologies 
+Add: History, Definitions, organize notes & links
 # Graphics Interchange Format (gifs)
 
 https://youtu.be/vuxKb5mxM8g?si=cPrr1RkUdswUF3Vl

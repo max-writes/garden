@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-02-01T00:44:04.400-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-02-01T11:48:22.218-05:00"}
 ---
 
 
@@ -39,7 +39,7 @@ It’s winter right now so it’s already a hygge season. I’m looking forward 
 Written: 2/2/22
 
 ---
-tags: #type/book-rec #topic/rest 
+tags: #type/book-rec 
 title: The Little Book of Hygge : Danish Secrets to Happy Living
 author: [Meik Wiking]
 category: [Self-Help]

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-02-01T02:07:11.994-05:00"}
+{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-02-15T12:42:16.343-05:00"}
 ---
 
 #topic/disability 
 
-
+Add: About, Definitions, my experiences
 
 ## Quotes
 

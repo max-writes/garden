@@ -1,12 +1,26 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-02-01T00:22:09.368-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-02-15T13:42:26.673-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
 [[garden/Now (archive)\|Now (archive)]]
 
-Max's instructions: Insert the now template, then answer the questions.
+## February 15, 2025
+This is my first update to maxwrites since I figured out how to publish Obsidian to the web a few weeks ago. I haven't done much to it (I've mostly been going through the motions lately) but I did start consolidating the quotes I've gotten from various books read into topic pages which I will eventually expand upon. Lots to come!
+
+Listening to: My [[garden/trees/instructions/NAS\|NAS]] Plex library is scanning and trying its hardest to get all my media to me for my walk later today.
+
+What I've been doing with websites:
+* Described above for maxwrites. I'm still building this out but increasingly getting a better idea of how I want my digital garden to flow and present information. I need to add some kind of feedback mechanism so people can correct me, if they want to. It's scary to potentially be so publicly wrong about things but I think it's good for the learning process to share progress.
+* Since I got the NAS yesterday, I started moving media from a different (ancient) external drive and I found a whole folder full of old website designs! I spent some time this morning looking at them and dang I made some unique and nice-looking sites. I am looking forward to recycling some of them for present-day sites.
+
+What's going on creatively:
+* Ahhh not much actually. I did manage to upload more zines to my [Zine library](http://zinetherapy.neocities.org/library) for download/print at home. Aside from website things I haven't been engaged in other creative work.
+
+What's going on at work:
+- The university decided to take the 4-week condensed winter intersession pilot idea and expand it to a 4-week condensed session *every semester*. I've been chatting with my boss to help solution for that requirement since our original "repeatable process" was written for a once yearly offering that might not ever happen again. Although I won't lead it this time, I'll be involved in planning since I managed it the first time.
+- We got pilot access to ChatGPT so we can use it for work stuff (including proprietary information, which was a huge limitation for free versions since almost all our stuff involves customizations and company-specifics). I've been working on a DocBot for the content support team, and I got it to a good point where I was able to copy/paste questions from team chat and generally get the right answers, despite not being well-formatted prompts. It's limited use so the team can't test it themselves at the moment, but I'm excited to see where it goes!
 
 ## January 31, 2025
 I got on my computer to type up my month in review but instead of doing that, I decided to figure out how to publish my Obsidian notes to a website so I can (eventually) move my portfolio into my garden. So here we are!

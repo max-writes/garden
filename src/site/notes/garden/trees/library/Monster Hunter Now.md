@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Monster Hunter Now.md","permalink":"/trees/library/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-01-31T23:07:07.749-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Monster Hunter Now.md","permalink":"/trees/library/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-02-01T11:47:16.678-05:00"}
 ---
 
 
-#type/game-rec #topic/monster-hunter
+#type/game-rec 
 
 # Monster Hunter Now
 

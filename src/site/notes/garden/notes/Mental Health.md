@@ -1,20 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Mental Health.md","permalink":"/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-02-01T02:08:49.926-05:00"}
+{"dg-publish":true,"dg-path":"notes/Mental Health.md","permalink":"/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-02-15T12:43:01.744-05:00"}
 ---
 
 
-#topic/mental-health
-
-# Mental Health
+Add: About, Definitions, Therapy/survey, Zines, Reaction vs response, Neuropsychology, Support
 
 ## Quotes
-
-### Determination 
-from the _Hobonichi 2025 weekly_ 
-
-> I was determined to keep going. I really wasn't much good at anything, you know, but I did think I had the power to stick at something. I was confident in that.
-> 
-> from Hajimesyacho, YouTuber, "Hajimesyacho Turns Thirty"
 
 > There is a very good answer to the question "What if I can't?": just do it, because there's no other choice. How do you meet the challenge that you have been given? If you do nothing, you will remain stuck, but if you take a step forward, that will be the start of your own path.
 > 
