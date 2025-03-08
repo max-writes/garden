@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-20T21:20:49.168-05:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-03-08T15:34:59.549-05:00"}
 ---
 
 
@@ -33,9 +33,8 @@ This site is *always* a work in progress.
 
 To do 
 - [ ] Improve image and video syncing & embedding (it's ugly)
-- [ ] Can I use a customized "page not found" template ([maybe](https://docs.netlify.com/routing/redirects/redirect-options/#custom-404-page-handling))
+- [ ] Can I use a customized "page not found" template (I tried, it broke my site)
 - [ ] How to get dataview plugin stuff to publish to site?
-- [ ] Why does this to do list look so weird on the site?
 
 - [ ] Clean up book pages metadata template & fix existing files
 	- [ ] Remove created/updated dates
@@ -48,6 +47,7 @@ To do
 - [ ] Mobile view - add padding somehow? I like this theme but I don't like that it runs without margins in mobile 
 
 **Completed**
+- [x] Why does this to do list look so weird on the site? ✅ 2025-03-08 (It was the layout I chose)
 - [x] Folder structure is not publishing properly ✅ 2025-02-01 (I fixed this by updating the path rewrite rules in the Digital Garden plugin - basically, I didn't really fix the issue but updating my navigation bar got rid of it)
 - [x] Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp) ✅ 2025-02-20
 - [x] Check all links - some unpublished pages are linked (I've decided this is ok - those are future published pages) ✅ 2025-02-20
