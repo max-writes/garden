@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-02-01T00:56:05.810-05:00"}
+{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-02-20T20:58:41.049-05:00"}
 ---
 
 #path/faq
 
-# Max's Digital Garden purpose and guidelines 
+# Max's Digital Garden
 
 This PKM (personal knowledge management) system will collect and do the following for me:
 
@@ -19,6 +19,13 @@ This PKM (personal knowledge management) system will collect and do the followin
 
 > [!link]
 [digitalgardens channel on are.na](https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4)
+
+## How to use this site
+You can navigate multiple ways:
+* Use the **navigation bar** to browse pages divided by level of depth or information source. The [[garden/Home\|homepage]] describes what each of these sections is.
+* Use the **search bar** to see if there is anything on this site that interests you based on your own keywords.
+* Select a **tag** when you see it to browse all pages.
+* Start with a **path** from the [[garden/Home\|homepage]]
 
 ## Tools
 
@@ -120,11 +127,3 @@ Items are ready for the **garden** website when:
 - Dataview (used for various reasons, especially to pull recently updated pages)
 - Digital Garden (used for my publishing workflow)
 - Homepage (customized Obsidian homepage desktop vs mobile)
-
-## Recent changes
-
-```dataview
-table dateformat(file.mtime, "MM/dd/yy") + " - " + dateformat(file.mtime, "hh:mm a") as "Last Modified"
-from ""
-sort file.mtime desc
-limit 25

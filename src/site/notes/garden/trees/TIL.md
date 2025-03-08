@@ -1,16 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"trees/TIL.md","permalink":"/trees/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-02-07T22:15:08.089-05:00"}
+{"dg-publish":true,"dg-path":"trees/TIL.md","permalink":"/trees/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-02-20T21:12:14.057-05:00"}
 ---
 
 
 
 # Today I Learned 
-
-## Pages
-- [[garden/fragments/GIFs\|GIFs]]
-- [[garden/fragments/Sharing Your Story\|Sharing Your Story]]
-- [[garden/notes/Social Media\|Social Media]]
-- [[garden/notes/Digital Gardens\|Digital Gardens]]
 ## Journal 
 
 **2/7/25**

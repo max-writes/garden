@@ -1,12 +1,36 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-02-15T12:41:39.837-05:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-08T15:13:05.484-05:00"}
 ---
 
  #topic/information-management
 
 # Digital gardens
+**What is a digital garden?** In short, it's a website where someone shares knowledge in development. It's both a personal wiki and a blog, a place where one is wrong publicly and refines their ideas (and pages) over time. 
 
-Add: About, Tools, Examples
+It's a place of discovery where your interests take focus. You learn, write, rest, and then return to learn and write some more. Unlike most traditional "blogs," your entries might change as you grow in your understanding of the things you write about.
+
+You might think of it as your personal note-taking system that is slightly formalized for public view, though not written for a public audience explicitly. People have called it a "second brain" or "digital commonplace book."
+
+I am the audience for my digital garden and I come here to explore ideas and document what I know; however, I'm publishing it to the web to share with others and provide a place for them to explore my ideas, too. I'm here to work on writing skills, iterate, and be vulnerable.
+
+**Tools**
+Every gardener needs tools to build and maintain their plots. The tools you use for your garden may be different than mine. Generally, you'll need some kind of note-taking system and a website/web host to put it online.
+
+My tools: 
+* Obsidian (note taking software)
+* Github (deployment workflow from Obsidian to Netlify that assists in converting the content from Markdown to HTML)
+* Netlify (web host)
+* Dreamhost (this is where I bought my domain name)
+* See [[garden/Purpose and Guidelines\|Purpose and Guidelines]] for the  full list of tools in my personal knowledge management system (PKMS)
+
+Suggestions from folks who have been doing this longer than I have:
+* [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening/)
+* [Digital Gardening Tools and Resources](https://github.com/MaggieAppleton/digital-gardeners)
+
+**Examples**
+The [Obsidian Garden Gallery](https://obsidian-gallery.craftengineer.com/) provides a list of gardens published online from Obsidian.
+
+
 ## Max's brainstorming
 > [!NOTE]
 > This is some brainstorming I did before setting up my digital garden. I thought about how I could tie ideas of real-world gardening and landscaping into this, read about hypertext art/expression, and browsed a bunch of other digital gardens for inspiration.
@@ -40,9 +64,7 @@ Ideas:
 	- (like animal crossing)
 
 [[garden/Purpose and Guidelines\|Purpose and Guidelines]]
-
-<iframe src="https://walky.space/digitalgarden" width="90%" height="500" allow="autoplay"></iframe>
-
+[walky.space/digitalgarden](https://walky.space/digitalgarden)
 
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
 
@@ -54,7 +76,6 @@ The [ObsidianMD subreddit](https://www.reddit.com/r/ObsidianMD) has been a vital
 Link: [github.com/max-writes/digital-garden-tos](https://github.com/max-writes/digital-garden-tos)
 
 > I have a right to be wrong or incomplete in my Digital Garden, either due to paucity of time or knowledge. You will not hold this, or my readership, against me because I will keep learning, with your help. Everything in the Digital Garden is a living document and I will retract or rephrase things I no longer agree with.
-
 
 ### Organising a personal Knowledge Management system
 Link: [adubrg.medium.com/organising-a-personal-knowledge-management-system](https://adubrg.medium.com/organising-a-personal-knowledge-management-system-62dd0a758aa1)
@@ -85,3 +106,7 @@ WHAT I DID?
 
 > After creating this, I set a reminder to be reminded every Saturday evening to sit and write. That’s all I’ve done. And for the last four weeks, I have been working on this project. You can see my profile and check how many articles I have published.
 
+### Building a Second Brain: The Illustrated Notes
+Link: [maggieappleton.com/basb](https://maggieappleton.com/basb)
+
+> I also find the metaphor of a “second brain” troubling in that it doesn’t speak to the significance of [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) and [tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge) in how human cognition works. Filling up a “digital brain” as if it were a filing cabinet is highly unlikely to lead to meaningful knowledge and wisdom.

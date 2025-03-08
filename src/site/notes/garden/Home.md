@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-01T10:24:48.325-05:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-02-20T21:20:49.168-05:00"}
 ---
 
 
@@ -11,13 +11,13 @@ My goal for this site is to create non-linear paths of browsing and learning.
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content if you prefer:
 
-| What         | Description                                                                                                                                                                         |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| fragments    | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.** |
-| notes        | Quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.**                                |
-| trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                        |
-| #path/career | Related to my career                                                                                                                                                                |
-| #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                        |
+| What         | Description                                                                                                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| fragments    | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.**                     |
+| notes        | Structured pages for each topic/interest including quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.** |
+| trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
+| #path/career | Related to my career                                                                                                                                                                                    |
+| #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
 
 Thank you for your patience while I get things organized.
 
@@ -33,9 +33,7 @@ This site is *always* a work in progress.
 
 To do 
 - [ ] Improve image and video syncing & embedding (it's ugly)
-- [ ] Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp)
-- [ ] Check all links - some unpublished pages are linked
-- [ ] Can I use a customized "page not found" template 
+- [ ] Can I use a customized "page not found" template ([maybe](https://docs.netlify.com/routing/redirects/redirect-options/#custom-404-page-handling))
 - [ ] How to get dataview plugin stuff to publish to site?
 - [ ] Why does this to do list look so weird on the site?
 
@@ -48,4 +46,8 @@ To do
 	- [ ] Move the tags to the top of the doc for consistency across site
 
 - [ ] Mobile view - add padding somehow? I like this theme but I don't like that it runs without margins in mobile 
+
+**Completed**
 - [x] Folder structure is not publishing properly ✅ 2025-02-01 (I fixed this by updating the path rewrite rules in the Digital Garden plugin - basically, I didn't really fix the issue but updating my navigation bar got rid of it)
+- [x] Review published files for issues (e.g., hashtags that are actually the pound sign being used as the word "number" are converted to a tag, womp womp) ✅ 2025-02-20
+- [x] Check all links - some unpublished pages are linked (I've decided this is ok - those are future published pages) ✅ 2025-02-20

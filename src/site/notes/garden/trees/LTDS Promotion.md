@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/LTDS Promotion.md","permalink":"/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-01-31T23:06:43.847-05:00"}
+{"dg-publish":true,"dg-path":"trees/LTDS Promotion.md","permalink":"/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-02-20T21:10:55.442-05:00"}
 ---
 
 #topic/writing #path/career 
@@ -19,7 +19,7 @@ Here’s the briefest of summaries of my career so far:
 
 In No. 2-4 there was a lot of writing involved in my job and I grew to love it. I found myself researching best practice and expanding my understanding of how to present and communicate information for a job that wasn’t focused on that at all.
 
-After I was promoted into #5, something clicked and I knew it was time to pursue a career where the primary focus of my position would be documentation. (Of course, we all have other duties as assigned.)
+After I was promoted into no. 5 above, something clicked and I knew it was time to pursue a career where the primary focus of my position would be documentation. (Of course, we all have other duties as assigned.)
 
 ## Learning Technology Documentation Specialist
 

@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-02-15T13:49:33.794-05:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-03-08T15:25:48.176-05:00"}
 ---
 
 # Site Updates
 The date is when I uploaded the batch, not necessarily when I made the change. This page includes major updates only (significant new content, new pages, deleted pages).
+
+## March 8, 2025
+* Added: **Identity**, **Creativity** 
+* Updated: **Digital Gardens**, **Purpose and Guidelines**, **Homepage**, **Mental Health**
 ## February 15, 2025
-* Added pages: **NAS**, **Writing**, **Technology**, **Learning and Teaching**, **Knowledge**, **Information Management**, **Education**, **Updates**
-* Added content: **TIL**, **Now**, **Social Media**
+* Added: **NAS**, **Writing**, **Technology**, **Learning and Teaching**, **Knowledge**, **Information Management**, **Education**, **Updates**
+* Updated: **TIL**, **Now**, **Social Media**
 
 ## February 1, 2025
 Site initiation!
