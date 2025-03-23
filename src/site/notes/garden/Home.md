@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-03-22T21:36:05.136-04:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-03-22T22:20:30.908-04:00"}
 ---
 
 
@@ -17,6 +17,7 @@ It's not perfect; you'll find a little bit of everything everywhere, but here ar
 | trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
 | #path/career | Related to my career                                                                                                                                                                                    |
 | #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
+
 Thank you for your patience while I get things organized.
 
 ---

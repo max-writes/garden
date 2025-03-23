@@ -49,6 +49,7 @@ It's not perfect; you'll find a little bit of everything everywhere, but here ar
 | trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
 | #path/career | Related to my career                                                                                                                                                                                    |
 | #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
+
 Thank you for your patience while I get things organized.
 
 ---
