@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/instructions/NAS.md","permalink":"/trees/instructions/nas/","created":"2025-02-15T11:26:20.906-05:00","updated":"2025-02-15T12:38:48.891-05:00"}
+{"dg-publish":true,"dg-path":"trees/instructions/NAS.md","permalink":"/trees/instructions/nas/","created":"2025-02-15T11:26:20.906-05:00","updated":"2025-03-18T20:14:02.635-04:00"}
 ---
 
-#topic/nas #type/how-to|
-
+#type/how-to #notes/technology #notes/content-management 
 # NAS (Network Attached Server)
 
 > [!INFO] Audience note

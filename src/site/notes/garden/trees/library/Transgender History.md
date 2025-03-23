@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Transgender History.md","permalink":"/trees/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-02-01T00:44:47.145-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Transgender History.md","permalink":"/trees/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-03-19T13:01:09.598-04:00"}
 ---
 
-
+#topic/lgbtq #notes/identity 
 # Transgender History
-
+by Susan Stryker
+## Summary
+A chronological account of transgender theory documents major movements, writings, and events, offering insight into the contributions of key historical figures while discussing treatments of transgenderism in pop culture. 
 ## My review
-
 I’m trans. (Hi.)
 
 I didn’t identify that about myself until a few years ago. I always knew something was ‘off’ and in some ways, even as a child, I always knew I wasn’t a girl. At the time, I had constant wishful thinking about being a boy, even though I knew that wasn’t it either. (It was the only other gender I knew at the time, therefore I thought that if I wasn’t a girl that MUST mean I’m a boy.) When I fantasized about my life/future, I always held non-traditional roles; even at 10 years old I knew I didn’t want to get married, be a wife, fulfill expectations of a woman, or have kids. That was my understanding of it back then.
@@ -27,20 +28,21 @@ In reading other reviews of the book, I saw that this appears to be one of the o
 
 Written: 7/19/22
 
+## Quotes
 
 ---
-tags: #type/book-rec #topic/lgbtq
-title: Transgender History : 
-author: [Susan Stryker]
-category: [Social Science]
 
-description: A chronological account of transgender theory documents major movements, writings, and events, offering insight into the contributions of key historical figures while discussing treatments of transgenderism in pop culture. Original.
-
-publisher: 
-published: 2008-05-06
-total pages: 210
-isbn: 158005224X 9781580052245
-
-
-created: 2025-01-07 20:34:05
-updated: 2025-01-07 20:34:05
+> [!abstract] Metadata
+> title: *Transgender History*
+> 
+> author: Susan Stryker
+> 
+> genre: Social Science
+> 
+> publisher: {{publisher}}
+> 
+> published: 2008-05-06
+> 
+> total pages: 210
+> 
+> isbn: 158005224X 9781580052245

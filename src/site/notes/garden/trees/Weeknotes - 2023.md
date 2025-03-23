@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Weeknotes - 2023.md","permalink":"/trees/weeknotes-2023/","created":"2024-12-14T13:48:24.460-05:00","updated":"2025-01-31T23:08:01.903-05:00"}
+{"dg-publish":true,"dg-path":"trees/Weeknotes - 2023.md","permalink":"/trees/weeknotes-2023/","created":"2024-12-14T13:48:24.460-05:00","updated":"2025-03-18T20:11:58.367-04:00"}
 ---
 
 #type/weeknotes #max/lessons-learned #path/career 

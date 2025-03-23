@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Reading Habits Reflection.md","permalink":"/trees/reading-habits-reflection/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-02-01T18:25:36.921-05:00"}
+{"dg-publish":true,"dg-path":"trees/Reading Habits Reflection.md","permalink":"/trees/reading-habits-reflection/","created":"2024-12-31T17:36:43.373-05:00","updated":"2025-03-18T20:09:28.600-04:00"}
 ---
 
-
+#notes/books #topic/reading
 # Reading habits
 
 When I am reading I am reading three books at a time, at least. one audiobook while I am sitting on my couch taking notes or driving, one ebook while I'm waiting for my turn or I'm sitting somewhere dark, and a physical book which I always forget to bring with me but which I end up reading for hours some random Sunday afternoon. 

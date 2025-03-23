@@ -1,10 +1,29 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Writing.md","permalink":"/notes/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-03-08T15:21:02.021-05:00"}
+{"dg-publish":true,"dg-path":"notes/Writing.md","permalink":"/notes/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-03-22T21:27:58.029-04:00"}
 ---
 
+#notes/writing
 
+*In progress.*
 # Writing
-Add: About, Definitions, links to my writing, my history
+## About
+Definitions
+History/timeline
+### Best practices
+### Supporting my learning
+- [[garden/trees/10 Years of Doc Work\|10 Years of Doc Work]]
+- [[garden/trees/library/Dysfunctional Documents\|Dysfunctional Documents]]
+- [[garden/trees/library/Shady Characters\|Shady Characters]]
+
+TBR pile:
+- A History of Writing
+
+## My experience
+- [[garden/trees/Autobiography of a Writer\|Autobiography of a Writer]]
+- [[garden/trees/Writer Mission Statement\|Writer Mission Statement]]
+- [[garden/trees/Writing Process\|Writing Process]]
+
+I'm a writer. Going to upload all my old writing somewhere and link it here.
 
 ## Quotes
 
@@ -20,3 +39,17 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 
 > Whatever the format of the story, whether related as an oral presentation, a blockbuster movie, or even a bestselling novel, storytelling has the function of reinforcing societal norms, and tracing the history of who we are, our collective identity, the very essence of our humanity.
 ---
+
+## Links
+
+
+> [!example] ## Garden
+> - [[garden/notes/Stories\|Stories]]
+> - [[garden/notes/Mental Health\|Mental Health]]
+> - [[garden/notes/Creativity\|Creativity]]
+> - [[garden/notes/Communication\|Communication]]
+> - [[garden/notes/Technology\|Technology]]
+> - #path/career 
+> - #type/weeknotes 
+> - #type/how-to 
+

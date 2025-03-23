@@ -1,10 +1,21 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Mental Health.md","permalink":"/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-03-08T15:24:02.348-05:00"}
+{"dg-publish":true,"dg-path":"notes/Mental Health.md","permalink":"/notes/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-03-22T21:21:42.774-04:00"}
 ---
 
+#notes/mental-health
 
+*In progress.*
 # Mental Health
-Add: About, Definitions, Therapy/survey, Zines, Reaction vs response, Neuropsychology, Support
+Therapy/survey, Reaction vs response, Neuropsychology, life tracking
+## About
+Definitions
+History/timeline
+### Supporting my learning
+- [[garden/trees/library/Digital Minimalism\|Digital Minimalism]]
+- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
+- [[garden/trees/library/I Didn’t Do the Thing Today\|I Didn’t Do the Thing Today]]
+- [[garden/trees/library/Routines and Ruts\|Routines and Ruts]]
+- [[garden/trees/library/The Little Book of Hygge\|The Little Book of Hygge]]
 
 ## Quotes
 
@@ -29,3 +40,13 @@ Link: https://joshuad31.com/whats-it-like-to-have-sleep-apnea-bf4eb0f4b6
 Link: [psyche.co/guides/to-start-to-heal-from-trauma-in-your-life-write-about-it](https://psyche.co/guides/to-start-to-heal-from-trauma-in-your-life-write-about-it)
 
 > Life writing is about giving pause to the self to deal with this ‘mound of reflections’ and review one’s life from a critical distance. Simply put, it is nonfiction writing on a person’s life and experiences reconstructed from memory and linked to a larger theme of universal concern.
+
+## Links
+
+
+> [!example] ## Garden
+> - #topic/life-tracking 
+> - #topic/neurodivergent 
+> - #topic/productivity
+> - #topic/rest
+

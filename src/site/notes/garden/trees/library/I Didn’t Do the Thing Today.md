@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/I Didn’t Do the Thing Today.md","permalink":"/trees/library/i-didn-t-do-the-thing-today/","created":"2024-12-14T13:03:08.680-05:00","updated":"2025-02-01T00:31:54.743-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/I Didn’t Do the Thing Today.md","permalink":"/trees/library/i-didn-t-do-the-thing-today/","created":"2024-12-14T13:03:08.680-05:00","updated":"2025-03-19T12:51:29.984-04:00"}
 ---
 
-# I Didn't Do the Thing Today
+#notes/process #notes/creativity #topic/productivity 
+# I Didn't Do the Thing Today : Letting Go of Productivity Guilt
+by Madeleine Dore
+## Summary
+How to release productivity guilt and embrace the hidden values in our daily lives. Any given day brings a never-ending list of things to do. There’s the work thing, the catch-up thing, the laundry thing, the creative thing, the exercise thing, the family thing, the thing we don’t want to do, and the thing we’ve been putting off, despite it being the most important thing. Even on days when we get a lot done, the thing left undone can leave us feeling guilty, anxious, or disappointed. After five years of searching for the secret to productivity, Madeleine Dore discovered there isn’t one. Instead, we’re being set up to fail. I Didn’t Do the Thing Today is the inspiring call to take productivity off its pedestal—by dismantling our comparison to others, aspirational routines, and the unrealistic notions of what can be done in a day, we can finally embrace the joyful messiness and unpredictability of life. For anyone who has ever felt the pressure to do more, be more, achieve more, this antidote to our doing-obsession is the permission slip we all need to find our own way.
 
 ## My review
 About a decade ago I found out the “21 days to build a habit” myth was built on a misinterpretation of text (perhaps intentional just to make money) and I suddenly felt free of the “rules” people set for creating habits. It’s been wonderful but still very difficult since I suck at recognizing my own patterns over time unless I’m regularly documenting, which is a habit and therefore another thing I have had trouble keeping up with consistently. I’ve been obsessed with what goes into forming a routine or habit for most of my life because for most of my life, it’s been a real struggle to stick to anything.
@@ -52,18 +56,18 @@ I can already tell this is going to be one of those books I read every few years
 Written: 5/29/23
 
 ---
-tags: #type/book-rec #topic/productivity #topic/process 
-title: I Didn't Do the Thing Today : Letting Go of Productivity Guilt
-author: [Madeleine Dore]
-category: [Self-Help]
 
-description: How to release productivity guilt and embrace the hidden values in our daily lives. Any given day brings a never-ending list of things to do. There’s the work thing, the catch-up thing, the laundry thing, the creative thing, the exercise thing, the family thing, the thing we don’t want to do, and the thing we’ve been putting off, despite it being the most important thing. Even on days when we get a lot done, the thing left undone can leave us feeling guilty, anxious, or disappointed. After five years of searching for the secret to productivity, Madeleine Dore discovered there isn’t one. Instead, we’re being set up to fail. I Didn’t Do the Thing Today is the inspiring call to take productivity off its pedestal—by dismantling our comparison to others, aspirational routines, and the unrealistic notions of what can be done in a day, we can finally embrace the joyful messiness and unpredictability of life. For anyone who has ever felt the pressure to do more, be more, achieve more, this antidote to our doing-obsession is the permission slip we all need to find our own way.
-
-publisher: Penguin
-published: 2022-01-11
-total pages: 305
-isbn: 0593419146 9780593419144
-
-
-created: 2025-01-07 20:24:52
-updated: 2025-01-07 20:24:52
+> [!abstract] Metadata
+> title: *I Didn't Do the Thing Today : Letting Go of Productivity Guilt*
+> 
+> author: Madeleine Dore
+> 
+> genre: Self-Help
+> 
+> publisher: Penguin
+> 
+> published: 2022-01-11
+> 
+> total pages: 305
+> 
+> isbn: 0593419146 9780593419144

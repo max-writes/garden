@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/are dot na.md","permalink":"/trees/library/are-dot-na/","created":"2024-12-19T23:18:40.031-05:00","updated":"2025-01-31T23:05:04.995-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/are dot na.md","permalink":"/trees/library/are-dot-na/","created":"2024-12-19T23:18:40.031-05:00","updated":"2025-03-18T20:17:09.955-04:00"}
 ---
 
-
-#topic/social-media #topic/knowledge 
-
+#topic/social-media #notes/knowledge 
 # 1 year with are.na
 
 https://www.are.na/max-bones/channels

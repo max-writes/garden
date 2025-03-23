@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Autobiography of a Writer.md","permalink":"/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-01-31T23:05:09.326-05:00"}
+{"dg-publish":true,"dg-path":"trees/Autobiography of a Writer.md","permalink":"/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-03-18T20:01:08.514-04:00"}
 ---
 
-#topic/writing #path/career 
-
+#notes/writing #path/career
 # Autobiography of a writer 
 
 In elementary school, my primary goal was to learn cursive. By middle school, I wanted to publish a great work of non-fiction that would change perspectives and help people see their value. In high school, everyone encouraged me to write fiction instead, but by the end of college I knew that wasn’t the right path.

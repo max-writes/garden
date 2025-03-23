@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-02-01T00:27:14.055-05:00"}
+{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-03-18T20:26:55.363-04:00"}
 ---
 
-
+#notes/mental-health 
 # Good things list
 (ongoing and updated irregularly)
 

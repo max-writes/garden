@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-08T15:13:05.484-05:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-22T21:43:50.492-04:00"}
 ---
 
- #topic/information-management
-
-# Digital gardens
+ #notes/content-management #topic/digital-gardens 
+# Digital Gardens
+## About
 **What is a digital garden?** In short, it's a website where someone shares knowledge in development. It's both a personal wiki and a blog, a place where one is wrong publicly and refines their ideas (and pages) over time. 
 
 It's a place of discovery where your interests take focus. You learn, write, rest, and then return to learn and write some more. Unlike most traditional "blogs," your entries might change as you grow in your understanding of the things you write about.
@@ -30,6 +30,8 @@ Suggestions from folks who have been doing this longer than I have:
 **Examples**
 The [Obsidian Garden Gallery](https://obsidian-gallery.craftengineer.com/) provides a list of gardens published online from Obsidian.
 
+### Best practices
+### Supporting my learning
 
 ## Max's brainstorming
 > [!NOTE]
@@ -110,3 +112,13 @@ WHAT I DID?
 Link: [maggieappleton.com/basb](https://maggieappleton.com/basb)
 
 > I also find the metaphor of a “second brain” troubling in that it doesn’t speak to the significance of [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) and [tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge) in how human cognition works. Filling up a “digital brain” as if it were a filing cabinet is highly unlikely to lead to meaningful knowledge and wisdom.
+
+
+> [!example] ## Garden
+> - [[garden/notes/Knowledge\|Knowledge]]
+> - [[garden/notes/Content Management\|Content Management]]
+> - [[garden/notes/Websites\|Websites]]
+> - #topic/digital-gardens
+
+
+

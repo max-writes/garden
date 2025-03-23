@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-02-01T11:53:26.606-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-03-19T13:02:15.195-04:00"}
 ---
 
-
+#tagTBD
 # Unsinkable
-
+by Debbie Reynolds
+## Summary
 ## My review
 
 I read the book _Unsinkable_ by Debbie Reynolds because the audiobook was on sale (that’s the only reason I bought it). The book fit nicely into a theme for the book challenge I joined this year.
@@ -22,3 +23,18 @@ All my complaints and quips aside, something she said in this book will stick wi
 Written: 1/7/24
 
 ---
+
+> [!abstract] Metadata
+> title: *Unsinkable*
+> 
+> author: Debbie Reynolds
+> 
+> genre: Biography
+> 
+> publisher: {{publisher}}
+> 
+> published: {{publishDate}}
+> 
+> total pages: {{totalPage}}
+> 
+> isbn: {{isbn10}} {{isbn13}}

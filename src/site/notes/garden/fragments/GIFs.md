@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/GIFs.md","permalink":"/fragments/gi-fs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-02-15T13:26:15.829-05:00"}
+{"dg-publish":true,"dg-path":"fragments/GIFs.md","permalink":"/fragments/gi-fs/","created":"2024-12-16T17:47:22.262-05:00","updated":"2025-03-22T20:59:38.677-04:00"}
 ---
 
-Add: History, Definitions, organize notes & links
+
 # Graphics Interchange Format (gifs)
 
 https://youtu.be/vuxKb5mxM8g?si=cPrr1RkUdswUF3Vl
@@ -12,6 +12,9 @@ https://youtu.be/y0MSN7MRUcU?si=ceqMdF31Zh9_7fpg
 https://youtu.be/FDnRX1HW4RQ?si=MVAhLDzM6CSCXc0J
 https://youtu.be/2LzyRcLJdlg?si=HuFK-kXN7LAo-Uj6
 
+https://neonaut.neocities.org/cyber/88x31
+https://web.archive.org/web/20160304041350/http://design.osu.edu/carlson/history/ACCAD-overview/lesson1.html
+https://hekate2.github.io/buttonmaker/
 
 what is a gif?
 - graphics interchange format 

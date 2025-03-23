@@ -1,9 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-03-08T15:25:48.176-05:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-03-22T22:15:54.945-04:00"}
 ---
 
+#path/faq 
 # Site Updates
-The date is when I uploaded the batch, not necessarily when I made the change. This page includes major updates only (significant new content, new pages, deleted pages).
+This page includes major updates only (significant new content, new pages, deleted pages). The date is when I uploaded the batch, not necessarily when I made the change. 
+
+## March 22, 2025
+- Added: **Copyright**, **Zines**, **Communication**, **Stories**, **Asia**, **Europe**, **Antarctica**, **Australia**, **Africa**, **North America**, **South America**, **Process**, **Books**, **Websites**, **Photo Journal**, **Agile Certified Professional**, **Digital Minimalism**, **Dysfunctional Documents**, **GIFs**, **Zines**, **Seasons**, **Spring**
+- Updated: **Living Seasons**, **Content Management**, **Purpose and Guidelines**
+	- Updated all notes pages to standardize outline/template
+	- Added hard connections on notes pages to other places around the garden, cleaned up tags a bit
+	- Updated the published library / book pages to match new book page template
 
 ## March 8, 2025
 * Added: **Identity**, **Creativity** 

@@ -1,9 +1,27 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/African History.md","permalink":"/trees/library/african-history/","created":"2024-12-20T18:06:14.338-05:00","updated":"2025-02-01T00:35:24.720-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/African History.md","permalink":"/trees/library/african-history/","created":"2024-12-20T18:06:14.338-05:00","updated":"2025-03-19T12:36:46.333-04:00"}
 ---
 
+#notes/africa 
+# African History: Explore The Amazing Timeline of The World’s Richest Continent - The History, Culture, Folklore, Mythology & More of Africa
+by History Brought Alive
 
-# African History
+## Summary
+From the birthplace of civilization to modern times, African History tells the most exquisite tales of woe and wonder using reliable, fact-checked written resources and discoveries from world-renowned archeologists.
+
+Journey with us on the shoulders of the very first peoples of Africa across a riveting timeline of events. Explore the true history, facts, myths and drama that will have you curling your toes in awe and anticipation.
+
+Here is a small taster of what’s inside this book:
+
+- Major Figures, Key Events, Politics & Milestones in African History
+- Fascinating Folktales, Myths & Legends, inc The Flying Tortoise, Lion & The Jackal, The Giants & Many More
+- The Birth of Human Civilization - Learn About The Origins of Humanity in Africa
+- Long Lost Kingdoms, inc Ancient Egypt, The Kingdom of Kush, The Land of Punt, Carthage, The Great Zimbabwe & Many More
+- The Amazing Story of The Nubian Queen Who Fought Back Against Caesar's Powerful Roman Empire
+- The Israelites & Their Amazing Journey Across The Nile River from Asia and into Africa, where they settled Nubia
+- Rituals, Tribes & Traditions From Centuries of African Heritage
+- The Zulu Wars - Epic Battles, Christianity & The British Empire In South Africa
+
 ## My review
 This isn't a usual history book. It was dense with folktales and stories of kingdoms and tribes across African history. If you're looking for a traditional history book with chapters spanning specific time periods and providing historical accounts, this is not for you.
 
@@ -20,36 +38,21 @@ Some stories that stood out:
 - Africans getting a gun from a white dude and then using it to conquer other Africans. I mean at no surprise the British came and did what the Dutch could not do alone: conquer, sieze, and change everything.
 - An incredible amount of creation stories, many similar but all taking a unique path to how humans got here.
 - all people, from the beginning of time, engage in creative activities, music, dance, and collaborative projects.
-
+## Quotes
 
 ---
-tags: #type/book-rec #topic/african-history
-title: African History: Explore The Amazing Timeline of The World’s Richest Continent - The History, Culture, Folklore, Mythology & More of Africa
-author: [History Brought Alive]
-category: [History]
 
-description: From the birthplace of civilization to modern times, African History tells the most exquisite tales of woe and wonder.
-
-Using reliable, fact-checked written resources and discoveries from world-renowned archeologists, History Brought Alive presents African History.
-
-Journey with us on the shoulders of the very first peoples of Africa across a riveting timeline of events. Explore the true history, facts, myths and drama that will have you curling your toes in awe and anticipation.
-
-Here is a small taster of what’s inside this book:
-
-- Major Figures, Key Events, Politics & Milestones in African History
-- Fascinating Folktales, Myths & Legends, inc The Flying Tortoise, Lion & The Jackal, The Giants & Many More
-- The Birth of Human Civilization - Learn About The Origins of Humanity in Africa
-- Long Lost Kingdoms, inc Ancient Egypt, The Kingdom of Kush, The Land of Punt, Carthage, The Great Zimbabwe & Many More
-- The Amazing Story of The Nubian Queen Who Fought Back Against Caesar's Powerful Roman Empire
-- The Israelites & Their Amazing Journey Across The Nile River from Asia and into Africa, where they settled Nubia
-- Rituals, Tribes & Traditions From Centuries of African Heritage
-- The Zulu Wars - Epic Battles, Christianity & The British Empire In South Africa
-
-And much, much more
-
-Whether you're a history enthusiast or a curious reader...inside you will discover all you need to know about the true story of African History.
-
-publisher: Amazon
-published: 2022-08-29
-total pages: 230
-asin: B0B9X8S45G
+> [!abstract] Metadata
+> title: *African History: Explore The Amazing Timeline of The World’s Richest Continent - The History, Culture, Folklore, Mythology & More of Africa*
+> 
+> author: History Brought Alive
+> 
+> genre: History
+> 
+> publisher: Amazon 
+> 
+> published: 2022-08-29
+> 
+> total pages: 230
+> 
+> asin: B0B9X8S45G

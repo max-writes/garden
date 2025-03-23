@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/instructions/Change DNS.md","permalink":"/trees/instructions/change-dns/","created":"2024-12-14T14:09:54.808-05:00","updated":"2025-01-31T23:05:30.623-05:00"}
+{"dg-publish":true,"dg-path":"trees/instructions/Change DNS.md","permalink":"/trees/instructions/change-dns/","created":"2024-12-14T14:09:54.808-05:00","updated":"2025-03-18T20:16:06.926-04:00"}
 ---
 
-#topic/web #type/how-to|
-
+#type/how-to #notes/technology #notes/websites 
 # Purchase and Update Nameservers for a New Domain 
 
 ## Context

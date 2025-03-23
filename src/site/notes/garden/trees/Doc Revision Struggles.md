@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Doc Revision Struggles.md","permalink":"/trees/doc-revision-struggles/","created":"2024-12-14T14:00:20.942-05:00","updated":"2025-02-01T00:24:20.959-05:00"}
+{"dg-publish":true,"dg-path":"trees/Doc Revision Struggles.md","permalink":"/trees/doc-revision-struggles/","created":"2024-12-14T14:00:20.942-05:00","updated":"2025-03-18T20:01:58.176-04:00"}
 ---
 
-#topic/writing #topic/process #max/lessons-learned 
-
+#max/lessons-learned #notes/writing #notes/process
 # Struggles of revising and rewriting
 When I began to rewrite one of our major platform/process guides in July 2022, it was such an exciting event for me that I took notes on what I learned. There was a lot to unpack and decompress about what I found and it was extremely helpful to identify gaps in documentation training – how to approach additions, styling and formatting, etc.
 

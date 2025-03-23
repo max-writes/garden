@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Master Guide Approach.md","permalink":"/trees/master-guide-approach/","created":"2024-12-14T14:07:39.551-05:00","updated":"2025-02-01T11:54:37.106-05:00"}
+{"dg-publish":true,"dg-path":"trees/Master Guide Approach.md","permalink":"/trees/master-guide-approach/","created":"2024-12-14T14:07:39.551-05:00","updated":"2025-03-18T20:08:44.278-04:00"}
 ---
 
-#topic/content-management #max/lessons-learned
-
+#max/lessons-learned #notes/content-management #notes/writing 
 # Master Guide approach to support team user guides
 
 ## Business Problem

@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/The Ghost - A Cultural History.md","permalink":"/trees/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-02-01T00:40:38.557-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/The Ghost - A Cultural History.md","permalink":"/trees/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-03-19T12:56:23.941-04:00"}
 ---
 
-
+#topic/ghost-stories 
 # The Ghost: A Cultural History
+by Susan Owens
+## Summary
+Ghosts are woven into the very fabric of British life. Their enduring popularity in literature, art, folklore and film attests to their continuing power to fascinate, terrify and inspire. Our conceptions of ghosts - the fears that they provoke, the forms they take - personifies our shared past, reminding us of the layers of history beneath our feet and of old stories and timeless terrors that refuse to be erased. In this broad cultural history, Susan Owens reveals what these spirits and apparitions can tell us about our culture and about ourselves, and explores how ghosts have inhabited a wide range of roles from medieval times to the present day. A dazzling range of artists are featured, including William Blake, Henry Fuseli, Dante Gabriel Rossetti, John Everett Millais, Paul Nash and Jeremy Deller, alongside writers such as John Donne, William Shakespeare, Samuel Pepys, Daniel Defoe, Mary Shelley, Emily Brontë, Charles Dickens, Thomas Hardy, Hilary Mantel and Sarah Waters.
 ## My review
-
 It took me 3 years to read this book, but I started reading it as soon as I got it and then I guess I decided to only read it around Halloween times so it took a while.
 
 I decided to go ahead and finish it instead of waiting for next September to roll around. I got stuck inside some of the stories I was reading and it finally felt like a shame to put it down for a year! (Besides, it’s spooky all the time for me.) Then I took ONLY this book (+ reading journal) on a road trip and read from it all 3 nights I was stuck out there in a snowstorm just a few hours from home. It was so nice to finish it and flip through all my notes and discoveries. Even though journaling while reading a book takes _so much_ more time than just reading it, I think I am leaning towards preferring that process. I get a lot more out of the experience of reading the book, not to mention a notebook full of ideas and feelings. In this case, feelings about ghosts.
@@ -67,19 +69,21 @@ rich ghosts_
 
 Written: 1/19/22
 
+## Quotes
+
 ---
-tags: #type/book-rec #topic/ghost-stories #topic/spooky 
-title: The Ghost : A Cultural History
-author: [Susan Owens]
-category: [Social Science]
 
-description: Ghosts are woven into the very fabric of British life. Their enduring popularity in literature, art, folklore and film attests to their continuing power to fascinate, terrify and inspire. Our conceptions of ghosts - the fears that they provoke, the forms they take - personifies our shared past, reminding us of the layers of history beneath our feet and of old stories and timeless terrors that refuse to be erased. In this broad cultural history, Susan Owens reveals what these spirits and apparitions can tell us about our culture and about ourselves, and explores how ghosts have inhabited a wide range of roles from medieval times to the present day. A dazzling range of artists are featured, including William Blake, Henry Fuseli, Dante Gabriel Rossetti, John Everett Millais, Paul Nash and Jeremy Deller, alongside writers such as John Donne, William Shakespeare, Samuel Pepys, Daniel Defoe, Mary Shelley, Emily Brontë, Charles Dickens, Thomas Hardy, Hilary Mantel and Sarah Waters.
-
-publisher: Tate
-published: 2019-10-01
-total pages: 0
-isbn: 1849766460 9781849766463
-
-
-created: 2025-01-07 20:29:48
-updated: 2025-01-07 20:29:48
+> [!abstract] Metadata
+> title: *The Ghost : A Cultural History*
+> 
+> author: Susan Owens
+> 
+> genre: Social Science
+> 
+> publisher: Tate
+> 
+> published: 2019-10-01
+> 
+> total pages: {{totalPage}}
+> 
+> isbn: 1849766460 9781849766463

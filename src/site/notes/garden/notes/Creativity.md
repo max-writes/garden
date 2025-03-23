@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-03-08T15:15:15.839-05:00"}
+{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-03-22T21:28:53.400-04:00"}
 ---
 
+#notes/creativity
 
+*In progress.*
 # Creativity 
+## About
 If you look up the word "creativity" you get a lot of definitions, some of which are based on individual ideas of what creativity means to them. It's one of those words that people feel is open to interpretation and personalization, and I like that.
 
 The Google result says: **the use of the imagination or original ideas, especially in the production of an artistic work.** This comes from Oxford Languages dictionaries (they make the OED).
@@ -17,10 +20,10 @@ The emphasis in these definitions is on **unique ideas** and **making something 
 I am a creative person and have never had an "imposter syndrome" about it. Since childhood I've been into making things of different mediums, an adaptable person with a fountain of ideas who seeks to deeply understand the human experience. I've spent my life seeing creativity in others where they find themselves lacking simply because they can't create just like their favorite artists. I've dedicated a lot of time and energy to helping them get out of that rut and see that their imagination is keeping them creative, even if their hands aren't.
 
 Love is my biggest muse. When I'm in love, all I want to do is make stuff. My second biggest muse lies on the opposite end of the spectrum: heartache. Between the two of these extremes I struggle to find my creative voice; this is why I let myself get swept away into crushes and fall in love with everything. 
+### Supporting my learning
 
-## My creations
-* Free zines to print: [Zine Library](https://zinetherapy.neocities.org/library)
-* Free self-directed alternative to therapy: [Zine Therapy](https://zinetherapy.neocities.org/)
+## My experiences/creations
+I have been a creative person my whole life.
 
 The types of art I get into making sometimes:
 * Zines
@@ -39,9 +42,17 @@ The types of art I used to do before my tremor got worse:
 
 
 ### Maintenance 
-
 from *The Artist's Way: A Spiritual Path to Higher Creativity* by Julia Cameron (published in 1992, reprinted in 2002)
 
 > Art is an image-using system. In order to create, we draw from our inner well. This inner well, an artistic reservoir, is ideally like a well-stocked trout pond. We’ve got big fish, little fish, fat fish, skinny fish—an abundance of artistic fish to fry. As artists, we must realize that we have to maintain this artistic ecosystem. If we don’t give some attention to upkeep, our well is apt to become depleted, stagnant, or blocked. Any extended period or piece of work draws heavily on our artistic well. Over tapping the well, like overfishing the pond, leaves us with diminished resources. We fish in vain for the images we require. Our work dries up and we wonder why, “just when it was going so well.” The truth is that work can dry up because it is going so well.  (48)
 ---
+
+## Links
+
+
+> [!example] ## Garden
+> - [[garden/notes/Zines\|Zines]]
+> - [[garden/notes/Stories\|Stories]]
+> - [[garden/notes/Websites\|Websites]]
+> - #topic/music
 

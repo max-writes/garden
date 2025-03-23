@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Writer Mission Statement.md","permalink":"/trees/writer-mission-statement/","created":"2024-12-14T14:06:24.814-05:00","updated":"2025-01-31T23:08:18.216-05:00"}
+{"dg-publish":true,"dg-path":"trees/Writer Mission Statement.md","permalink":"/trees/writer-mission-statement/","created":"2024-12-14T14:06:24.814-05:00","updated":"2025-03-18T20:12:21.792-04:00"}
 ---
 
-
-#topic/writing #path/career 
-
-
+#notes/writing #path/career
 # Writer Mission Statement 
 
 ## Writer Mission Statement 8/8/24

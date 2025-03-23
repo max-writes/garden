@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-02-01T11:48:58.662-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-03-18T20:19:04.276-04:00"}
 ---
 
-
-#type/app-rec #topic/life-tracking 
-
-
+#topic/life-tracking 
 # Finch
 
 I wouldn’t call this a professional tech review, but I wanted to get my thoughts down for the [Finch app](https://finchcare.com/). This post captures the experience and benefits of using this app via my reflection after 2 ½ years of use.

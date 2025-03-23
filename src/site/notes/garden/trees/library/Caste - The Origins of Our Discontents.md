@@ -1,9 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Caste - The Origins of Our Discontents.md","permalink":"/trees/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-02-01T00:36:06.961-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Caste - The Origins of Our Discontents.md","permalink":"/trees/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-03-19T12:37:04.717-04:00"}
 ---
 
-
+#notes/north-america 
 # Caste : The Origins of Our Discontents
+by Isabel Wilkerson
+## Summary
+The Pulitzer Prize-winning author of *The Warmth of Other Suns* examines the unspoken caste system that has shaped America and shows how our lives today are still defined by a hierarchy of human divisions.
+
+“As we go about our daily lives, caste is the wordless usher in a darkened theater, flashlight cast down in the aisles, guiding us to our assigned seats for a performance. The hierarchy of caste is not about feelings or morality. It is about power—which groups have it and which do not.” 
+
+Beyond race, class, or other factors, there is a powerful caste system that influences people’s lives and behavior and the nation’s fate. Linking the caste systems of America, India, and Nazi Germany, Isabel Wilkerson explores eight pillars that underlie caste systems across civilizations, including divine will, bloodlines, stigma, and more. Using riveting stories about people—including Martin Luther King, Jr., baseball’s Satchel Paige, a single father and his toddler son, Wilkerson herself, and many others—she shows the ways that the insidious undertow of caste is experienced every day. Finally, she points forward to ways America can move beyond the artificial and destructive separations of human divisions, toward hope in our common humanity.
 ## My review 
 I’m not proud of this but I’m going to say it anyway. At some point in my life, I learned that black people have thicker skin than white people. I learned they can handle more physical pain and needles don’t work very well on them. I didn’t think to ask why; my juvenile mind reasoned that it’s because the sun burnt their skin (since they’re from Africa). Of course I learned better before I started college, then learned about more horrifying assumptions and beliefs into adulthood.
 
@@ -23,21 +30,21 @@ Suffice to say, this book will break your heart if you have any remaining attach
 
 Written: 1/22/23
 
+## Quotes
+
 ---
-### metadata
-tags: #type/book-rec #topic/american-history 
-title: Caste : The Origins of Our Discontents
-author: [Isabel Wilkerson]
-category: [Social Science]
 
-description: #1 NEW YORK TIMES BESTSELLER • NEW YORK TIMES READERS PICK: 100 BEST BOOKS OF THE 21st CENTURY • OPRAH’S BOOK CLUB PICK • “An instant American classic and almost certainly the keynote nonfiction book of the American century thus far.”—Dwight Garner, The New York Times The Pulitzer Prize-winning author of The Warmth of Other Suns examines the unspoken caste system that has shaped America and shows how our lives today are still defined by a hierarchy of human divisions—now with a new Afterword by the author. #1 NONFICTION BOOK OF THE YEAR: Time ONE OF THE BEST BOOKS OF THE YEAR: The Washington Post, The New York Times, Los Angeles Times, Boston Globe, O: The Oprah Magazine, NPR, Bloomberg, The Christian Science Monitor, New York Post, The New York Public Library, Fortune, Smithsonian Magazine, Marie Claire, Slate, Library Journal, Kirkus Reviews Winner of the Los Angeles Times Book Prize • National Book Critics Circle Award Finalist • Winner of the Carl Sandburg Literary Award • Dayton Literary Prize Finalist • PEN/John Kenneth Galbraith Award for Nonfiction Finalist • PEN/Jean Stein Book Award Finalist • Kirkus Prize Finalist “As we go about our daily lives, caste is the wordless usher in a darkened theater, flashlight cast down in the aisles, guiding us to our assigned seats for a performance. The hierarchy of caste is not about feelings or morality. It is about power—which groups have it and which do not.” Beyond race, class, or other factors, there is a powerful caste system that influences people’s lives and behavior and the nation’s fate. Linking the caste systems of America, India, and Nazi Germany, Isabel Wilkerson explores eight pillars that underlie caste systems across civilizations, including divine will, bloodlines, stigma, and more. Using riveting stories about people—including Martin Luther King, Jr., baseball’s Satchel Paige, a single father and his toddler son, Wilkerson herself, and many others—she shows the ways that the insidious undertow of caste is experienced every day. Finally, she points forward to ways America can move beyond the artificial and destructive separations of human divisions, toward hope in our common humanity.
-
-publisher: Random House Trade Paperbacks
-published: 2023-02-14
-total pages: 545
-isbn: 0593230272 9780593230275
-
-
-created: 2025-01-07 20:13:18
-updated: 2025-01-07 20:13:18
-
+> [!abstract] Metadata
+> title: *Caste : The Origins of Our Discontents*
+> 
+> author: Isabel Wilkerson
+> 
+> genre: Social Science
+> 
+> publisher: Random House Trade Paperbacks
+> 
+> published: 2023-02-14
+> 
+> total pages: 545
+> 
+> isbn: 0593230272 9780593230275

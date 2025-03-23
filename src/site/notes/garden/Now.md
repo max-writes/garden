@@ -1,10 +1,45 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-02-15T13:42:26.673-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-03-22T22:14:10.319-04:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
 [[garden/Now (archive)\|Now (archive)]]
+
+## March 22, 2025
+Just poking around the garden and adding more things so I have a good base structure set before I start diving into adding a lot of stuff. It's taken almost 2 months to get here and I still have a long way to go! I love sharing a site in progress, though.
+
+Listening to: Nothing, or actually my neighbors upstairs banging things around, as they do.
+
+What I've been doing with websites:
+* Since my last update I've mostly been working on this site. I did a lot of work adding a bunch of pages, refreshing templates to better outline what I want out of this, and updating existing pages to match!
+
+What's going on creatively:
+* I finally made my spring bingo card! I mean spring hasn't been on for very long but I did mean to make it last week.
+* I built flower Legos today and set them up very nicely in my cozy area - [[garden/fragments/spring#Spring Lego 3/22/25\|Spring Lego]]
+
+What's going on at work:
+- This last week was a crunch week, lots to do and very little time to do it! A bunch of LTI documents came in at once while I still had a few to complete, but I got everything done quickly and it seems to have impressed the people involved so that's a win! I feel 10x more proud delivering on doc projects than I do on anything else in my current position.
+- I've been slowly going through the document for our CMS to extract information relevant to our stakeholder team, update guidance related to a process that was just finalized at the beginning of March, and mark entries to create an index at the bottom of the guide. It's fun reading through a guide for multiple purposes but unfortunately slow going due to higher priority projects.
+
+## March 18, 2025
+I'm in bed and I need to feed Zenny before I fall asleep so I'm going to fill this out and then take care of her before sleep.
+
+Listening to: nothing/silence
+
+What I've been doing with websites:
+* I have been building on cryptkickers.org with more ideas, including starting a music blog and adding another old playlist! I still need to find a solution for playing music though.
+* Keeping up with overall maintenance generally okay.
+
+What's going on creatively:
+* I have been drafting my winter zine but my printer needs to be reconnected so I hit that blocker until I have enough focus energy to deal with it.
+* Mostly website stuff otherwise, though I did make a little thingy in Canva the other day for funsies.
+
+![welcome to my website_20250317_114511_0000.png](/img/user/garden/attachments/welcome%20to%20my%20website_20250317_114511_0000.png)
+
+What's going on at work:
+- Swamped because I had to take two days off last week due to tooth pain (I'm all better now). Catching up with LTI documentation. For each tool, we make guides for course developers, faculty, students, and tech support info.Without meetings it takes about a day and a half to make them all.
+- Lots of meetings 🥲
 
 ## February 15, 2025
 This is my first update to maxwrites since I figured out how to publish Obsidian to the web a few weeks ago. I haven't done much to it (I've mostly been going through the motions lately) but I did start consolidating the quotes I've gotten from various books read into topic pages which I will eventually expand upon. Lots to come!

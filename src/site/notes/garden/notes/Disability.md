@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-03-08T15:15:04.572-05:00"}
+{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-03-22T21:18:35.048-04:00"}
 ---
 
-#topic/disability 
+#notes/disability
 
+*In progress.*
 # Disability
-Add: About, Definitions, my experiences
+## About
+Definitions
+History/timeline
+### Supporting my learning
+- [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
+- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
 
 ## Quotes
 
@@ -56,8 +62,6 @@ from *Demystifying Disability: What to Know, What to Say, and How to Be an Ally*
 ---
 
 ### Education 
-#topic/education 
-
 from *Demystifying Disability: What to Know, What to Say, and How to Be an Ally* by Emily Ladau (published in 2021)
 
 > It wasn’t until 2006 in West Virginia that a group of young disabled advocates finally succeeded in pushing for state legis-lation that requires all public schools to teach students about the history of disability. So far, only a handful of other states have since followed suit. The history of disability isn’t a separate, isolated thread of human existence. It is a saga that encompasses all people and places and is deeply intertwined with who we were, are, and will become. Yet it’s still considered a niche area of study rather than necessary to understanding what shapes our society. 
@@ -66,3 +70,9 @@ from *Demystifying Disability: What to Know, What to Say, and How to Be an Ally*
 ---
 > Disability must be included in social justice movements. Excluding it isn’t just ableist; it’s directly contributing to harm.
 ---
+
+> [!example] ## Garden
+> - #topic/accessibility 
+
+
+

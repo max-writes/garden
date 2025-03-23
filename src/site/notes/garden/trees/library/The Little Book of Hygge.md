@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-02-01T11:48:22.218-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-03-19T12:59:42.666-04:00"}
 ---
 
+#topic/productivity #topic/winter #topic/rest
+# The Little Book of Hygge : Danish Secrets to Happy Living
+by Meik Wiking
+## Summary
+New York Times Bestseller Embrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being. 
 
+Why are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge—pronounced Hoo-ga—is a sense of comfort, togetherness, and well-being. "Hygge is about an atmosphere and an experience," Wiking explains. "It is about being with the people we love. A feeling of home. A feeling that we are safe." Hygge is the sensation you get when you’re cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It’s that feeling when you’re sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day. 
 
-# The Little Book of Hygge
+The Little Book of Hygge introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as: Get comfy. Take a break. Be here now. Turn off the phones. Turn down the lights. Bring out the candles. Build relationships. Spend time with your tribe. Give yourself a break from the demands of healthy living. Cake is most definitely Hygge. Live life today, like there is no coffee tomorrow. From picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.
 
 ## My review
 
@@ -39,18 +45,18 @@ It’s winter right now so it’s already a hygge season. I’m looking forward 
 Written: 2/2/22
 
 ---
-tags: #type/book-rec 
-title: The Little Book of Hygge : Danish Secrets to Happy Living
-author: [Meik Wiking]
-category: [Self-Help]
 
-description: New York Times Bestseller Embrace Hygge (pronounced hoo-ga) and become happier with this definitive guide to the Danish philosophy of comfort, togetherness, and well-being. Why are Danes the happiest people in the world? The answer, says Meik Wiking, CEO of the Happiness Research Institute in Copenhagen, is Hygge. Loosely translated, Hygge—pronounced Hoo-ga—is a sense of comfort, togetherness, and well-being. "Hygge is about an atmosphere and an experience," Wiking explains. "It is about being with the people we love. A feeling of home. A feeling that we are safe." Hygge is the sensation you get when you’re cuddled up on a sofa, in cozy socks under a soft throw, during a storm. It’s that feeling when you’re sharing comfort food and easy conversation with loved ones at a candlelit table. It is the warmth of morning light shining just right on a crisp blue-sky day. The Little Book of Hygge introduces you to this cornerstone of Danish life, and offers advice and ideas on incorporating it into your own life, such as: Get comfy. Take a break. Be here now. Turn off the phones. Turn down the lights. Bring out the candles. Build relationships. Spend time with your tribe. Give yourself a break from the demands of healthy living. Cake is most definitely Hygge. Live life today, like there is no coffee tomorrow. From picking the right lighting to organizing a Hygge get-together to dressing hygge, Wiking shows you how to experience more joy and contentment the Danish way.
-
-publisher: HarperCollins
-published: 2017-01-17
-total pages: 226
-isbn: 0062658816 9780062658814
-
-
-created: 2025-01-07 20:31:35
-updated: 2025-01-07 20:31:35
+> [!abstract] Metadata
+> title: *The Little Book of Hygge : Danish Secrets to Happy Living*
+> 
+> author: Meik Wiking
+> 
+> genre: Self-Help
+> 
+> publisher: HarperCollins
+> 
+> published: 2017-01-17
+> 
+> total pages: 226
+> 
+> isbn: 0062658816 9780062658814

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/I Want to Write.md","permalink":"/trees/i-want-to-write/","created":"2024-12-14T14:25:46.278-05:00","updated":"2025-01-31T23:06:21.574-05:00"}
+{"dg-publish":true,"dg-path":"trees/I Want to Write.md","permalink":"/trees/i-want-to-write/","created":"2024-12-14T14:25:46.278-05:00","updated":"2025-03-18T20:04:28.606-04:00"}
 ---
 
-#topic/writing #path/career 
+#path/career #notes/writing 
 # I want to write
 
 I want to write professionally. I want to write for work.

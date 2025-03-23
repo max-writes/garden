@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/2016 in e-Learning.md","permalink":"/trees/2016-in-e-learning/","created":"2024-12-14T14:04:53.447-05:00","updated":"2025-01-31T23:04:45.331-05:00"}
+{"dg-publish":true,"dg-path":"trees/2016 in e-Learning.md","permalink":"/trees/2016-in-e-learning/","created":"2024-12-14T14:04:53.447-05:00","updated":"2025-03-18T20:00:47.554-04:00"}
 ---
 
-#topic/education #topic/teaching #topic/learning 
+#notes/education #topic/teaching #topic/learning  
 # 2016 in e-learning
 
 Books to read for a snapshot of 2016 in online education

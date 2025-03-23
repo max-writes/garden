@@ -1,12 +1,22 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Learning and Teaching.md","permalink":"/notes/learning-and-teaching/","created":"2025-02-01T01:57:24.214-05:00","updated":"2025-03-08T15:19:35.597-05:00"}
+{"dg-publish":true,"dg-path":"notes/Learning and Teaching.md","permalink":"/notes/learning-and-teaching/","created":"2025-02-01T01:57:24.214-05:00","updated":"2025-03-22T21:44:14.511-04:00"}
 ---
 
-#topic/teaching #topic/learning #topic/education 
+#notes/education #notes/knowledge #topic/learning #topic/teaching
 
+*In progress.*
 # Learning and Teaching
-Add: History, Definitions, Best practice, my experiences. Learning design & tools may need to be a new page because I'll have a lot to say.
+Learning design & tools may need to be a new page because I'll have a lot to say.
+## About
+Definitions
+History/timeline
+### Best practices
+### Supporting my learning
+Books/resources
+zines
 
+## My experience
+I consider myself a lifelong learner and I am very interested in the mechanics and methodologies behind teaching and learning. I took several Graduate level learning design and technology courses in 2014-2016 which made me realize that the interest was just an interest, not a career passion.
 
 ## Quotes
 
@@ -56,6 +66,10 @@ from _Managing Technology in Higher Education: Strategies for Transforming Teac
 ---
 > Learning occurs best when learners are engaged and motivated to learn, when they are active during the learning process, and when they have some control over the learning context.
 ---
+> Skills need to be embedded within a subject or knowledge domain. Thus there are implications for setting learning goals (what is to be learned), curricula (what is to be taught), teaching methodology (how it is taught or learned), and assessment (what is to be examined or assessed). Each of these areas must be adequately addressed, if learning goals for a knowledge-based society are to be achieved.
+> ---
+> Lifelong learners are often seen as “extra” students in an already overloaded system.
+---
 
 from _Learning with E’s: Educational Theory and Practice in the Digital Age_ by Steve Wheeler (published in 2015)
 
@@ -75,6 +89,17 @@ from _Managing Technology in Higher Education: Strategies for Transforming Teac
 
 > It is not sufficient just to teach academic content. It is equally important to enable students to develop the ability to know how to find, analyze, organize, and apply information or content within their professional and personal activities, to take responsibility for their own learning, and to be flexible and adaptable in developing new knowledge and skills.
 ---
+> The Open University of Portugal (Universidade Alberta–UAb)’s move to online delivery was accompanied by a radical shift in pedagogy, away from a more didactic style of teaching, with an emphasis on comprehension, memorization, and reproduction of correct or standardized answers for assessment, toward a more constructivist approach to learning, based on reflection, discussion, and critical thinking.
+> 
+> The decision to use constructivist-based online delivery for all UAb programs, and to make the change over a period of no more than two years, was ambitious. This meant, in effect, redesigning UAb’s entire offerings.
+---
+> Because the context of teaching varies so much it is important that research on technology-based teaching be context-based.
+> 
+> The use of technology for teaching and learning needs to be strongly articulated in the academic plan, in the form of measurable strategies for learning technology. 
+> 
+> Setting overall goals for the use of technology in teaching enables an institution to identify the data that needs to be collected to assess the success or otherwise of such goals.
+---
+
 
 from _Learning with E’s: Educational Theory and Practice in the Digital Age_ by Steve Wheeler (published in 2015)
 
@@ -84,3 +109,15 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ---
 > Every successful teacher must also be a professional learner. The essence of good teaching is to get students to fall in love with learning.
 ---
+
+## Links
+
+
+> [!example] ## Garden
+> - [[garden/notes/Education\|Education]]
+> - [[garden/notes/Knowledge\|Knowledge]]
+> - #topic/learning
+> - #topic/teaching 
+
+
+

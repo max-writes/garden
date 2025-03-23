@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Knowledge.md","permalink":"/notes/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-03-08T15:17:35.020-05:00"}
+{"dg-publish":true,"dg-path":"notes/Knowledge.md","permalink":"/notes/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-03-22T21:14:47.487-04:00"}
 ---
 
-#topic/knowledge 
+#notes/knowledge
 
+*In progress.*
 # Knowledge
-Add: About, Definitions, Books/Resources, my experience/training, knowledge management best practices, MPKM
+## About
+Definitions
+History/timeline
+### Best practices
+### Supporting my learning
+Books/resources
+zines
+
+## My experiences/history
+I am on a path to learn everything I can about knowledge management!
 
 ## Quotes
 
@@ -42,3 +52,13 @@ from _Managing Technology in Higher Education: Strategies for Transforming Teac
 > 
 > Because new knowledge is being created so fast, it is impossible for someone to cover everything within a particular area of study such as engineering or medicine. Therefore the focus must be on the management of information: how to find, analyze, organize, and apply information appropriately.
 ---
+
+## Links
+
+
+
+
+> [!example] ## Garden
+> - [[garden/notes/Learning and Teaching\|Learning and Teaching]]
+> - [[garden/notes/Education\|Education]]
+

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-02-01T01:34:03.934-05:00"}
+{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-03-18T20:26:37.273-04:00"}
 ---
 
-
+#tagTBD 
 # Packing Lists
 
 ## Camping 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Routines and Ruts.md","permalink":"/trees/library/routines-and-ruts/","created":"2024-12-14T11:48:08.924-05:00","updated":"2025-01-31T23:07:21.741-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Routines and Ruts.md","permalink":"/trees/library/routines-and-ruts/","created":"2024-12-14T11:48:08.924-05:00","updated":"2025-03-18T20:21:12.647-04:00"}
 ---
 
-#type/podcast-rec #topic/productivity 
+#notes/process #topic/productivity 
 # Routines and Ruts
 
 In May I wrote my thoughts after finishing the book _I Didn’t Do the Thing Today: Letting Go of Productivity Guilt_ by Madeleine Dore which I recommend to anyone neurodivergent or who just can’t seem to “stick” to things the way they expect themselves to. (I think those two general categories probably cover everyone.)

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Shady Characters.md","permalink":"/trees/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-02-01T00:42:35.202-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Shady Characters.md","permalink":"/trees/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-03-19T12:54:46.593-04:00"}
 ---
 
-
-
-# Shady Characters
-
+#topic/language 
+# Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks
+by Keith Houston
+## Summary
+Revealing the secret history of punctuation, this tour of two thousand years of the written word, from ancient Greece to the Internet, explores the parallel histories of language and typography throughout the world and across time.
 ## My review
 
 Among other things (like punctuation), this book is about: language, the history of print technology big fires, and individual punctuation enthusiasts who changed the English language. It took me four months to finish this book because I both wanted to devour all at once and read it slowly so I could savor it longer. I found myself giving out random punctuation fun facts to my friends (literally anyone I thought might be receptive to that) and getting excited for my “planned dates” with this book.
@@ -22,19 +23,21 @@ I hope they update this book or someone else writes more about punctuation and h
 
 Written: 10/10/23
 
+## Quotes
+
 ---
-tags: #type/book-rec #topic/language 
-title: Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks : 
-author: [Keith Houston]
-category: [Design]
 
-description: Revealing the secret history of punctuation, this tour of two thousand years of the written word, from ancient Greece to the Internet, explores the parallel histories of language and typography throughout the world and across time.
-
-publisher: W. W. Norton & Company
-published: 2013-09-24
-total pages: 353
-isbn: 0393064425 9780393064421
-
-
-created: 2025-01-07 20:27:35
-updated: 2025-01-07 20:27:35
+> [!abstract] Metadata
+> title: *Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks*
+> 
+> author: Keith Houston
+> 
+> genre: Design
+> 
+> publisher: W. W. Norton & Company
+> 
+> published: 2013-09-24
+> 
+> total pages: 353
+> 
+> isbn: 0393064425 9780393064421

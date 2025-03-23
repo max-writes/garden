@@ -1,38 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Social Media.md","permalink":"/notes/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-03-08T15:20:21.560-05:00"}
+{"dg-publish":true,"dg-path":"notes/Social Media.md","permalink":"/notes/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-03-22T21:44:25.523-04:00"}
 ---
 
-#topic/social-media 
-
+#notes/technology #notes/communication #topic/social-media 
 # Social media
-Add: History, Definitions, my experience
 
-forums were/are social media too. I think the problem is more that the term social media has evolved and now everybody uses it differently, so it's difficult to get everyone on track with a conversation about it being bad or good. in the late '90s we were calling forums social media, but it meant something different back then.
+*In progress.*
+## About
+Definitions
+History/timeline
 
-I think what people mean now is that they hate algorithm driven social media that seeks to manipulate what people see for financial gain.
-
-## Quotes
-from *Defriending the Web* by Dennis Knopf (published in 2009)
-
-> What matters most is not the user communicating a deeper understanding of the content, but their emotional reaction to it. 
----
-
-### Identity online
-*Defriending the Web* by Dennis Knopf (published in 2009)
-
-> Within these networks, one can not only set up an account and profile, but  also  browse  through  millions  of  other  profiles.  But  first,  in  order  to set oneself apart from this mass, one has to join it. What appears gro-tesque  about  this  practice  is  that  the  users,  who  are  trying  to  express their uniqueness and individuality, are simply contributing to a collective mass of information. the main asset of any social network, besides of-fering the tools for personal websites, is their database–their social pool of users.
----
-
-from _Learning with E’s: Educational Theory and Practice in the Digital Age_ by Steve Wheeler (published in 2015)
-
-> The way we represent ourselves (using avatars, usernames, etc.) varies for many depending on the medium we are using. People represent themselves differently in Second Life to the way they represent themselves on Facebook, because the affordances of each environment prompt a different response from them.
-> 
-> In some cases virtual representations of ourselves become as real to people as their identity in ‘real life.’ These studies led Sherry Turkle to propose that new forms of personal identity are emerging as a result of prolonged interaction with others through technology–that our identities are increasingly multiple and decentred.
-> 
-> Technology can be used to portray the self in many different ways, transform the self-concept and even extend one’s identity into contexts beyond normal physical capabilities. Technology can strongly influence the way we perceive ourselves, enabling us to transcend our own limitations as we invest our energies and time.
----
-
-## Notes and half-thoughts
 
 - what do the algorithms do on each of the sites, especially the ones I use but not all of them 
 - every time something happens with one of the social medias, everybody has all kinds of commentary about every other site all the sudden. it's very exciting. 
@@ -75,4 +52,43 @@ https://youtu.be/xfEGTgZAGcw
 - advocacy
 - future: employees become beacons for company, data driven decisions, live streams, real-time chat w/company sites, rebranding w/added features
 - evolves with technology
+
+
+### Supporting my learning
+- [[garden/trees/library/Digital Minimalism\|Digital Minimalism]]
+
+## My experiences/history
+
+## Quotes
+from *Defriending the Web* by Dennis Knopf (published in 2009)
+
+> What matters most is not the user communicating a deeper understanding of the content, but their emotional reaction to it. 
+---
+
+### Identity online
+*Defriending the Web* by Dennis Knopf (published in 2009)
+
+> Within these networks, one can not only set up an account and profile, but  also  browse  through  millions  of  other  profiles.  But  first,  in  order  to set oneself apart from this mass, one has to join it. What appears gro-tesque  about  this  practice  is  that  the  users,  who  are  trying  to  express their uniqueness and individuality, are simply contributing to a collective mass of information. the main asset of any social network, besides of-fering the tools for personal websites, is their database–their social pool of users.
+---
+
+from _Learning with E’s: Educational Theory and Practice in the Digital Age_ by Steve Wheeler (published in 2015)
+
+> The way we represent ourselves (using avatars, usernames, etc.) varies for many depending on the medium we are using. People represent themselves differently in Second Life to the way they represent themselves on Facebook, because the affordances of each environment prompt a different response from them.
+> 
+> In some cases virtual representations of ourselves become as real to people as their identity in ‘real life.’ These studies led Sherry Turkle to propose that new forms of personal identity are emerging as a result of prolonged interaction with others through technology–that our identities are increasingly multiple and decentred.
+> 
+> Technology can be used to portray the self in many different ways, transform the self-concept and even extend one’s identity into contexts beyond normal physical capabilities. Technology can strongly influence the way we perceive ourselves, enabling us to transcend our own limitations as we invest our energies and time.
+---
+
+
+## Links
+
+
+> [!example] ## Garden
+> - [[garden/notes/Communication\|Communication]]
+> - [[garden/notes/Technology\|Technology]]
+> - [[garden/notes/Identity\|Identity]]
+> - #topic/social-media 
+
+
 

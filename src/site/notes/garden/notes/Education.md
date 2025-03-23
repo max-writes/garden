@@ -1,11 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Education.md","permalink":"/notes/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-03-08T15:16:35.158-05:00"}
+{"dg-publish":true,"dg-path":"notes/Education.md","permalink":"/notes/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-03-22T21:13:53.027-04:00"}
 ---
 
-#topic/education 
+#notes/education
 
+*In progress.*
 # Education
-Add: History, Definitions, Online Education vs traditional, Adult education vs children, Learning design, Learning paths, Books/Resources 
+## About
+Add: History, Definitions, Online Education vs traditional, Adult education vs children, Learning design, Learning paths
+
+what does (did) the department of Education do 
+
+![original_6fb52fff619e58ba5a43a33800d8e83b.png](/img/user/garden/notes/attachments/original_6fb52fff619e58ba5a43a33800d8e83b.png)
+### Best practices
+### Supporting my learning
+- [[garden/trees/2016 in e-Learning\|2016 in e-Learning]]
+
+## My experiences/history
+I work in learning technology. :)
 
 ## Quotes
 
@@ -39,7 +51,6 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ---
 
 ### Online learning 
-
 from _Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning_ by A. W. (Tony) Bates, Albert Sangra (published in 2011)
 
 > The changes in technology are also being accompanied by changes in educational philosophy. We focus on four changes or divides in education that interact with the applications of technology for teaching and learning: a move from an objectivist view of knowledge to a socially constructed view; a move toward developing skills associated with managing a rapidly expanding knowledge base, rather than focused on learning prespecified facts, principles, and concepts; a move towards learner-centered teaching; and a view that the Internet and related technologies radically change the nature of knowledge.
@@ -57,3 +68,10 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ---
 > Arthur C. Clarke once said: ‘Any technology that is sufficiently advanced is indistinguishable from magic.’ And therein lies a problem when we first try to introduce new technology into schools. We are seduced by it. It appears magical to us. We become enthusiastic about it to the point that it is seen as an answer to our problems, even though we don’t know what the problem is yet.
 ---
+
+## Links
+
+
+> [!example] ## Garden
+> - [[garden/notes/Learning and Teaching\|Learning and Teaching]]
+> - [[garden/notes/Education\|Education]]

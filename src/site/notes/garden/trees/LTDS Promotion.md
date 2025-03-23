@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/LTDS Promotion.md","permalink":"/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-02-20T21:10:55.442-05:00"}
+{"dg-publish":true,"dg-path":"trees/LTDS Promotion.md","permalink":"/trees/ltds-promotion/","created":"2024-12-14T14:01:59.993-05:00","updated":"2025-03-18T20:08:20.517-04:00"}
 ---
 
-#topic/writing #path/career 
-
-
+#notes/writing  #path/career 
 # Learning Technology Documentation Specialist Promotion 
 
 Here’s the briefest of summaries of my career so far:

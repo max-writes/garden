@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Women in Horror.md","permalink":"/fragments/women-in-horror/","created":"2024-12-23T21:56:38.440-05:00","updated":"2025-01-31T23:00:51.299-05:00"}
+{"dg-publish":true,"dg-path":"fragments/Women in Horror.md","permalink":"/fragments/women-in-horror/","created":"2024-12-23T21:56:38.440-05:00","updated":"2025-03-18T20:26:20.868-04:00"}
 ---
 
-
-#topic/movies 
+#tagTBD 
 # women in horror
 
 - babadook
