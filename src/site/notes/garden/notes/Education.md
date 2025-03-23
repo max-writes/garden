@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Education.md","permalink":"/notes/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-03-22T21:13:53.027-04:00"}
+{"dg-publish":true,"dg-path":"notes/Education.md","permalink":"/notes/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-03-22T22:37:00.431-04:00"}
 ---
 
 #notes/education
@@ -72,6 +72,6 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Learning and Teaching\|Learning and Teaching]]
 > - [[garden/notes/Education\|Education]]

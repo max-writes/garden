@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Writing.md","permalink":"/notes/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-03-22T21:27:58.029-04:00"}
+{"dg-publish":true,"dg-path":"notes/Writing.md","permalink":"/notes/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-03-22T22:34:55.471-04:00"}
 ---
 
 #notes/writing
@@ -43,7 +43,7 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Stories\|Stories]]
 > - [[garden/notes/Mental Health\|Mental Health]]
 > - [[garden/notes/Creativity\|Creativity]]

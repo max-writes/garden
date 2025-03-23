@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Social Media.md","permalink":"/notes/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-03-22T21:44:25.523-04:00"}
+{"dg-publish":true,"dg-path":"notes/Social Media.md","permalink":"/notes/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-03-22T22:35:33.866-04:00"}
 ---
 
 #notes/technology #notes/communication #topic/social-media 
@@ -84,7 +84,7 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Communication\|Communication]]
 > - [[garden/notes/Technology\|Technology]]
 > - [[garden/notes/Identity\|Identity]]

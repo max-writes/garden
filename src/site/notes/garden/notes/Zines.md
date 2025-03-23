@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Zines.md","permalink":"/notes/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-03-22T21:45:24.171-04:00"}
+{"dg-publish":true,"dg-path":"notes/Zines.md","permalink":"/notes/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-03-22T22:34:46.192-04:00"}
 ---
 
 #notes/creativity #topic/zines
@@ -27,7 +27,7 @@ Current projects:
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Creativity\|Creativity]]
 > - [[garden/notes/Writing\|Writing]]
 > - [[garden/notes/Mental Health\|Mental Health]]

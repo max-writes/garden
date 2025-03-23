@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Content Management.md","permalink":"/notes/content-management/","created":"2025-02-01T01:57:02.314-05:00","updated":"2025-03-22T21:16:23.922-04:00"}
+{"dg-publish":true,"dg-path":"notes/Content Management.md","permalink":"/notes/content-management/","created":"2025-02-01T01:57:02.314-05:00","updated":"2025-03-22T22:37:36.603-04:00"}
 ---
 
 #notes/content-management
@@ -25,7 +25,7 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 
 ## Links
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Digital Gardens\|Digital Gardens]]
 > - [[garden/notes/Websites\|Websites]]
 

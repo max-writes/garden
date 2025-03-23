@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Books.md","permalink":"/notes/books/","created":"2025-03-18T20:09:41.870-04:00","updated":"2025-03-22T21:17:58.674-04:00"}
+{"dg-publish":true,"dg-path":"notes/Books.md","permalink":"/notes/books/","created":"2025-03-18T20:09:41.870-04:00","updated":"2025-03-22T22:38:11.563-04:00"}
 ---
 
 #notes/books
@@ -21,7 +21,7 @@ I was a bookseller for 6 years and I've been a reader my whole life! I love read
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Stories\|Stories]]
 > - #topic/reading
 

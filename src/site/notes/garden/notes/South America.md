@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/South America.md","permalink":"/notes/south-america/","created":"2025-03-17T17:50:52.210-04:00","updated":"2025-03-22T20:57:57.211-04:00"}
+{"dg-publish":true,"dg-path":"notes/South America.md","permalink":"/notes/south-america/","created":"2025-03-17T17:50:52.210-04:00","updated":"2025-03-22T22:35:23.212-04:00"}
 ---
 
 #notes/south-america
@@ -19,7 +19,7 @@ TBR pile:
 
 ## Countries/Regions
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

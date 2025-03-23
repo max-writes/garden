@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/North America.md","permalink":"/notes/north-america/","created":"2025-03-17T17:50:38.610-04:00","updated":"2025-03-22T21:06:26.547-04:00"}
+{"dg-publish":true,"dg-path":"notes/North America.md","permalink":"/notes/north-america/","created":"2025-03-17T17:50:38.610-04:00","updated":"2025-03-22T22:35:57.520-04:00"}
 ---
 
 #notes/north-america
@@ -22,13 +22,12 @@ https://en.wikipedia.org/wiki/North_America
 TBR pile:
 - USA
 	- An Indigenous People's History of the United States
-	- 
 
 ## Links
 
 ## Countries/Regions
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

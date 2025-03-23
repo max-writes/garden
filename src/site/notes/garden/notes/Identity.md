@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Identity.md","permalink":"/notes/identity/","created":"2025-02-20T22:14:08.400-05:00","updated":"2025-03-22T21:18:46.830-04:00"}
+{"dg-publish":true,"dg-path":"notes/Identity.md","permalink":"/notes/identity/","created":"2025-02-20T22:14:08.400-05:00","updated":"2025-03-22T22:36:35.176-04:00"}
 ---
 
 #notes/identity
@@ -22,6 +22,6 @@ from *The Artist's Way: A Spiritual Path to Higher Creativity* by Julia Cameron
 
 ## Links
 
-> [!example] ## Garden
+> [!example] Garden
 > - #topic/lgbtq 
 

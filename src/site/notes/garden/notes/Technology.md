@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Technology.md","permalink":"/notes/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-03-22T21:25:01.138-04:00"}
+{"dg-publish":true,"dg-path":"notes/Technology.md","permalink":"/notes/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-03-22T22:35:09.982-04:00"}
 ---
 
 #notes/technology 
@@ -42,7 +42,7 @@ from *Defriending the Web* by Dennis Knopf (published in 2009)
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Content Management\|Content Management]]
 > - #topic/artificial-intelligence 
 > - #topic/video-games 

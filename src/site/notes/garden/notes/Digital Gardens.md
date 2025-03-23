@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-22T21:43:50.492-04:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-22T22:37:15.527-04:00"}
 ---
 
  #notes/content-management #topic/digital-gardens 
@@ -114,7 +114,7 @@ Link: [maggieappleton.com/basb](https://maggieappleton.com/basb)
 > I also find the metaphor of a “second brain” troubling in that it doesn’t speak to the significance of [embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) and [tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge) in how human cognition works. Filling up a “digital brain” as if it were a filing cabinet is highly unlikely to lead to meaningful knowledge and wisdom.
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Knowledge\|Knowledge]]
 > - [[garden/notes/Content Management\|Content Management]]
 > - [[garden/notes/Websites\|Websites]]

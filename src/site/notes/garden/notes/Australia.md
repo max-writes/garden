@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Australia.md","permalink":"/notes/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-03-22T21:02:37.791-04:00"}
+{"dg-publish":true,"dg-path":"notes/Australia.md","permalink":"/notes/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-03-22T22:38:18.586-04:00"}
 ---
 
 #notes/australia
@@ -20,7 +20,7 @@ TBR pile:
 
 ## Territories/Regions
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Seasons.md","permalink":"/notes/seasons/","created":"2025-03-18T20:05:11.528-04:00","updated":"2025-03-22T21:25:30.010-04:00"}
+{"dg-publish":true,"dg-path":"notes/Seasons.md","permalink":"/notes/seasons/","created":"2025-03-18T20:05:11.528-04:00","updated":"2025-03-22T22:35:38.903-04:00"}
 ---
 
 #notes/seasons
@@ -18,7 +18,7 @@ History/timeline
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - #topic/winter 
 > - #topic/spring
 > - #topic/summer

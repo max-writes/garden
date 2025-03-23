@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Antarctica.md","permalink":"/notes/antarctica/","created":"2025-03-17T17:51:10.850-04:00","updated":"2025-03-22T21:08:56.715-04:00"}
+{"dg-publish":true,"dg-path":"notes/Antarctica.md","permalink":"/notes/antarctica/","created":"2025-03-17T17:51:10.850-04:00","updated":"2025-03-22T22:38:32.688-04:00"}
 ---
 
 #notes/antarctica
@@ -21,7 +21,7 @@ TBR pile:
 ## Regions
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

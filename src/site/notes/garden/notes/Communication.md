@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Communication.md","permalink":"/notes/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-03-22T21:15:33.580-04:00"}
+{"dg-publish":true,"dg-path":"notes/Communication.md","permalink":"/notes/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-03-22T22:37:43.929-04:00"}
 ---
 
 #notes/communication
@@ -22,7 +22,7 @@ I was very awkward for a long time but I got over it and now I'm a confident tal
 
 ## Links
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Technology\|Technology]]
 > - [[garden/notes/Writing\|Writing]]
 > - [[garden/notes/Zines\|Zines]]

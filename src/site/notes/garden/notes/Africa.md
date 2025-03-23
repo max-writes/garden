@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Africa.md","permalink":"/notes/africa/","created":"2025-03-17T17:50:21.634-04:00","updated":"2025-03-22T21:07:13.568-04:00"}
+{"dg-publish":true,"dg-path":"notes/Africa.md","permalink":"/notes/africa/","created":"2025-03-17T17:50:21.634-04:00","updated":"2025-03-22T22:38:38.401-04:00"}
 ---
 
 #notes/africa
@@ -22,7 +22,7 @@ TBR pile:
 
 ## Countries/Regions
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

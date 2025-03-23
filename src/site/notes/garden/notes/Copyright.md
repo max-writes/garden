@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Copyright.md","permalink":"/notes/copyright/","created":"2025-03-17T17:45:07.970-04:00","updated":"2025-03-22T21:17:32.842-04:00"}
+{"dg-publish":true,"dg-path":"notes/Copyright.md","permalink":"/notes/copyright/","created":"2025-03-17T17:45:07.970-04:00","updated":"2025-03-22T22:38:00.594-04:00"}
 ---
 
 #notes/copyright
@@ -42,7 +42,8 @@ I was hired at a university in 2014 to assist with an Open Educational Resources
 ## Links
 
 
-> [!example] ## Garden
-> - Link to related notes, fragments, trees
-> - And other tags!
+> [!example] Garden
+> - [[garden/notes/Books\|Books]]
+> - [[garden/notes/Content Management\|Content Management]]
+> - [[garden/notes/Writing\|Writing]]
 

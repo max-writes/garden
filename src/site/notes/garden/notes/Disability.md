@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-03-22T21:18:35.048-04:00"}
+{"dg-publish":true,"dg-path":"notes/Disability.md","permalink":"/notes/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-03-22T22:37:08.701-04:00"}
 ---
 
 #notes/disability
@@ -71,7 +71,7 @@ from *Demystifying Disability: What to Know, What to Say, and How to Be an Ally*
 > Disability must be included in social justice movements. Excluding it isn’t just ableist; it’s directly contributing to harm.
 ---
 
-> [!example] ## Garden
+> [!example] Garden
 > - #topic/accessibility 
 
 

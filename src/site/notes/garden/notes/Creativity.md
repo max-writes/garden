@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-03-22T21:28:53.400-04:00"}
+{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-03-22T22:37:22.368-04:00"}
 ---
 
 #notes/creativity
@@ -50,7 +50,7 @@ from *The Artist's Way: A Spiritual Path to Higher Creativity* by Julia Cameron
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Zines\|Zines]]
 > - [[garden/notes/Stories\|Stories]]
 > - [[garden/notes/Websites\|Websites]]

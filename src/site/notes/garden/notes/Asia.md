@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Asia.md","permalink":"/notes/asia/","created":"2025-03-17T17:49:47.478-04:00","updated":"2025-03-22T21:05:28.189-04:00"}
+{"dg-publish":true,"dg-path":"notes/Asia.md","permalink":"/notes/asia/","created":"2025-03-17T17:49:47.478-04:00","updated":"2025-03-22T22:38:26.455-04:00"}
 ---
 
 #notes/asia
@@ -23,7 +23,7 @@ TBR pile:
 
 ## Countries/Regions
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

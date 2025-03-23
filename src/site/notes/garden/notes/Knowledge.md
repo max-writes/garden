@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Knowledge.md","permalink":"/notes/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-03-22T21:14:47.487-04:00"}
+{"dg-publish":true,"dg-path":"notes/Knowledge.md","permalink":"/notes/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-03-22T22:36:28.460-04:00"}
 ---
 
 #notes/knowledge
@@ -58,7 +58,7 @@ from _Managing Technology in Higher Education: Strategies for Transforming Teac
 
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Learning and Teaching\|Learning and Teaching]]
 > - [[garden/notes/Education\|Education]]
 

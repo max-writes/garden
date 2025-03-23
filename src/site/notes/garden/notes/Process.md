@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Process.md","permalink":"/notes/process/","created":"2025-03-18T20:02:04.190-04:00","updated":"2025-03-22T21:22:03.570-04:00"}
+{"dg-publish":true,"dg-path":"notes/Process.md","permalink":"/notes/process/","created":"2025-03-18T20:02:04.190-04:00","updated":"2025-03-22T22:35:44.793-04:00"}
 ---
 
 #notes/process
@@ -19,7 +19,7 @@ History/timeline
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - Link to related notes, fragments, trees
 > - And other tags!
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Websites.md","permalink":"/notes/websites/","created":"2025-03-18T20:14:11.103-04:00","updated":"2025-03-22T21:25:55.625-04:00"}
+{"dg-publish":true,"dg-path":"notes/Websites.md","permalink":"/notes/websites/","created":"2025-03-18T20:14:11.103-04:00","updated":"2025-03-22T22:35:02.781-04:00"}
 ---
 
 #notes/websites
@@ -21,7 +21,7 @@ History/timeline
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Technology\|Technology]]
 > - [[garden/notes/Social Media\|Social Media]]
 

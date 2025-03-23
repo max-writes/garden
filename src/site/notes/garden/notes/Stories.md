@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Stories.md","permalink":"/notes/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-03-22T21:23:59.244-04:00"}
+{"dg-publish":true,"dg-path":"notes/Stories.md","permalink":"/notes/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-03-22T22:35:16.535-04:00"}
 ---
 
 #notes/stories
@@ -32,7 +32,7 @@ Reading stories:
 ## Links
 
 
-> [!example] ## Garden
+> [!example] Garden
 > - [[garden/notes/Writing\|Writing]]
 > - [[garden/notes/Creativity\|Creativity]]
 > - #topic/ghost-stories 
