@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-05-11T20:26:21.135-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-05-11T20:33:46.655-04:00"}
 ---
 
 #path/faq 
@@ -9,7 +9,7 @@ This page includes major updates only (significant new content, new pages, delet
 The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
 
 ## May 11, 2025
-Oh rad, I am having deployment issues.
+~~Oh rad, I am having deployment issues.~~ hello, please be proud of me, I fixed my first deployment issue!
 - Added: **The Body Keeps the Score**, **Book and Dagger**, **Horror Movies**, **Journal Systems**
 - Updated: **Cemetery List**, **Spring**, **Purpose and Guidelines**, **Good Things Lists**, **Romance Movies**, **NAS**, **Journal**, **Knowledge**, **Creativity**, **Digital Gardens**, **Living Seasons**, **African History**, **Your Haunted Brain**
 - Housekeeping
@@ -18,6 +18,7 @@ Oh rad, I am having deployment issues.
 	- Cleaned up my tags 
 	- Added some book quotes to some of the book pages and linked them in topic pages
 	- **Cemetery List** is my test for images with captions, fingers crossed. If it looks good after publishing I'll start updating the rest of my pages with images to match.
+		- TIL I can't put quotes in the caption. Also the nice captions and formatting don't show up online at all! Womp womp.
 ## March 22, 2025
 - Added: **Copyright**, **Zines**, **Communication**, **Stories**, **Asia**, **Europe**, **Antarctica**, **Australia**, **Africa**, **North America**, **South America**, **Process**, **Books**, **Websites**, **Photo Journal**, **Agile Certified Professional**, **Digital Minimalism**, **Dysfunctional Documents**, **GIFs**, **Zines**, **Seasons**, **Spring**
 - Updated: **Living Seasons**, **Content Management**, **Purpose and Guidelines**
