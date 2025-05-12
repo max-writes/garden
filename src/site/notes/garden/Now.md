@@ -4,7 +4,7 @@
 
 [See more Now pages](http://nownownow.com)
 # Now
-[[garden/Now (archive)\|Now (archive)]]
+[[garden/trees/Now (archive)\|Now (archive)]]
 
 ## May 4, 2025
 I am paying attention to this because I haven't touched it in weeks. I have thought about it a few times but I've been focused more on keeping up with bare minimum stuff. Also, Zenny wants to be on my lap 24/7 so it's hard to type on a laptop under those conditions.
