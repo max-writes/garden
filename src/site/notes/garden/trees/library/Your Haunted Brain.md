@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Your Haunted Brain.md","permalink":"/trees/library/your-haunted-brain/","created":"2025-01-07T20:38:36.130-05:00","updated":"2025-03-19T13:03:53.672-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Your Haunted Brain.md","permalink":"/trees/library/your-haunted-brain/","created":"2025-01-07T20:38:36.130-05:00","updated":"2025-05-04T16:33:25.417-04:00"}
 ---
 
 #topic/paranormal #topic/ghost-stories 
@@ -37,7 +37,8 @@ Instead of repetitive description and telling the same examples over and over ag
 
 Quick read though, good for spooky month and getting your brain in self-spooking mode. Remember kids: If you can't regulate your emotions, you might see a ghost.
 
-
+## Quotes
+> Ghost hunting is more than a hobby; it’s a multidisciplinary adventure touching on history, psychology, sociology, and even economics. Whether you’re trying to understand the afterlife, seeking thrills, or just enjoying the mysterious, ghost hunting engages parts of our psyche and society that demand respect. By balancing personal responsibility with collective curiosity, we can enrich our understanding of the human condition. (Page 6)
 ---
 
 > [!abstract] Metadata

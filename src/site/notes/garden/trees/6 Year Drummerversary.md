@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"trees/6 Year Drummerversary.md","permalink":"/trees/6-year-drummerversary/","created":"2024-12-14T14:17:54.505-05:00","updated":"2025-01-31T23:04:22.824-05:00"}
+{"dg-publish":true,"dg-path":"trees/6 Year Drummerversary.md","permalink":"/trees/6-year-drummerversary/","created":"2024-12-14T14:17:54.505-05:00","updated":"2025-04-10T23:20:09.609-04:00"}
 ---
 
 
-#max/lessons-learned #topic/learning #topic/music 
+#path/lessons-learned #topic/learning #topic/music 
 # 6 year drummerversary
 
 Today marks my 6th year anniversary playing [[digital garden/fragments/drums\|drums]]! I started at the ripe ol’ age of 33 and I’m still going at the intermediate level. Don’t let anyone tell you you’re too old to start something new (unless it’s your career in hockey, you might be too old for that sorry).

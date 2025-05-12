@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Living Seasons.md","permalink":"/trees/living-seasons/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-03-22T22:24:23.523-04:00"}
+{"dg-publish":true,"dg-path":"trees/Living Seasons.md","permalink":"/trees/living-seasons/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-05-04T14:29:56.685-04:00"}
 ---
 
 #notes/seasons #topic/life-tracking
@@ -30,17 +30,16 @@ Once I complete each item, I color in the box. If I had just done ANYTHING for C
 ![20250306_220043~2 1.jpg](/img/user/garden/trees/attachments/20250306_220043~2%201.jpg)
 
 **Spring Bingo**
+![20250322_170427~2.jpg](/img/user/garden/trees/attachments/20250322_170427~2.jpg)
 
-
-**Summer Bingo**
-TBD
 
 I drop the bingo card into a journal dedicated to that season. 
 - Each time I finish an item, I color in the bingo square and make an entry in the journal explaining what I did and my thoughts about it
 - For fall when I made a bingo, I'd make a post on my Instagram what I did (including photos).
-- By the time winter bingo came around, I had deleted my Instagram. The plan was to make a blog post with the same but I did not do that... partially because I forgot to take photos of each activity, not being so "social media minded." Perhaps I'll pick it up for spring.
+- By the time winter bingo came around, I had deleted my Instagram. The plan was to make a blog post with the same but I did not do that... partially because I forgot to take photos of each activity, not being so "social media minded."
+- Instead, I'll make a post in the seasonal journal I added to Obsidian to support seasonal reflective practice in a MUCH easier way than coding it manually on my website. See the progress in the #diary-bingo tag.
 
-I now have 4 journals for each season so even if I don't continue this bingo activity I'll have a space for my next round of seasonal reflection!
+I now have a physical journal for each season so even if I don't continue this bingo activity I'll have a space for my next round of seasonal reflection!
 
 ### are.na
 I keep an are.na channel for each season and have been doing this since 2022. I only add to the seasonal channels DURING that season, and it includes posts found on are.na that evoke (to me) that season's meaning or mood. Sometimes I add original thoughts/photos, but these mostly encompass what I found from others.

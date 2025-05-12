@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/10 Years of Doc Work.md","permalink":"/trees/10-years-of-doc-work/","created":"2024-12-14T13:53:37.108-05:00","updated":"2025-03-18T19:59:16.474-04:00"}
+{"dg-publish":true,"dg-path":"trees/10 Years of Doc Work.md","permalink":"/trees/10-years-of-doc-work/","created":"2024-12-14T13:53:37.108-05:00","updated":"2025-04-10T23:20:23.093-04:00"}
 ---
 
-#max/lessons-learned #path/career #notes/writing
+#path/lessons-learned #path/career #notes/writing
 # What I’ve learned in my 10 years of writing for work
 
 This is the full version of this post. You can also see the [condensed version on LinkedIn](https://www.linkedin.com/posts/maxswetnam_heres-what-ive-learned-in-my-10-years-of-activity-7230223938625118208-0UNm?utm_source=share&utm_medium=member_desktop).

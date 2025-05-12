@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-03-22T22:37:15.527-04:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-05-04T15:56:35.105-04:00"}
 ---
 
  #notes/content-management #topic/digital-gardens 
@@ -30,12 +30,20 @@ Suggestions from folks who have been doing this longer than I have:
 **Examples**
 The [Obsidian Garden Gallery](https://obsidian-gallery.craftengineer.com/) provides a list of gardens published online from Obsidian.
 
-### Best practices
+### Best practices / lessons learned
+I will start adding these as I update these pages so this list will grow over time! I started this digital garden in December 2024, and I have a black thumb, so there is much room to grow.
+
+May 4, 2025
+- **Be patient with how long it takes to flesh things out**. I had a lot of ideas at once and did a pretty good job at **capturing what knowledge I'd like to capture**, but it was a bit overwhelming to suddenly have all these pages to fill out fully (like this one, which I had already started building before I made all those). **No pressure to get things done all at once. Let the thoughts percolate over time.**
+- **The pace at which I update my PKMS is not reflective of the pace at which I am learning or gaining knowledge.** I don't rush to this to update every time I learn something and my approach is and has always been to build it out slowly as I have time among other projects and things going on in my life. I know this and yet I feel weird that the site does not always accurately reflect the currency of my understanding of things! Especially the new pages where I definitely know more than what's written there!
+- **Don't feel pressured to increase expectations of yourself.** This has been a good lesson to learn. Although in some ways I think this site may end up serving as a portfolio piece somewhere, it's not actually a professionally driven site. This is a personal project that I decided to do because I was interested in taking on this challenge. There is no reason to pressure myself to do "more" unless I want to. I don't mind drifting in and out. I am learning how to be okay with being or appearing wrong online, either due to lack of knowledge or outdated information. Simply starting a list of topics is pretty cool in itself, I don't need to be at the "end of this site" (whatever that means) immediately! (though I want to be, I think it will be great!)
 ### Supporting my learning
+- Everyone else's digital garden I can find on the internet (linked in my are.na channel below)
+- Reflecting over time I hope
 
 ## Max's brainstorming
 > [!NOTE]
-> This is some brainstorming I did before setting up my digital garden. I thought about how I could tie ideas of real-world gardening and landscaping into this, read about hypertext art/expression, and browsed a bunch of other digital gardens for inspiration.
+> This is some brainstorming I did before setting up my digital garden. I thought about how I could tie ideas of real-world gardening and landscaping into this, read about hypertext art/expression, and browsed a bunch of other digital gardens for inspiration. IRL I have a black thumb and very little gardening experience.
 
 Garden freestyle: 
 trees, flowers, paths, lawns, birds & butterflies, weeds, soil, water, rocks, walls, steps, hedges
@@ -70,8 +78,7 @@ Ideas:
 
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
 
-## Links
-
+## Links & Quotes
 The [ObsidianMD subreddit](https://www.reddit.com/r/ObsidianMD) has been a vital source of tips & tricks. My are.na channel (embedded above) includes links to other digital garden sites. Here I'll include articles that have influenced how my garden evolves.
 
 ### Digital Garden Terms of Service
@@ -115,9 +122,9 @@ Link: [maggieappleton.com/basb](https://maggieappleton.com/basb)
 
 
 > [!example] Garden
-> - [[garden/notes/Knowledge\|Knowledge]]
-> - [[garden/notes/Content Management\|Content Management]]
-> - [[garden/notes/Websites\|Websites]]
+> - [[garden/fragments/Knowledge\|Knowledge]]
+> - [[garden/fragments/Content Management\|Content Management]]
+> - [[garden/fragments/Websites\|Websites]]
 > - #topic/digital-gardens
 
 

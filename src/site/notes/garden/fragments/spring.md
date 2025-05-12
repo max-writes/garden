@@ -1,14 +1,63 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/spring.md","permalink":"/fragments/spring/","created":"2025-03-22T19:29:07.044-04:00","updated":"2025-03-22T20:36:13.411-04:00"}
+{"dg-publish":true,"dg-path":"fragments/spring.md","permalink":"/fragments/spring/","created":"2025-03-22T19:29:07.044-04:00","updated":"2025-05-04T16:58:36.903-04:00"}
 ---
 
-#notes/seasons 
+#notes/seasons #topic/spring 
 # Spring
 Spring is here! :)
 
 ## Diary
+
+### First camping trip of the season 4/28/25
+#diary-camping #diary-bingo 
+**Where**: Big Bone Lick State Park in Kentucky, [Photo Album](https://myalbum.com/album/R3RKqj5EEEivFd/?invite=b677bb18-dda0-40a2-8721-14a1badb5b8e) 
+
+This eliminates the third square of my Spring BINGO page, I am not going to get a BINGO yet but I still have many opportunities and (almost) two full months to get there.
+
+I spent a lot of April either sick or off routine for some other reason and it's also been above 80 for a lot of days so I haven't done a lot of my fun springtime plans. I did, however, build Lego flowers (see entry somewhere below) engage in cherry blossom festivities (Sakura Matsuri), and made a [cherry blossom coloring page](https://zinetherapy.neocities.org/library/spring-cherryblossoms.png).
+### Spring refresh 4/19/25
+I'm thinking a lot about change and how changes impact the flow of your life and trying to remind and convince myself that I don't need to spend lots of money or impulsively change everything in order to feel something new. 
+
+instead I've been thinking of ways I can change up my routines seasonally so I feel shifts and movements more frequently. I want to catch the energy the season brings, instead of trying to push against it. 
+
+spring. 
+
+what is a spring refresh? what does that mean?
+
+- build Lego flowers (early in the season)
+- noticing dust / dirt more because the sun is at a different angle between earth things and time change things
+- therefore, upping the cleaning game
+- playing with zenny more daily
+- bigger change happens several weeks into spring, before that I had to close out winter and be sucked into a void for a few weeks.
+- get rid of winter stuff, take down winter decor
+- more pollen, more particles, bugs, etc
+- refresh home smells
+- do laundry / wash all blankets and things
+- dye your hair
+- cut your hair?
+- take down the rest of last year's halloween decor - the year is resetting
+- bring in more cat furniture and things for Zenny to do and enjoy
+- rearrange around the home, refresh the way you use things
+- read more about nature and humans being connected to the world
+
+- the weekend before camping for the first time - clean up the house, clean up the car, get ready for camping season 
+	- [[garden/fragments/Packing Lists\|Packing Lists]]
+
+### Spring beginnings 4/10/25
+Some photos from the first few weeks of Spring!
+
+![20250322_141726.jpg](/img/user/garden/fragments/attachments/20250322_141726.jpg)
+
+![20250324_193902.jpg](/img/user/garden/fragments/attachments/20250324_193902.jpg)
+
+![garden/fragments/attachments/20250324_194323.jpg](/img/user/garden/fragments/attachments/20250324_194323.jpg)
+internet famed grocery store sunset
+
+![20250324_210415~2.jpg](/img/user/garden/fragments/attachments/20250324_210415~2.jpg)
+gluten free praline nut roll, Earl Gray ice cream, strawberries
+
 ### Spring Lego 3/22/25
-#lego
+#path/lego #diary-bingo 
 I found my new favorite Lego piece
 
 ![20250322_171817.jpg](/img/user/garden/fragments/attachments/20250322_171817.jpg)

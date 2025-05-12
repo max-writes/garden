@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-03-18T20:26:55.363-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-05-04T13:05:11.017-04:00"}
 ---
 
 #notes/mental-health 
@@ -18,6 +18,11 @@
 - Zenny getting excited about new toys or her new cat tree
 - figuring out how to publish from Obsidian to a website so I can share my half-thoughts and ideas in progress with internet strangers
 - webcore designed sites
+- spending the morning with my mom
+- rainy days that bring cooler air after a series of hot hot days
+- Zenny lying on my side while I curl up for a nap
+- Snapchats from my best friend on her hikes and adventures
+- when someone sends you something that made them think of you
 
 Crushes
 - name change

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Weeknotes - 2023.md","permalink":"/trees/weeknotes-2023/","created":"2024-12-14T13:48:24.460-05:00","updated":"2025-03-18T20:11:58.367-04:00"}
+{"dg-publish":true,"dg-path":"trees/Weeknotes - 2023.md","permalink":"/trees/weeknotes-2023/","created":"2024-12-14T13:48:24.460-05:00","updated":"2025-04-10T23:21:11.261-04:00"}
 ---
 
-#type/weeknotes #max/lessons-learned #path/career 
+#type/weeknotes #path/lessons-learned #path/career 
 # Weeknotes (2023)
 
 I started Weeknotes about a year or two ago but I haven’t been keeping up with it very well. My job has been extraordinarily busy — more than we’ve experienced in my decade with this group. We used to have downtime, now I don’t know what that word means anymore.

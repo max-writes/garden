@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Master Guide Revision Steps.md","permalink":"/trees/master-guide-revision-steps/","created":"2024-12-14T13:59:14.763-05:00","updated":"2025-03-18T20:09:08.770-04:00"}
+{"dg-publish":true,"dg-path":"trees/Master Guide Revision Steps.md","permalink":"/trees/master-guide-revision-steps/","created":"2024-12-14T13:59:14.763-05:00","updated":"2025-04-10T23:21:02.641-04:00"}
 ---
 
-#max/lessons-learned #notes/writing #notes/process
+#path/lessons-learned #notes/writing #notes/process
 # Master Guide Revision Steps 
 
 Imagine you’re working on a support team of 6 people, all with various knowledge about the products you’re supporting. Some are more technical than others. Half were in the job already for three years, the other half just joined. There is some documentation but that’s not the focus of anyone’s job. Most processes are not documented; everyone holds them in their heads.

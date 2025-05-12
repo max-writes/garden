@@ -1,11 +1,47 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-03-22T22:14:10.319-04:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-05-04T15:00:39.192-04:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
 [[garden/Now (archive)\|Now (archive)]]
 
+## May 4, 2025
+I am paying attention to this because I haven't touched it in weeks. I have thought about it a few times but I've been focused more on keeping up with bare minimum stuff. Also, Zenny wants to be on my lap 24/7 so it's hard to type on a laptop under those conditions.
+
+Listening to: Cat TV, Zenny's shows
+
+What I've been doing with websites:
+* It was the end of a month recently so I've been doing my rounds of summary posts and such. I did weekly summaries for a month in a half at the end of 2024 and they are full of rich detail and reflection, but these monthly posts are barely reviews. I'm proud to keep up with them pretty consistently, especially since I truly don't plan to return to having a "single profile" on social media where I share my whole life, ever again... but I'm not sure monthly is the right pace. I'll keep going with it to meet my goals and see what I learn!
+* Thinking and doing a lot of reflection on why I make sites and how I can improve them as forms of expression in my life.
+
+What's going on creatively:
+* I have found some monthly routines and practices to keep in my life to keep me creative, but I'd like to figure out the momentum to do something creative every day. I've been trying a 100 days of writing challenge secretly in my private Obsidian folders but I somehow skipped 3 whole weeks without even noticing. (I'm back on it and more vulnerable than ever, I think that's good.)
+* Adjacent to creativity, I've been thinking a lot about my STUFF. I have so many supplies and papers and things for forms of creativity that heavily overshadowed my life in the past. Sometimes I think about how I could get back into it (and true, I probably could, and might), but I don't think that warrants keeping literally all the supplies forever, as a "just in case" scenario. Maybe I take it down to 1 box per craft so if I get back into embroidery, I have all the supplies I need to get started, but can decide then whether I want to invest and get more. If I get back into papercutting then I have an assortment of papers and blades and supplies, but I don't need to keep shelves full of it in case I need to furiously create papercut art despite my progressive hand tremor. I found out about an art supply reuse store that is somewhat local and I might spend some time this spring sharing what I've got...
+
+What's going on at work:
+- I've been diving more into the idea of using AI in my documentation workflows, though I don't completely buy in yet. It's not a replacement for me because without my knowledge, the documentation I've written, the information I've synthesized and explained, the expertise I've brought in: the AI tool wouldn't know as much as it does, and it couldn't be as helpful as it is. (It's not super helpful yet, though.) The GPT could never replace me and what I do but it can take some of the load off of searching for information, understanding what it says, and rewording it for a different audience. It still requires heavy review and updating after that. It's not a final product, just a draft, and I think it's weird that people expect AI to deliver the most proficient and best output without reviewing it. I don't totally buy in yet because I am not saving a lot of time; I'm a quick writer and ideas come easy to me. What takes the most time is creating infographic-like images, which ChatGPT cannot help with, it is so bad don't even waste the resources trying that. Look for already-made images for inspiration if you need that.
+- I'm helping with a training site project where I get to contribute my expertise and do some work but someone else is leading it (baby's first project). It's been a long time since I've been able to mentor someone and help provide context for why certain decisions are made and I'm happy to say that I'm doing pretty well offering suggestions without dominating the conversation, providing encouragement, and supporting something I've done 100 times (assess needs, content inventory, build a site, iterate). I love that my coworker is approaching it as a learning opportunity and has been very vocal to our group chat about getting our input on her ideas. I love when people are eager to grow and learn and it's incredibly wonderful to be in a position where I can help them. 
+
+## April 10, 2025
+I've been doing lots of digital organization since I got my [[garden/fragments/instructions/NAS\|NAS]], which is what I focused on after work today. I updated the [[garden/fragments/Cemetery List\|Cemetery List]] page and finally got some photos up there, but I know I have lots more to add!
+
+Listening to: Nothing, just the buzz of my computer's fan
+
+What I've been doing with websites:
+* I added some pages for book reviews here which felt nice, but I've been otherwise not tuned into my PKM the last few weeks. I don't expect myself to touch it every day but I am antsy to learn EVERYTHING so I can fill in stuff about my 'notes' and start generating more 'trees'! So far the workflow and progress has been going well, I think I set it up perfectly to catch my methods of developing a full thought. First I need a fragment - a thought or outline, then I need to read a lot about it and write what I learned, then I can expand on it further into branches of new thought. It's frankly delightful to see that processing out on paper (digitally) like this and I'm so glad I started this project!
+* In the meantime I've been working a lot on [cryptkickers](http://cryptkickers.org), though none of the fruits of my labors are ripe enough to upload to the site. I've been crafting a web of pages all connected in various ways but presenting different aspects of my lifetime love of music!
+
+What's going on creatively:
+* Last night I participated in my friend [Adrienne](https://substack.com/@adriennepriceart)'s virtual drink and draw event where I made a very nice doodle, and then I colored it. There is not much else happening. I've been swamped at work and out of focus afterwards, focused more on websites than anything else!
+![20250409_210726~2.jpg](/img/user/garden/attachments/20250409_210726~2.jpg)
+![20250409_214029~2 1.jpg](/img/user/garden/attachments/20250409_214029~2%201.jpg)
+
+What's going on at work:
+- We wrapped up FY25Q3 this week and even though Q4 planning doesn't happen for another week and a half, we're in it! So I'm spending these last weeks before then figuring out the last details for the stuff that didn't quite make the deadline. 
+	- We promised delivery of two LTI tools so I've been working on the user guides for those, one of them just won't close because there are so many questions around it and it just keeps going! Looking forward to closing that out tomorrow, hopefully.
+	- I have been working on our continuous delivery process documentation since Q2 and it's finally finalized and complete. I need to clean up the draft, write a summary, get the product owner and my manager to review it, and then I can close that one out next week!
+- I've been exploring the tools that we have available to us (mostly Microsoft things) to see how I can introduce efficiencies into my process or use them to deliver better docs to our client. I wanted to explore more new things but haven't been able to cut out the time to learn a new tool.
 ## March 22, 2025
 Just poking around the garden and adding more things so I have a good base structure set before I start diving into adding a lot of stuff. It's taken almost 2 months to get here and I still have a long way to go! I love sharing a site in progress, though.
 
@@ -44,7 +80,7 @@ What's going on at work:
 ## February 15, 2025
 This is my first update to maxwrites since I figured out how to publish Obsidian to the web a few weeks ago. I haven't done much to it (I've mostly been going through the motions lately) but I did start consolidating the quotes I've gotten from various books read into topic pages which I will eventually expand upon. Lots to come!
 
-Listening to: My [[garden/trees/instructions/NAS\|NAS]] Plex library is scanning and trying its hardest to get all my media to me for my walk later today.
+Listening to: My [[garden/fragments/instructions/NAS\|NAS]] Plex library is scanning and trying its hardest to get all my media to me for my walk later today.
 
 What I've been doing with websites:
 * Described above for maxwrites. I'm still building this out but increasingly getting a better idea of how I want my digital garden to flow and present information. I need to add some kind of feedback mechanism so people can correct me, if they want to. It's scary to potentially be so publicly wrong about things but I think it's good for the learning process to share progress.

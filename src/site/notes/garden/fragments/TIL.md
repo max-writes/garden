@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/TIL.md","permalink":"/fragments/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-03-18T20:26:29.570-04:00"}
+{"dg-publish":true,"dg-path":"fragments/TIL.md","permalink":"/fragments/til/","created":"2025-01-22T23:12:28.535-05:00","updated":"2025-04-09T08:21:08.248-04:00"}
 ---
 
 #topic/learning 
 # Today I Learned 
 ## Journal 
+
+**4/8/25**
+When your power goes out and then comes back, if you have a raisable bed it resets to flat. even while you're sleeping.
+
+also, the Romans used cabbage to dress wounds 
 
 **3/13/25**
 https://blog.scoutingmagazine.org/2015/03/10/harrison-ford-to-the-rescue/

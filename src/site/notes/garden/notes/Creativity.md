@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-03-22T22:37:22.368-04:00"}
+{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-05-04T15:57:59.121-04:00"}
 ---
 
 #notes/creativity
-
-*In progress.*
 # Creativity 
 ## About
 If you look up the word "creativity" you get a lot of definitions, some of which are based on individual ideas of what creativity means to them. It's one of those words that people feel is open to interpretation and personalization, and I like that.
@@ -21,6 +19,10 @@ I am a creative person and have never had an "imposter syndrome" about it. Since
 
 Love is my biggest muse. When I'm in love, all I want to do is make stuff. My second biggest muse lies on the opposite end of the spectrum: heartache. Between the two of these extremes I struggle to find my creative voice; this is why I let myself get swept away into crushes and fall in love with everything. 
 ### Supporting my learning
+- Being a creative person and engaging in creative activities
+- Collaborating with other creative people
+- Joining groups/gatherings with other creative people 
+- Books about being creative or creative journals
 
 ## My experiences/creations
 I have been a creative person my whole life.
@@ -38,21 +40,19 @@ The types of art I used to do before my tremor got worse:
 * Paper cutting
 * Sewing
 * Creative baking (including cake/cupcake decorating)
-## Quotes
-
-
+## Links & Quotes
+Some day I am going to figure out how to list all of my resources past and present but until then, here is a quote (I haven't done the challenge).
 ### Maintenance 
 from *The Artist's Way: A Spiritual Path to Higher Creativity* by Julia Cameron (published in 1992, reprinted in 2002)
 
 > Art is an image-using system. In order to create, we draw from our inner well. This inner well, an artistic reservoir, is ideally like a well-stocked trout pond. We’ve got big fish, little fish, fat fish, skinny fish—an abundance of artistic fish to fry. As artists, we must realize that we have to maintain this artistic ecosystem. If we don’t give some attention to upkeep, our well is apt to become depleted, stagnant, or blocked. Any extended period or piece of work draws heavily on our artistic well. Over tapping the well, like overfishing the pond, leaves us with diminished resources. We fish in vain for the images we require. Our work dries up and we wonder why, “just when it was going so well.” The truth is that work can dry up because it is going so well.  (48)
 ---
 
-## Links
 
 
 > [!example] Garden
-> - [[garden/notes/Zines\|Zines]]
-> - [[garden/notes/Stories\|Stories]]
-> - [[garden/notes/Websites\|Websites]]
+> - [[garden/fragments/Zines\|Zines]]
+> - [[garden/fragments/Stories\|Stories]]
+> - [[garden/fragments/Websites\|Websites]]
 > - #topic/music
 

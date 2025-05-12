@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-03-19T13:02:15.195-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Unsinkable.md","permalink":"/trees/library/unsinkable/","created":"2024-12-14T13:21:23.015-05:00","updated":"2025-05-11T19:21:19.839-04:00"}
 ---
 
 #tagTBD
 # Unsinkable
 by Debbie Reynolds
 ## Summary
+In *Unsinkable*, the late great actress, comedienne, singer, and dancer Debbie Reynolds shares the highs and lows of her life as an actress during Hollywood’s Golden Age, anecdotes about her lifelong friendship with Elizabeth Taylor, her experiences as the foremost collector of Hollywood memorabilia, and intimate details of her marriages and family life with her children, Carrie and Todd Fisher.
 ## My review
-
 I read the book _Unsinkable_ by Debbie Reynolds because the audiobook was on sale (that’s the only reason I bought it). The book fit nicely into a theme for the book challenge I joined this year.
 
 I “read” the audiobook, so I received the content in Debbie Reynold’s voice and cadence. She has one of those voices that makes you feel comfortable and welcomed; even though we obviously were not in the room together, I felt like we were sitting over brunch and she was sharing stories from her life. If that’s translating over an audiobook, I can’t imagine how wonderful it must have felt to be in her presence. Some people just have this impact on people. Based on the stories in her book, it seemed that she did too.
@@ -31,10 +31,10 @@ Written: 1/7/24
 > 
 > genre: Biography
 > 
-> publisher: {{publisher}}
+> publisher: William Morrow
 > 
-> published: {{publishDate}}
+> published: April 2, 2013
 > 
-> total pages: {{totalPage}}
+> total pages: N/A - audiobook
 > 
-> isbn: {{isbn10}} {{isbn13}}
+> isbn: 9780062213686 

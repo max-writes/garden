@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-03-22T22:05:39.563-04:00"}
+{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-05-11T20:07:51.985-04:00"}
 ---
 
 #path/faq
@@ -24,7 +24,7 @@ There is no intended linear way to browse or read content on this site. You can 
 
 * Use the **search bar** to see if there is anything on this site that interests you based on your own keywords.
 * Select a **tag** when you see it to browse all pages.
-* Start with a **path** from the [[garden/Home\|homepage]]
+* Start with a **path** from the [[garden/Home\|homepage]] or see the embed below.
 * Use the **navigation bar** to browse pages divided by level of depth or information source. You can find a description of what each of these sections means on the homepage:
 
 
@@ -42,13 +42,14 @@ My goal for this site is to create non-linear paths of browsing and learning.
 
 It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content if you prefer:
 
-| What         | Description                                                                                                                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| fragments    | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.**                     |
-| notes        | Structured pages for each topic/interest including quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.** |
-| trees        | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
-| #path/career | Related to my career                                                                                                                                                                                    |
-| #path/faq    | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
+| What                   | Description                                                                                                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| fragments              | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.**                     |
+| notes                  | Structured pages for each topic/interest including quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.** |
+| trees                  | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
+| #path/lessons-learned  | Capturing various lessons learned over my life                                                                                                                                                          |
+| #path/career           | Related to my career                                                                                                                                                                                    |
+| #path/faq              | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
 
 Thank you for your patience while I get things organized.
 
@@ -61,12 +62,12 @@ Thank you for your patience while I get things organized.
 ## Tools
 
 - Digital garden: Obsidian (content management), GitHub, Netlify (hosting)
-- Notes and record keeping: DrawNote, Google drive, are.na, paper journals
+- Notes and record keeping: DrawNote, Google drive, are.na, paper journals, clippings.io (grab  Kindle highlights), raindrop.io (bookmarks)
 	- Seasons bingo journal
-	- Hobonichi weekly planner
-	- Art journal
+	- Art journal & coloring book journals
 - Life tracking: Daylio, Finch, personal budget, Google calendar 
-- Life sharing: Neocities sites, Maxwrites, Letterboxd, Storygraph, Canva, MyAlbum, Substack, Pencilbooth, Shapchat (private), are.na
+- Life sharing: Neocities sites, Maxwrites, Letterboxd, Storygraph, MyAlbum, Pencilbooth, Shapchat (private), are.na
+	- Digital art tools: Canva, BandLab, Phomemo, Pixilart, CapCut, Infinite Painter
 ## Content management 
 
 ### Obsidian folder structure 
@@ -83,12 +84,13 @@ This stuff will probably never see the public.
 Folder structure:
 
 - daily (daily notes)
-- health (keep up with meds, personal appointments, etc)
 - ideas (all files that are just a brain fart of ideas)
 - responsibilities (taking care of my home, car, etc)
+	- health (keep up with meds, personal appointments, etc)
+	- zenny (taking care of my cat, appointments, blood work results, etc)
+- plex (Plex library guide for myself to track where things are stored and also help with reorganizing)
 - seasons (seasonal based to do, notes, projects, reflection, some may move to the garden)
 - templates (my templates for my obsidian setup)
-- zenny (taking care of my cat, appointments, blood work results, etc)
 
 this folder is also where I keep 
 - my homepage, which loads when I open Obsidian and thanks to the *homepage* plugin I can have a separate one on mobile vs desktop ([plugin website](https://github.com/mirnovov/obsidian-homepage))
@@ -132,9 +134,8 @@ This describes how content is grouped using tags and Obsidian features. (Obsidia
 - Each main topic page in the notes area gets a # notes/something tag.
 	- Subtopics and keywords, format: # topic/something - these might have their own pages, or they might not
 - Tag structure 
-	- notes/
-	- topic/
-	- max/
+	- notes/ (stuff I want to explore further)
+	- topic/ (subtopics or keywords related to the notes)
 	- path/ (entry points to content)
 	- type/ (weeknotes, instructional content, maybe some others to come)
 
@@ -156,7 +157,7 @@ Here are the templates I've created for myself in my Obsidian setup.
 - Formatting help for consistency
 	- External link (drops template text in for me to edit)
 	- Quote (template text)
-- Zine Therapy
+- [Zine Therapy](http://zinetherapy.neocities.org)
 	- Survey (I fill this out every other week or so to capture what I'm feeling, thinking, processing, bad habits and patterns, etc.)
 	- Pre-zine survey (this helps me collect all my reflection over the last few months and think about it)
 
