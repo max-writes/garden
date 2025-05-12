@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-05-11T20:19:55.517-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-05-11T20:26:21.135-04:00"}
 ---
 
 #path/faq 
@@ -9,6 +9,7 @@ This page includes major updates only (significant new content, new pages, delet
 The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
 
 ## May 11, 2025
+Oh rad, I am having deployment issues.
 - Added: **The Body Keeps the Score**, **Book and Dagger**, **Horror Movies**, **Journal Systems**
 - Updated: **Cemetery List**, **Spring**, **Purpose and Guidelines**, **Good Things Lists**, **Romance Movies**, **NAS**, **Journal**, **Knowledge**, **Creativity**, **Digital Gardens**, **Living Seasons**, **African History**, **Your Haunted Brain**
 - Housekeeping

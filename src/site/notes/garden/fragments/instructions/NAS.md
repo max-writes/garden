@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/instructions/NAS.md","permalink":"/fragments/instructions/nas/","created":"2025-02-15T11:26:20.906-05:00","updated":"2025-05-04T14:24:26.782-04:00"}
+{"dg-publish":true,"dg-path":"fragments/instructions/NAS.md","permalink":"/fragments/instructions/nas/","created":"2025-02-15T11:26:20.906-05:00","updated":"2025-05-11T20:27:52.858-04:00"}
 ---
 
 #type/how-to #notes/technology #notes/content-management 
@@ -76,7 +76,7 @@ In my case, here were the steps:
 
 ![NAS-1746382125376.png|(1) Management > (2) Manual Install > (3) Browse to find .apk file > (4) Upload](/img/user/garden/fragments/instructions/attachments/NAS-1746382125376.png)
 
-![NAS-1746382261719.png|"Uploading File" shows while you wait.](/img/user/garden/fragments/instructions/attachments/NAS-1746382261719.png)
+![NAS-1746382261719.png|Uploading File shows while you wait.](/img/user/garden/fragments/instructions/attachments/NAS-1746382261719.png)
 
 5. You may get a message about the risks associated with installing unverified apps (similar to the message you get when you try to install .apk files on your phone). Review the details and verify you're comfortable with continuing.
 6. After accepting and installing, progress will begin.
