@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-06-25T22:00:33.223-04:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-06-26T09:59:59.289-04:00"}
 ---
 
  #notes/content-management #topic/digital-gardens 
@@ -116,6 +116,7 @@ Link: [maggieappleton.com/basb](https://maggieappleton.com/basb)
 > - [[garden/fragments/Content Management\|Content Management]]
 > - [[garden/fragments/Websites\|Websites]]
 > - #topic/digital-gardens
+> - #path/faq 
 
 
 

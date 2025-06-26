@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Autobiography of a Writer.md","permalink":"/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-03-18T20:01:08.514-04:00"}
+{"dg-publish":true,"dg-path":"trees/Autobiography of a Writer.md","permalink":"/trees/autobiography-of-a-writer/","created":"2024-12-14T13:49:19.887-05:00","updated":"2025-06-26T09:58:55.199-04:00"}
 ---
 
 #notes/writing #path/career
@@ -7,6 +7,7 @@
 
 In elementary school, my primary goal was to learn cursive. By middle school, I wanted to publish a great work of non-fiction that would change perspectives and help people see their value. In high school, everyone encouraged me to write fiction instead, but by the end of college I knew that wasn’t the right path.
 
+## Fiction
 I have several unedited books under my belt, but no desire to perfect them. The process was the exciting part. I loved to be surprised by a character’s decisions; I’d watch the story unfold as I typed and it would delight me as much as it might a reader. My favorite part was when I’d magically think of something that tied the current chapter to an earlier one.
 
 As a fiction writer, I was a “pantser.” This is a term coined by the folks leading National Novel Writing Month (“Nanowrimo”) and it means that you jump into the 50,000 words in 30 days challenge without an outline.  
@@ -16,6 +17,7 @@ As a fiction writer, I was a “pantser.” This is a term coined by the folks l
 
 At some point I burnt out (probably after writing 12-page papers for school four years in a row, and then cramming in two additional hours of fiction, with little balance otherwise). I lost my dream of writing a book that would change people’s lives and moved my focus more towards supporting technology that assisted in adult online continuing education. I found purpose in that, too.
 
+## Technical Communication
 In every role, I’ve been adaptable to new technology and finding ways to use it for efficiency, and patient with teaching others so they can improve, too. You can imagine how these skills served me in a technology-based career. That in addition to my sense of purpose found in the work that I do kept me employed for the next decade.
 
 Though I worked retail for part of it, I was the “tech person” at the job: not the one who could fix the computer, but the one who could help you improve your use of it. I could help you narrow down the search and use better keywords to find the customer’s books. At my small, family owned bookstore job, I suggested and built the website, providing materials and guidance on how to maintain it without me after I left. The web presence increased traffic a bit, but that was before I knew about Search Engine Optimization (SEO). I tried freelance web design for a few years, but what I loved about it was writing those site maintenance guides for my clients.

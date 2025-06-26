@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-25T22:12:44.646-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-26T10:01:20.667-04:00"}
 ---
 
 #path/faq 
@@ -16,6 +16,8 @@ I have been doing a lot of stuff on the offline side of this garden and although
 	* Updated all book and notes pages to add properties so I can use nice tag-filtered views of my books and media from the Datacards plugin.
 		* Oops this relies on Dataview and I never figured out how to publish that so now all those pages are ugly online but they are lovely in Obsidian!
 		* Reversed this update.
+	* Started adding headers to some of my older pieces in "trees." Most of these started as very rambly journal entries and I'll be updating and finessing.
+	* Started making connections between various notes and adding page links.
 
 ## May 11, 2025
 ~~Oh rad, I am having deployment issues.~~ hello, please be proud of me, I fixed my first deployment issue!

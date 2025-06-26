@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-06-25T22:01:40.736-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-06-26T09:56:34.824-04:00"}
 ---
 
 #notes/writing
@@ -46,7 +46,6 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 > - [[garden/notes/Creativity\|Creativity]]
 > - [[garden/fragments/Communication\|Communication]]
 > - [[garden/fragments/Technology\|Technology]]
-> - #path/career 
 > - #type/weeknotes 
 > - #type/how-to 
 
