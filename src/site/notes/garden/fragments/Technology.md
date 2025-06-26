@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Technology.md","permalink":"/fragments/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-06-25T22:02:31.210-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Technology.md","permalink":"/fragments/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-06-26T10:34:21.550-04:00"}
 ---
 
 #notes/technology 
@@ -15,6 +15,7 @@ History/timeline
 - [[garden/trees/library/Intro to AI Class\|Intro to AI Class]]
 - [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
 - [[garden/trees/library/are dot na\|are dot na]]
+- [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 ## My experiences/history
 all my things

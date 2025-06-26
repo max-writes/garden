@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-06-25T22:11:01.887-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-06-26T10:34:13.737-04:00"}
 ---
 
 #notes/disability
@@ -12,6 +12,7 @@ History/timeline
 ### Supporting my learning
 - [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
 - [[garden/trees/library/Divergent Mind\|Divergent Mind]]
+- [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 ## Quotes
 
