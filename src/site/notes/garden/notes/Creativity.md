@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-06-25T20:31:33.773-04:00"}
+{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-06-25T21:29:00.750-04:00"}
 ---
 
 #notes/creativity
@@ -23,6 +23,8 @@ Love is my biggest muse. When I'm in love, all I want to do is make stuff. My se
 - Collaborating with other creative people
 - Joining groups/gatherings with other creative people 
 - Books about being creative or creative journals
+
+<!-- QueryToSerialize: LIST WHERE WHERE contains(gardentags, "creativity") SORT file.name ASC -->
 
 ```datacards
 TABLE file.link, format, cover, gardentags 
