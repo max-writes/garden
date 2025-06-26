@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Your Haunted Brain.md","permalink":"/trees/library/your-haunted-brain/","created":"2025-01-07T20:38:36.130-05:00","updated":"2025-05-04T16:33:25.417-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Your Haunted Brain.md","permalink":"/trees/library/your-haunted-brain/","created":"2025-01-07T20:38:36.130-05:00","updated":"2025-06-25T20:43:51.798-04:00"}
 ---
 
-#topic/paranormal #topic/ghost-stories 
+#topic/paranormal #topic/ghost-stories #books 
 # Your Haunted Brain: The Essential Guide to Understanding the Interplay Between the Science, the Psychology, and the Superstition of Ghost Hunting and Human Fear
 by JR Meza
 ## Summary

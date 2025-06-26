@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/spring.md","permalink":"/fragments/spring/","created":"2025-03-22T19:29:07.044-04:00","updated":"2025-05-04T16:58:36.903-04:00"}
+{"dg-publish":true,"dg-path":"fragments/spring.md","permalink":"/fragments/spring/","created":"2025-03-22T19:29:07.044-04:00","updated":"2025-06-25T19:23:36.230-04:00"}
 ---
 
 #notes/seasons #topic/spring 
@@ -8,6 +8,27 @@ Spring is here! :)
 
 ## Diary
 
+### Spring is over! 6/25/25
+#diary-bingo 
+I did a pretty bad job of keeping this journal during spring, but I still have hope for summer. 
+
+![spring-1750893294017.jpg](/img/user/garden/fragments/attachments/spring-1750893294017.jpg)
+
+Overall I achieved 3 bingos this season! That's more than I expected.
+* Camping, Cherry Blossoms, Home Care, Bubbles
+* Flowers, Read, Home Care, Juneteenth
+* Pride, Mail, Juneteenth, Bubbles
+
+Since I didn't do a great job of keeping my bingo/season journal, I'll do a quick overview instead.
+* **Camping:** See next post for details
+* **Cherry Blossoms:** Even though I didn't go into DC to see the flowers this year, I made a cherry blossom coloring page so I counted that to fulfill the square.
+* **Home Care:** I leveled up my home care game by identifying areas that don't get cleaned a lot and giving them some extra attention. I also found ways to fit them into my seasonal routines!
+* **Bubbles:** Zenny and I tried catnip bubbles this season. She's interested but still unsure. She watches the bubbles but doesn't try to interact.
+* **Flowers:** See post below for details on the Lego flowers I built
+* **Read:** I made a concentrated effort this season to replace a good chunk of my social media / phone use time with reading. I've been reading a few books and made great progress this month!
+* **Juneteenth:** We get Juneteenth off work so I've been using the day to focus on learning about the history (documentaries, books, poetry, music, etc.). This year I listened to 6 hours of *People's History of the United States* by Howard Zinn.
+* **Pride:** I went to World Pride Day - Pride on the Pier in DC and got very hot and sweaty with many other LGBTQ+ folks as we danced to top 40 hits remixed to mash into each other.
+* **Mail:** I put mail on these bingo cards to help me keep up with my regular mail habit as incentive (it's sort of like the free space). This spring I sent a few postcards out reminding people to stay cool and observe the pops of color as spring evolves!
 ### First camping trip of the season 4/28/25
 #diary-camping #diary-bingo 
 **Where**: Big Bone Lick State Park in Kentucky, [Photo Album](https://myalbum.com/album/R3RKqj5EEEivFd/?invite=b677bb18-dda0-40a2-8721-14a1badb5b8e) 

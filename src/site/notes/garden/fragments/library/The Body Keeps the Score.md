@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/The Body Keeps the Score.md","permalink":"/fragments/library/the-body-keeps-the-score/","created":"2025-01-07T20:50:48.918-05:00","updated":"2025-04-07T19:23:28.167-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/The Body Keeps the Score.md","permalink":"/fragments/library/the-body-keeps-the-score/","created":"2025-01-07T20:50:48.918-05:00","updated":"2025-06-25T18:42:32.819-04:00"}
 ---
 
 #notes/mental-health 

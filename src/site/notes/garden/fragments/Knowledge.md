@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Knowledge.md","permalink":"/fragments/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-05-11T19:12:05.352-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Knowledge.md","permalink":"/fragments/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-06-25T20:30:18.666-04:00"}
 ---
 
 #notes/knowledge
@@ -16,8 +16,26 @@ value of tacit knowledge
 https://www.reddit.com/r/PKMS/comments/1k3ydsq/fundamentalsprinciples_for_a_good_pkms/
 ### Best practices
 ### Supporting my learning
-Books/resources
-zines
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "knowledge")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## My experiences/history
 I am on a path to learn everything I can about knowledge management!

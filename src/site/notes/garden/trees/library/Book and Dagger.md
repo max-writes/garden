@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Book and Dagger.md","permalink":"/trees/library/book-and-dagger/","created":"2025-03-18T23:32:20.362-04:00","updated":"2025-05-11T19:13:54.638-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Book and Dagger.md","permalink":"/trees/library/book-and-dagger/","created":"2025-03-18T23:32:20.362-04:00","updated":"2025-06-25T18:58:10.328-04:00"}
 ---
 
-#notes/europe #notes/north-america 
+#notes/europe #notes/north-america #books
 
 # Book and Dagger : How Scholars and Librarians Became the Unlikely Spies of World War II 
 by Elyse Graham

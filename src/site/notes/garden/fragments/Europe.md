@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Europe.md","permalink":"/fragments/europe/","created":"2025-03-17T17:51:23.642-04:00","updated":"2025-04-07T19:41:26.520-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Europe.md","permalink":"/fragments/europe/","created":"2025-03-17T17:51:23.642-04:00","updated":"2025-06-25T20:30:29.261-04:00"}
 ---
 
 #notes/europe
@@ -11,16 +11,26 @@ https://en.wikipedia.org/wiki/Europe
 - Covers 2% of Earth's surface, 6.8% of Earth's land area
 - Second-smallest continent
 ### Supporting my learning
-- WWII
-	- [[garden/trees/library/Book and Dagger\|Book and Dagger]]
-- Denmark
-	- [[garden/trees/library/The Little Book of Hygge\|The Little Book of Hygge]]
-- UK
-	- [[garden/fragments/library/The Ghost - A Cultural History\|The Ghost - A Cultural History]]
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "europe")
+SORT genre DESC
 
-TBR pile:
-- Germany
-	- The Auschwitz Photographer
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
+
 ## Links
 
 ## Countries/Regions

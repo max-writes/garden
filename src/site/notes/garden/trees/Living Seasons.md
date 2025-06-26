@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/Living Seasons.md","permalink":"/trees/living-seasons/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-05-04T14:29:56.685-04:00"}
+{"dg-publish":true,"dg-path":"trees/Living Seasons.md","permalink":"/trees/living-seasons/","created":"2024-12-14T14:11:50.355-05:00","updated":"2025-06-25T20:50:44.329-04:00"}
 ---
 
 #notes/seasons #topic/life-tracking
@@ -32,6 +32,8 @@ Once I complete each item, I color in the box. If I had just done ANYTHING for C
 **Spring Bingo**
 ![20250322_170427~2.jpg](/img/user/garden/trees/attachments/20250322_170427~2.jpg)
 
+**Summer bingo**
+![Living Seasons-1750898730905.jpg](/img/user/garden/trees/attachments/Living%20Seasons-1750898730905.jpg)
 
 I drop the bingo card into a journal dedicated to that season. 
 - Each time I finish an item, I color in the bingo square and make an entry in the journal explaining what I did and my thoughts about it
@@ -72,7 +74,19 @@ Under each season is a note for the following:
 	- This is where I do all my complaining and reflecting privately. I am thinking of making a SFW version and adding it to the digital garden.
 
 ### Seasonal Zine
-One of my 101 Things in 1,001 Days goals is to create a zine each season for a year. I'm starting this for Winter 2024-25 which at the time of writing is not done yet, so I don't have much to reflect on yet, but I've started drafting and figuring out what I want these seasonal zines to be.
+One of my 101 Things in 1,001 Days goals is to create a zine each season for a year. I'll add pictures soon!
+
+* Winter zine (2024-25)
+	* reflection on the season
+		* what happened in my life and what I was thinking/feeling all season
+		* printed images from my winter are.na channel (read above for more info)
+		* winter microseasons in the DC area
+		* winter free write / word association
+	* quotes and sayings
+	* what was in my winter bingo and the bingos I got
+	* review of the book *Wintering* by Katherine May
+	* projects/creative things I did during winter
+* Spring zine (2025)
 
 
 ## Seasonal Observation Projects (2022 - 2023)

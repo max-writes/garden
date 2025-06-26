@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-05-04T13:05:11.017-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-05-17T16:01:30.818-04:00"}
 ---
 
 #notes/mental-health 
@@ -23,6 +23,9 @@
 - Zenny lying on my side while I curl up for a nap
 - Snapchats from my best friend on her hikes and adventures
 - when someone sends you something that made them think of you
+- light and shadows in nature 
+- when you're taking a walk and it's really hot and suddenly there's a breeze 
+- The little bubbles in your legs that pop after a walk 
 
 Crushes
 - name change

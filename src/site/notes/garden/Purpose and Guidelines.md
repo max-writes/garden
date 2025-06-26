@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-05-11T20:07:51.985-04:00"}
+{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-06-25T21:03:33.852-04:00"}
 ---
 
 #path/faq
@@ -51,12 +51,36 @@ It's not perfect; you'll find a little bit of everything everywhere, but here ar
 | #path/career           | Related to my career                                                                                                                                                                                    |
 | #path/faq              | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
 
-Thank you for your patience while I get things organized.
-
 ---
 
 
 </div></div>
+
+
+
+## Learn in Public
+In reading about digital gardens and their philosophies, I keep seeing the "learn in public" approach come up, which is something I've been trying to do better with this site. (I am still learning to be consistent with it to get the most value.)
+
+For me, there are a few reasons to learn in public, as scary as it can be to be vulnerable about how much (or little) you know, and to put incomplete thoughts online assigned to your name.
+
+* Learn loudly and without structure
+	* Document as you go: [[garden/fragments/TIL\|TIL]], notes, book notes, "huh" or "a-ha" moments, etc.
+	* This is something I struggle with sometimes, but with my system it's easy to keep structures depending on what I need using tags, links, properties, and so on. 
+	* By encouraging myself to publish informal thoughts and partial exploration, it's easy to draft up an update and polish it for the site so I can keep the flows going.
+* Emphasis on growth
+	* I don't have to wait for everything to be perfect since it will always be in progress. (And it will probably always be a little messy.) It's more of an agile approach which I need to get better at in my professional life too so this is good practice!
+	* Because the notes are always a work in progress, it feels more like my learning will always be a work in progress. There's no point where I will know everything and in some ways it's easier to celebrate milestones of growth than it is to "wait until it's done."
+* Community education
+	* If anyone is in the same spot as I am/was for anything I've written about, my site could offer perspective or instructions in a moment when someone might need it. 
+	* When I add a mechanism for feedback my site will fit all the 'learn in public' criteria, inviting corrections and thoughts from others.
+* Max's knowledge archive
+	* It becomes a network of knowledge nuggets and insights from my experience and learning. 
+	* As I review and add to it over time, this helps reinforce memory and deepens my understanding of the topics and how they connect.
+
+### Learn in Public
+Link: [www.swyx.io/learn-in-public](https://www.swyx.io/learn-in-public)
+
+> Guess what? It’s not about reaching as many people as possible with your content. If you can do that, great, remember me when you’re famous. But chances are that _by far_ the biggest beneficiary of you trying to help past you is _future you_. If others benefit, that’s icing.
 
 
 ## Tools
@@ -85,22 +109,16 @@ Folder structure:
 
 - daily (daily notes)
 - ideas (all files that are just a brain fart of ideas)
-- responsibilities (taking care of my home, car, etc)
-	- health (keep up with meds, personal appointments, etc)
-	- zenny (taking care of my cat, appointments, blood work results, etc)
 - plex (Plex library guide for myself to track where things are stored and also help with reorganizing)
 - seasons (seasonal based to do, notes, projects, reflection, some may move to the garden)
 - templates (my templates for my obsidian setup)
 
 this folder is also where I keep 
 - my homepage, which loads when I open Obsidian and thanks to the *homepage* plugin I can have a separate one on mobile vs desktop ([plugin website](https://github.com/mirnovov/obsidian-homepage))
-- a snippets file which holds my cheat sheet for markdown and other script.
+- a snippets file which holds my cheat sheet for markdown and links to plugin documentation
+- various stats pages made from the *contribution graph* plugin
 #### digital garden (drafts)
-Items that enter the **digital garden**
-- add tags below file name
-- ​the title uses h1 
-- other headers use h2, h3 etc.
-- if you are adding a previously created file, add created date at the bottom under a horizontal rule
+Items that enter the **digital garden** are usually marked with the source or inspiration. (I started doing this about 5 months into maintaining the garden.) These include thoughts and ideas that I want to expand on, and potentially add to the public garden.
 
 subfolders:
 
@@ -123,7 +141,7 @@ same folder structure as above, including:
 	* 1 note per book/thing, write quotes and notes 
 
 Items are ready for the **garden** website when:
-- you've previewed the note for spacing etc (reading mode)
+- you've previewed the note for formatting etc (reading mode)
 - you added the publish property to the page
 - all sources have proper citing if you know it
 - you're ready to share a half baked thought without anxiety 
@@ -138,6 +156,8 @@ This describes how content is grouped using tags and Obsidian features. (Obsidia
 	- topic/ (subtopics or keywords related to the notes)
 	- path/ (entry points to content)
 	- type/ (weeknotes, instructional content, maybe some others to come)
+- Properties
+	- Properties are primarily used to help filter Datacards or Dataviews.
 
 Obsidian only:
 - Use bookmarks for stuff I use in everyday life (eg grocery list, to do)
@@ -147,17 +167,20 @@ Obsidian only:
 Here are the templates I've created for myself in my Obsidian setup.
 
 - Diary entries (insert into notes as needed)
-	- Anger diary, therapy survey (part of my self-therapy practice)
+	- Anger diary, anxiety diary, therapy survey (part of my self-therapy practice)
 	- Book report (questions about a book I just finished)
 	- EOY and Decade questions (from [Steph Ango](https://stephango.com))
 	- Now (inserts template text for my [[garden/Now\|Now]] page)
 - Template pages
 	- Book page (uses the *Book Search* plugin to create a page with metadata for a specific book - [plugin website](https://github.com/anpigon/obsidian-book-search-plugin))
 	- Seasonal to do (I create one each season, this has the categories set up for me) - [[garden/trees/Living Seasons\|Living Seasons]]
+	- 
 - Formatting help for consistency
-	- External link (drops template text in for me to edit)
+	- Link (drops template text in for me to edit)
 	- Quote (template text)
+	- Origin footnote (adds formatting so I can include a source or inspiration)
 - [Zine Therapy](http://zinetherapy.neocities.org)
+	- Seasonal page (this generates a template diary page for Zine Therapy survey and emotion diary entries)
 	- Survey (I fill this out every other week or so to capture what I'm feeling, thinking, processing, bad habits and patterns, etc.)
 	- Pre-zine survey (this helps me collect all my reflection over the last few months and think about it)
 

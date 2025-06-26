@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Australia.md","permalink":"/fragments/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-03-22T22:38:18.586-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Australia.md","permalink":"/fragments/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-06-25T20:31:08.343-04:00"}
 ---
 
 #notes/australia
@@ -12,9 +12,26 @@ https://en.wikipedia.org/wiki/Australia
 - Sixth largest country in the world
 - Flattest and driest inhabited continent
 ### Supporting my learning
-TBR pile:
-- Dark Emu: Aboriginal Australia and the Birth of Agriculture
-- History of Australia and New Zealand From 1606 to 1890
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "australia")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## Links
 

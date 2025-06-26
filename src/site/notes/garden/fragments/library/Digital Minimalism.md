@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Digital Minimalism.md","permalink":"/fragments/library/digital-minimalism/","created":"2025-01-07T20:35:53.974-05:00","updated":"2025-05-11T20:03:26.397-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Digital Minimalism.md","permalink":"/fragments/library/digital-minimalism/","created":"2025-01-07T20:35:53.974-05:00","updated":"2025-06-25T18:51:47.141-04:00"}
 ---
 
-#notes/technology #notes/mental-health 
+#notes/technology #notes/mental-health #books 
 # Digital Minimalism : Choosing a Focused Life in a Noisy World
 by Cal Newport
 ## Summary

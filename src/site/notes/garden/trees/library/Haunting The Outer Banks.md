@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Haunting The Outer Banks.md","permalink":"/trees/library/haunting-the-outer-banks/","created":"2024-12-14T13:04:28.018-05:00","updated":"2025-03-19T12:49:42.037-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Haunting The Outer Banks.md","permalink":"/trees/library/haunting-the-outer-banks/","created":"2024-12-14T13:04:28.018-05:00","updated":"2025-06-25T19:02:36.659-04:00"}
 ---
 
-#topic/ghost-stories 
+#topic/ghost-stories #books
 # Haunting The Outer Banks: Thirteen Tales Of Terror From The North Carolina Coast
 by Joe Sledge
 ## Summary

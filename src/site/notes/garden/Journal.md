@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-05-04T15:02:01.016-04:00"}
+{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-06-25T20:14:52.820-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 There are a few journals I keep around this site, in addition to the one below. I find it easier to keep track of my thoughts and patterns if they're categorized and kept within certain contexts, so I'll use tags to keep track of those thoughts in one spot even though they may not be written in 1 place.
 
 If you're interested in the rest, find them under:
-- #diary-bingo : Progress and reflection on my [[garden/trees/Living Seasons#bingo\|seasonal BINGO]] cards, beginning in Spring 2025
+- #diary-bingo : Progress and reflection on my [[garden/trees/Living Seasons#bingo\|seasonal BINGO]] cards
 - #diary-camping : Entries about camping 
 
 ## April 19, 2025

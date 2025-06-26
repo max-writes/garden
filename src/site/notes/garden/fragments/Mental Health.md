@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Mental Health.md","permalink":"/fragments/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-03-22T22:36:13.006-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Mental Health.md","permalink":"/fragments/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-06-25T20:30:01.831-04:00"}
 ---
 
 #notes/mental-health
@@ -11,11 +11,26 @@ Therapy/survey, Reaction vs response, Neuropsychology, life tracking
 Definitions
 History/timeline
 ### Supporting my learning
-- [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
-- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
-- [[garden/trees/library/I Didn’t Do the Thing Today\|I Didn’t Do the Thing Today]]
-- [[garden/trees/library/Routines and Ruts\|Routines and Ruts]]
-- [[garden/trees/library/The Little Book of Hygge\|The Little Book of Hygge]]
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "mental-health")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## Quotes
 

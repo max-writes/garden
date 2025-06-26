@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Transgender History.md","permalink":"/fragments/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-03-19T13:01:09.598-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Transgender History.md","permalink":"/fragments/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-06-25T18:54:20.416-04:00"}
 ---
 
-#topic/lgbtq #notes/identity 
+#topic/lgbtq #notes/identity #books
 # Transgender History
 by Susan Stryker
 ## Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Books.md","permalink":"/fragments/books/","created":"2025-03-18T20:09:41.870-04:00","updated":"2025-05-11T19:12:14.853-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Books.md","permalink":"/fragments/books/","created":"2025-03-18T20:09:41.870-04:00","updated":"2025-06-25T20:31:03.744-04:00"}
 ---
 
 #notes/books
@@ -11,8 +11,26 @@
 Definitions
 History/timeline
 ### Supporting my learning
-TBR pile:
-- A History of Reading
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "books")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## My experiences/history
 I was a bookseller for 6 years and I've been a reader my whole life! I love reading books about books and have a few in my library waiting for my attention.

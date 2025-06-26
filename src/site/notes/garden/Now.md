@@ -1,11 +1,32 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-05-04T15:00:39.192-04:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-06-25T20:13:51.183-04:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
 [[garden/trees/Now (archive)\|Now (archive)]]
 
+## June 25, 2025
+I moved some stuff off my phone Obsidian sync and as a result I now only touch the garden when I'm on my computer. This was INTENTIONAL to get myself off my phone but as a result I completely forgot about the public garden and have only been focusing on offline stuff. 
+
+Listening to: *Heartbeats* Korean drama, S1 E14 - literally a scene where they are running to find each other, how romantic!
+
+What I've been doing with websites:
+* I redesigned some of my personal sites to align them with what I want for them more, I've mostly just been designing and redesigning and not focusing much on populating content.
+* Building on content in the offline digital garden and in my personal notes area. Obsidian has become a vital part of managing my life and keeping up with things, as well as giving me a feedback loop to inspire myself over and over again... It's been 6 months since I began and I'm excited about this outcome so far!
+
+What's going on creatively:
+* Since spring ended I'm supposed to make a spring seasonal zine which is another [[garden/trees/Living Seasons\|yearlong seasonal project]] and I do want to do it, but I am also incredibly hot and unmotivated.
+* We had Art & Eat at work today and I did a unicorn coloring page emphasizing love and support between the LGB and Trans communities. I accidentally used a kind of peach instead of a pink for the trans unicorn but that's okay. I really love the rainbow one. I ran out of time after coloring the banner but maybe I'll revisit later and color the horses too.
+
+![Now-1750894631115.jpg](/img/user/garden/attachments/Now-1750894631115.jpg)
+
+What's going on at work:
+
+I worked today but now I am on VACATION for a few days!
+
+- I've been busy all of June (and a little of May) building a training hub SharePoint site with two coworkers. It's been fun working with them! We finally launched yesterday which was a huge relief: I don't have to think or wonder about it while I'm out of the office. I enjoyed the work building the hub and I'm thinking of writing up a little case study on it that includes thoughts and decisions made. During our project we used some of the AI tools available from work to make marketing materials. These included: (1) a theme song, (2) a music video for the theme song, (3) a storybook, and (4) a professional launch video showing how to use and contribute to the new training hub. (Not that the first three couldn't be professional, but they favored humor.)
+- We finally got buy-in to eliminate a term-to-term process and set options globally, adding exception courses only. There would be perhaps 100 exceptions in our catalog of thousands so it would help a lot with relieving work from my team and our partners. I'll have to plan it for the next quarter but I'm excited! In the meantime, I managed to close out one part of the term settings ticket before my break so that's TWO giant work responsibilities off my mind for my break!
 ## May 4, 2025
 I am paying attention to this because I haven't touched it in weeks. I have thought about it a few times but I've been focused more on keeping up with bare minimum stuff. Also, Zenny wants to be on my lap 24/7 so it's hard to type on a laptop under those conditions.
 

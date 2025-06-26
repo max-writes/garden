@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Men Without Women.md","permalink":"/trees/library/men-without-women/","created":"2024-12-14T13:04:28.018-05:00","updated":"2025-03-19T12:52:53.027-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Men Without Women.md","permalink":"/trees/library/men-without-women/","created":"2024-12-14T13:04:28.018-05:00","updated":"2025-06-25T19:05:36.984-04:00"}
 ---
 
 #notes/stories 

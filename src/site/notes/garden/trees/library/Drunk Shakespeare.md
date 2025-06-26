@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Drunk Shakespeare.md","permalink":"/trees/library/drunk-shakespeare/","created":"2024-12-14T14:19:08.792-05:00","updated":"2025-02-20T21:08:31.398-05:00"}
+{"dg-publish":true,"dg-path":"trees/library/Drunk Shakespeare.md","permalink":"/trees/library/drunk-shakespeare/","created":"2024-12-14T14:19:08.792-05:00","updated":"2025-06-25T20:35:33.892-04:00"}
 ---
 
-#topic/lgbtq 
+#topic/lgbtq #liveevents
 # Drunk Shakespeare 
 
 It’s the season for hangouts which means I was too busy to go to ANY other pride event in June. I have a severe lack of [[digital garden/fragments/queer\|queer]] and LGBTQ+ folks in my friend group. (It’s also a season for [[digital garden/fragments/hot hot heat\|hot hot heat]], so I didn’t want to go out much anyway.)

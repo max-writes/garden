@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Monster Hunter Now.md","permalink":"/trees/library/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-03-18T20:20:41.416-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Monster Hunter Now.md","permalink":"/trees/library/monster-hunter-now/","created":"2024-12-14T13:39:37.990-05:00","updated":"2025-06-25T20:41:08.947-04:00"}
 ---
 
-#topic/video-games
+#topic/video-games #apps 
 # Monster Hunter Now
 
 If you play Monster Hunter Now, be my friend! 432370729670

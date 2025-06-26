@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-03-19T12:59:42.666-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/The Little Book of Hygge.md","permalink":"/trees/library/the-little-book-of-hygge/","created":"2024-12-14T12:59:12.212-05:00","updated":"2025-06-25T20:42:59.803-04:00"}
 ---
 
-#topic/productivity #topic/winter #topic/rest
+#topic/productivity #topic/winter #topic/rest #books
 # The Little Book of Hygge : Danish Secrets to Happy Living
 by Meik Wiking
 ## Summary

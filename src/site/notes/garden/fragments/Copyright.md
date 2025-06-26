@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Copyright.md","permalink":"/fragments/copyright/","created":"2025-03-17T17:45:07.970-04:00","updated":"2025-03-22T22:38:00.594-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Copyright.md","permalink":"/fragments/copyright/","created":"2025-03-17T17:45:07.970-04:00","updated":"2025-06-25T20:30:47.337-04:00"}
 ---
 
 #notes/copyright
@@ -31,8 +31,26 @@ inspiration vs infringement
 things that copyright applies to that you didn't realize it would apply to
 ### Best practices
 ### Supporting my learning
-Books/resources
-zines
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "copyright")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## My experiences/history
 I was hired at a university in 2014 to assist with an Open Educational Resources (OER) initiative to move all textbooks and learning resources not just online, but hosted within the university's content management system. I didn't become an expert in copyright but I learned a lot and I want to expand that knowledge!

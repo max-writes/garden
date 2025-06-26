@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/African History.md","permalink":"/trees/library/african-history/","created":"2024-12-20T18:06:14.338-05:00","updated":"2025-05-04T16:30:09.343-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/African History.md","permalink":"/trees/library/african-history/","created":"2024-12-20T18:06:14.338-05:00","updated":"2025-06-25T18:58:48.219-04:00"}
 ---
 
-#notes/africa 
+#notes/africa #books
 # African History: Explore The Amazing Timeline of The World’s Richest Continent - The History, Culture, Folklore, Mythology & More of Africa
 by History Brought Alive
 

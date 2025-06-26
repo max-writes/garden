@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Shady Characters.md","permalink":"/fragments/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-03-19T12:54:46.593-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Shady Characters.md","permalink":"/fragments/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-06-25T18:53:22.336-04:00"}
 ---
 
-#topic/language 
+#topic/language #books
 # Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks
 by Keith Houston
 ## Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-05-04T13:14:00.343-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-05-31T14:20:52.071-04:00"}
 ---
 
 #tagTBD 
@@ -9,87 +9,87 @@ I need to do better about packing so I started this page to help me. Even though
 #diary-camping 
 
 ✍️ prep
-- [ ] reservation details 
-- [ ] plans for Zenny care
-- [ ] head lamp (charged)
-- [ ] battery (charged)
-- [ ] phone charger, medicine 
-- [ ] camera (charged)
+- reservation details 
+- plans for Zenny care
+- head lamp (charged)
+- battery (charged)
+- phone charger, medicine 
+- camera (charged)
 
 🏕️ camping kit
-- [ ] paper towels 
-- [ ] tent, cot, sleeping bag, pillow
-- [ ] welcome mat 
-- [ ] Crocs & hiking shoes 
-- [ ] yellow solo cup with eyes for wine 
-- [ ] umbrella 
-- [ ] baseball hat, sun hat, sunglasses, sun scarf
-- [ ] lighters
-- [ ] water bottle, coffee cup
-- [ ] trash bags
-- [ ] compass
-- [ ] brush, toothbrush, floss, mouthwash, toothpaste, deodorant 
-- [ ] cooler 
-- [ ] card game 
-- [ ] laundry bag (pillowcase)
-- [ ] towel
+- paper towels
+- tent, cot, sleeping bag, pillow
+- welcome mat 
+- Crocs & hiking shoes 
+- yellow solo cup with eyes for wine 
+- umbrella 
+- baseball hat, sun hat, sunglasses, sun scarf
+- lighters
+- water bottle, coffee cup
+- trash bags
+- compass
+- brush, toothbrush, floss, mouthwash, toothpaste, deodorant 
+- cooler 
+- card game 
+- laundry bag (pillowcase)
+- towel
 
 💰 stock up for camping kit
-- [ ] fire starters
-- [ ] hand warmer packs
-- [ ] sunscreen 
-- [ ] bug spray 
-- [ ] foil
-- [ ] salt, pepper, spices
-- [ ] sponges, bags, dish soap 
-- [ ] body wipes 
+- fire starters
+- hand warmer packs
+- sunscreen 
+- bug spray 
+- foil
+- salt, pepper, spices
+- sponges, bags, dish soap 
+- body wipes 
 
 💰buy once and put in camping kit (mostly for solo camping)
-- [ ] flashlight
-- [ ] tablecloth 
-- [ ] pots and pans 
-- [ ] scissors
-- [ ] knife, axe, mallet
-- [ ] multi tool 
-- [ ] first aid kit 
-- [ ] glasses case
-- [ ] broom, dust pans
-- [ ] plates, bowls
-- [ ] dish washing basin 
-- [ ] silverware 
-- [ ] Tupperware 
-- [ ] bottle opener, can opener, wine corker 
-- [ ] potholders 
+- flashlight
+- tablecloth 
+- pots and pans 
+- scissors
+- knife, axe, mallet
+- multi tool 
+- first aid kit 
+- glasses case
+- broom, dust pans
+- plates, bowls
+- dish washing basin 
+- silverware 
+- Tupperware 
+- bottle opener, can opener, wine corker 
+- potholders 
 
 💰 buy each time 
-- [ ] firewood 
-- [ ] ice
+- firewood 
+- ice
 
 🎒pack
-- [ ] a blanket for your legs
-- [ ] book, journal, pen
+- a blanket for your legs
+- book, journal, pen
 
 **< 3 days**
-- [ ] 2 pairs of pants
-- [ ] 3 shirts 
-- [ ] sleep shirts (depends on weather)
+- 2 pairs of pants
+- 3 shirts 
+- sleep shirts (depends on weather)
 **Longer than that**
-- [ ] 1 shirt, 1 underwear, 1 pair of socks per day + 1 extra. 1 pair of pants for every 2 days.
-- [ ] shampoo, conditioner, body wash, toilet paper 
+- 1 shirt, 1 underwear, 1 pair of socks per day + 1 extra. 1 pair of pants for every 2 days.
+- shampoo, conditioner, body wash, toilet paper 
 **Cold camping**
-- [ ] hand warmer packs
-- [ ] leggings 
-- [ ] long sleeve shirts as undershirts
-- [ ] fingerless gloves and sleeping gloves 
-- [ ] thin hoodie for sleeping 
-- [ ] extra socks 
-- [ ] warm hat
-- [ ] extra blankets - sleeping and sitting around
+- hand warmer packs
+- leggings 
+- long sleeve shirts as undershirts
+- fingerless gloves and sleeping gloves 
+- thin hoodie for sleeping 
+- extra socks 
+- warm hat
+- extra blankets - sleeping and sitting around
 **Hot camping**
-- [ ] extra ice!!
-- [ ] tank tops
-- [ ] shorts
-- [ ] sheets (to use as blankets)
+- extra ice!!
+- tank tops
+- shorts
+- sheets (to use as blankets)
 
 
 ## Train trip

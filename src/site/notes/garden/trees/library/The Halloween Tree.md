@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/The Halloween Tree.md","permalink":"/trees/library/the-halloween-tree/","created":"2024-12-14T13:19:49.393-05:00","updated":"2025-03-19T13:04:42.127-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/The Halloween Tree.md","permalink":"/trees/library/the-halloween-tree/","created":"2024-12-14T13:19:49.393-05:00","updated":"2025-06-25T19:06:51.456-04:00"}
 ---
 
-#topic/ghost-stories 
+#topic/ghost-stories #books
 # The Halloween Tree
 by Ray Bradbury
 ## Summary

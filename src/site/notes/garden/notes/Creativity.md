@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-05-04T15:57:59.121-04:00"}
+{"dg-publish":true,"dg-path":"notes/Creativity.md","permalink":"/notes/creativity/","created":"2025-02-20T22:13:31.996-05:00","updated":"2025-06-25T20:31:33.773-04:00"}
 ---
 
 #notes/creativity
@@ -24,6 +24,25 @@ Love is my biggest muse. When I'm in love, all I want to do is make stuff. My se
 - Joining groups/gatherings with other creative people 
 - Books about being creative or creative journals
 
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "creativity")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 ## My experiences/creations
 I have been a creative person my whole life.
 

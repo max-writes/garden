@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/The Ghost - A Cultural History.md","permalink":"/fragments/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-03-19T12:56:23.941-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/The Ghost - A Cultural History.md","permalink":"/fragments/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-06-25T18:53:51.314-04:00"}
 ---
 
-#topic/ghost-stories 
+#topic/ghost-stories #books 
 # The Ghost: A Cultural History
 by Susan Owens
 ## Summary

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Intro to AI Class.md","permalink":"/trees/library/intro-to-ai-class/","created":"2024-12-14T13:50:46.918-05:00","updated":"2025-03-18T20:20:14.954-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Intro to AI Class.md","permalink":"/trees/library/intro-to-ai-class/","created":"2024-12-14T13:50:46.918-05:00","updated":"2025-06-25T20:40:14.581-04:00"}
 ---
 
- #topic/artificial-intelligence
+ #topic/artificial-intelligence #courses
 # Intro to AI Class
 
 I finished the [Introduction to Artificial Intelligence](https://www.linkedin.com/learning/introduction-to-artificial-intelligence) course on LinkedIn. It was a quick 1.5 hours of learning to introduce concepts I need to know for my next big project.

@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-05-04T16:50:05.682-04:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-06-25T20:51:47.528-04:00"}
 ---
 
 
 # Hello!
-Welcome to my site! This is a [[garden/notes/Digital Gardens\|digital garden]] which means it's a mostly flat file system containing my thoughts, knowledge, notes, ideas, and connections. I am already having anxiety about learning in public.
+Welcome! This is my digital garden and my name is Max!
+
+**Purpose:** [[garden/Purpose and Guidelines#Learn in Public\|Learning in public]] through my [[garden/notes/Digital Gardens\|digital garden]] helps me document and share my evolving thoughts, get over perfectionism, and build a personal knowledge archive that grows with me.
+
+**Disclaimer:** Proceed knowing that I write about a lot of stuff and I know I could be wrong! When I talk about my life and events I try to bring it back a few steps to generalize the experience, but if I've misrepresented anything concerning, please let me know and I'll correct it.
+
 ## Browse to read!
 My goal for this site is to create non-linear paths of browsing and learning. 
 
@@ -18,8 +23,6 @@ It's not perfect; you'll find a little bit of everything everywhere, but here ar
 | #path/lessons-learned  | Capturing various lessons learned over my life                                                                                                                                                          |
 | #path/career           | Related to my career                                                                                                                                                                                    |
 | #path/faq              | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
-
-Thank you for your patience while I get things organized.
 
 ---
 
@@ -38,7 +41,7 @@ To do
 - [ ] Move quotes from draft garden to online pages 
 - [ ] Export Google Books quotes and add to garden pages
 - [ ] Type quotes from physical books
-- [ ] Create genre/author tags for books after adding more - there are beginning to be lots of repeats
+- [ ] Add contact mechanism or feedback form
 - [ ] Can I use a customized "page not found" template (I tried, it broke my site)
 - [ ] Test with NVDA
 

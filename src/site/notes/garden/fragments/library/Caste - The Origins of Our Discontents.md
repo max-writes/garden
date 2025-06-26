@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Caste - The Origins of Our Discontents.md","permalink":"/fragments/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-03-19T12:37:04.717-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Caste - The Origins of Our Discontents.md","permalink":"/fragments/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-06-25T18:51:19.922-04:00"}
 ---
 
-#notes/north-america 
+#notes/north-america #books
 # Caste : The Origins of Our Discontents
 by Isabel Wilkerson
 ## Summary

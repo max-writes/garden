@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Divergent Mind.md","permalink":"/trees/library/divergent-mind/","created":"2025-01-07T20:43:17.774-05:00","updated":"2025-03-19T12:39:16.506-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Divergent Mind.md","permalink":"/trees/library/divergent-mind/","created":"2025-01-07T20:43:17.774-05:00","updated":"2025-06-25T19:00:36.986-04:00"}
 ---
 
-#notes/mental-health #topic/neurodivergent 
+#notes/mental-health #topic/neurodivergent #books 
 # Divergent Mind : Thriving in a World That Wasn't Designed for You
 by Jenara Nerenberg
 ## Summary

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Dysfunctional Documents.md","permalink":"/fragments/library/dysfunctional-documents/","created":"2025-01-07T20:17:51.882-05:00","updated":"2025-03-22T22:15:34.504-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Dysfunctional Documents.md","permalink":"/fragments/library/dysfunctional-documents/","created":"2025-01-07T20:17:51.882-05:00","updated":"2025-06-25T18:53:04.937-04:00"}
 ---
 
-#notes/content-management #notes/writing 
+#notes/content-management #notes/writing #books
 # Dysfunctional Documents : A 12-Step Recovery Program for User Documentation
 by Kurt Ament
 
@@ -28,7 +28,7 @@ This hands-on guide shows you how to use levels of edit to turn dysfunctional do
 > 
 > author: Kurt Ament
 > 
-> genre: 
+> genre: Editing
 > 
 > publisher: Levels of Edit
 > 

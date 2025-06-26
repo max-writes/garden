@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Axe Con - 2024.md","permalink":"/trees/library/axe-con-2024/","created":"2024-12-14T13:51:49.885-05:00","updated":"2025-04-10T23:20:33.629-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Axe Con - 2024.md","permalink":"/trees/library/axe-con-2024/","created":"2024-12-14T13:51:49.885-05:00","updated":"2025-06-25T20:34:42.499-04:00"}
 ---
 
-#topic/accessibility #path/lessons-learned 
+#topic/accessibility #path/lessons-learned #conferences
 # Axe-Con 2024
 Recently I “attended” [Axe-Con 2024](https://www.deque.com/axe-con/), a virtual conference dedicated to accessibility in the digital experience. I create digital experiences for people at work all the time, whether I’m writing guides or making recommendations about how to handle/process content in the classroom. (Attended is in quotes because I watched many of the videos after it was over, though I did catch one or two live sessions!)
 

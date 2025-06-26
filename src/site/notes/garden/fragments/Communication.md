@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Communication.md","permalink":"/fragments/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-05-11T20:00:57.102-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Communication.md","permalink":"/fragments/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-06-25T20:30:59.168-04:00"}
 ---
 
 #notes/communication
@@ -12,7 +12,26 @@ History/timeline
 Different types of communication
 ### Best practices
 ### Supporting my learning
-- *In progress - Nonviolent Communication*
+
+```datacards
+TABLE file.link, format, cover, gardentags 
+WHERE contains(gardentags, "communication")
+SORT genre DESC
+
+// Settings
+preset: portrait
+imageProperty: cover
+imageFit: contain
+columns: 4
+fontSize: small
+showLabels: true
+propertiesAlign: center
+exclude: file.link, gardentags
+titleAlign: center
+enableShadows: true
+mobilePreset: compact
+mobileColumns: 1
+```
 
 ## My experiences/history
 I was very awkward for a long time but I got over it and now I'm a confident talker. Sometimes too confident.
