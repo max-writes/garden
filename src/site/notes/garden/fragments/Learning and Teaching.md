@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Learning and Teaching.md","permalink":"/fragments/learning-and-teaching/","created":"2025-02-01T01:57:24.214-05:00","updated":"2025-06-25T20:30:06.978-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Learning and Teaching.md","permalink":"/fragments/learning-and-teaching/","created":"2025-02-01T01:57:24.214-05:00","updated":"2025-06-25T22:09:36.380-04:00"}
 ---
 
 #notes/education #notes/knowledge #topic/learning #topic/teaching
@@ -13,25 +13,6 @@ History/timeline
 ### Best practices
 ### Supporting my learning
 
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "learning and teaching")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
 
 ## My experience
 I consider myself a lifelong learner and I am very interested in the mechanics and methodologies behind teaching and learning. I took several Graduate level learning design and technology courses in 2014-2016 which made me realize that the interest was just an interest, not a career passion.

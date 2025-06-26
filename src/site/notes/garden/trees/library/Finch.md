@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-06-25T20:36:25.565-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Finch.md","permalink":"/trees/library/finch/","created":"2024-12-14T12:29:38.945-05:00","updated":"2025-06-25T22:02:42.267-04:00"}
 ---
 
 #topic/life-tracking #apps 

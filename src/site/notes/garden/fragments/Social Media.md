@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Social Media.md","permalink":"/fragments/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-06-25T20:27:44.305-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Social Media.md","permalink":"/fragments/social-media/","created":"2024-12-14T17:36:06.484-05:00","updated":"2025-06-25T22:04:27.473-04:00"}
 ---
 
 #notes/technology #notes/communication #topic/social-media 
@@ -55,26 +55,8 @@ https://youtu.be/xfEGTgZAGcw
 
 
 ### Supporting my learning
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "social-media")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
+- [[garden/trees/library/are dot na\|are dot na]]
 
 ## My experiences/history
 

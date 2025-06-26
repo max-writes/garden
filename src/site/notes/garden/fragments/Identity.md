@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Identity.md","permalink":"/fragments/identity/","created":"2025-02-20T22:14:08.400-05:00","updated":"2025-06-25T20:30:23.975-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Identity.md","permalink":"/fragments/identity/","created":"2025-02-20T22:14:08.400-05:00","updated":"2025-06-25T22:10:10.653-04:00"}
 ---
 
 #notes/identity
@@ -11,26 +11,9 @@ Definitions
 History/timeline
 ### Best practices
 ### Supporting my learning
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "identity")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
+- [[garden/fragments/library/Caste - The Origins of Our Discontents\|Caste - The Origins of Our Discontents]]
+- [[garden/fragments/library/Transgender History\|Transgender History]]
 
 ## Quotes
 

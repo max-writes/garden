@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-06-25T20:28:32.897-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-06-25T22:01:40.736-04:00"}
 ---
 
 #notes/writing
@@ -12,29 +12,8 @@ History/timeline
 ### Best practices
 ### Supporting my learning
 - [[garden/trees/10 Years of Doc Work\|10 Years of Doc Work]]
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "writing")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
-
-TBR pile:
-- A History of Writing
+- [[garden/fragments/library/Shady Characters\|Shady Characters]]
+- [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
 
 ## My experience
 - [[garden/trees/Autobiography of a Writer\|Autobiography of a Writer]]

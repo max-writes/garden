@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/North America.md","permalink":"/fragments/north-america/","created":"2025-03-17T17:50:38.610-04:00","updated":"2025-06-25T20:29:54.544-04:00"}
+{"dg-publish":true,"dg-path":"fragments/North America.md","permalink":"/fragments/north-america/","created":"2025-03-17T17:50:38.610-04:00","updated":"2025-06-25T22:08:45.394-04:00"}
 ---
 
 #notes/north-america
@@ -12,30 +12,11 @@ https://en.wikipedia.org/wiki/North_America
 - Third-largest continent
 - In 2021, estimated 7.5% of the world's population
 ### Supporting my learning
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "north-america")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
-
-TBR pile:
-- USA
-	- An Indigenous People's History of the United States
+- [[garden/fragments/library/Caste - The Origins of Our Discontents\|Caste - The Origins of Our Discontents]]
+- [[garden/fragments/library/Transgender History\|Transgender History]]
+- [[garden/trees/library/Book and Dagger\|Book and Dagger]]
+- [[garden/trees/library/Haunting The Outer Banks\|Haunting The Outer Banks]]
+- [[garden/trees/library/Unsinkable\|Unsinkable]]
 
 ## Links
 

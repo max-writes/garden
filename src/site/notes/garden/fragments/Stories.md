@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-06-25T20:29:21.875-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-06-25T22:03:43.380-04:00"}
 ---
 
 #notes/stories
@@ -17,26 +17,13 @@ ghost stories
 Definitions
 History/timeline
 ### Supporting my learning
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "stories")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/trees/library/African History\|African History]]
+- [[garden/fragments/library/The Ghost - A Cultural History\|The Ghost - A Cultural History]]
+- [[garden/trees/library/Haunting The Outer Banks\|Haunting The Outer Banks]]
+- [[garden/trees/library/Men Without Women\|Men Without Women]]
+- [[garden/trees/library/The Halloween Tree\|The Halloween Tree]]
+- [[garden/trees/library/Unsinkable\|Unsinkable]]
+- [[garden/trees/library/Drunk Shakespeare\|Drunk Shakespeare]]
 
 ## My experiences/history
 

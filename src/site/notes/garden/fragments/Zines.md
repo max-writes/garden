@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Zines.md","permalink":"/fragments/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-06-25T20:28:27.618-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Zines.md","permalink":"/fragments/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-06-25T22:01:18.727-04:00"}
 ---
 
 #notes/creativity #topic/zines
@@ -12,25 +12,6 @@ https://www.theguardian.com/commentisfree/2017/jan/13/i-read-zines-to-escape-sur
 Definitions
 History/timeline
 ### Supporting my learning
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "zines")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
 
 ## My experience
 I've been making zines since 2012!

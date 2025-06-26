@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/I Didn’t Do the Thing Today.md","permalink":"/trees/library/i-didn-t-do-the-thing-today/","created":"2024-12-14T13:03:08.680-05:00","updated":"2025-06-25T19:10:30.220-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/I Didn’t Do the Thing Today.md","permalink":"/trees/library/i-didn-t-do-the-thing-today/","created":"2024-12-14T13:03:08.680-05:00","updated":"2025-06-25T22:03:50.983-04:00"}
 ---
 
 #notes/process #notes/creativity #topic/productivity #books

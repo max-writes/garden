@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-05-31T14:20:52.071-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Packing Lists.md","permalink":"/fragments/packing-lists/","created":"2024-12-23T21:14:59.292-05:00","updated":"2025-06-25T22:08:10.246-04:00"}
 ---
 
 #tagTBD 
@@ -91,9 +91,21 @@ I need to do better about packing so I started this page to help me. Even though
 - shorts
 - sheets (to use as blankets)
 
+## Beach week
+- a top for each day
+- bottoms for most days (you probably won't do much)
+- sunscreen
+- towels
+- swimsuit
+- flip flops / crocs
+- small backpack
+- phone charger, portable battery (charged)
+- book, journal, pen, postcards
+- travel toiletries (including hair stuff)
+- water toys
+- plush or pillow
 
 ## Train trip
-
 - 2 pillows (head and back)
 - shoes/slippers for walking around that are not the same shoes you'll wear all vacation 
 - extra drinks 

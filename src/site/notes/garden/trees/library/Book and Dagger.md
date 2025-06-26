@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"trees/library/Book and Dagger.md","permalink":"/trees/library/book-and-dagger/","created":"2025-03-18T23:32:20.362-04:00","updated":"2025-06-25T18:58:10.328-04:00"}
+{"dg-publish":true,"dg-path":"trees/library/Book and Dagger.md","permalink":"/trees/library/book-and-dagger/","created":"2025-03-18T23:32:20.362-04:00","updated":"2025-06-25T22:02:47.672-04:00"}
 ---
 
 #notes/europe #notes/north-america #books

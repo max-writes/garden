@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-06-25T20:30:41.175-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-06-25T22:11:01.887-04:00"}
 ---
 
 #notes/disability
@@ -11,26 +11,7 @@ Definitions
 History/timeline
 ### Supporting my learning
 - [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "disability")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
 
 ## Quotes
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-05-04T15:56:35.105-04:00"}
+{"dg-publish":true,"dg-path":"notes/Digital Gardens.md","permalink":"/notes/digital-gardens/","created":"2025-01-13T21:43:00.294-05:00","updated":"2025-06-25T22:00:33.223-04:00"}
 ---
 
  #notes/content-management #topic/digital-gardens 
@@ -102,16 +102,6 @@ Link: [timrodenbroeker.de/digital-garden](https://timrodenbroeker.de/digital-gar
 
 ### Transforming Chaos into Clarity: Template for Projects and Hobbies
 Link: [medium.com/@m_faizan/transforming-chaos-into-clarity-template-for-projects-and-hobbies](https://medium.com/@m_faizan/transforming-chaos-into-clarity-template-for-projects-and-hobbies-57b78279f15e)
- 
->WHAT NEEDS TO BE DONE
-**WHY?**
-**HOW?**
-**MEASURE**
-**COMPLETION**
-**REWARD**
-WHAT I DID?
-**TIMELINE**
-> (Date/Action)
 
 > After creating this, I set a reminder to be reminded every Saturday evening to sit and write. That’s all I’ve done. And for the last four weeks, I have been working on this project. You can see my profile and check how many articles I have published.
 

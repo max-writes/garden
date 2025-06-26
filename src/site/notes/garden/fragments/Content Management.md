@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Content Management.md","permalink":"/fragments/content-management/","created":"2025-02-01T01:57:02.314-05:00","updated":"2025-06-25T20:30:53.544-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Content Management.md","permalink":"/fragments/content-management/","created":"2025-02-01T01:57:02.314-05:00","updated":"2025-06-25T22:11:27.620-04:00"}
 ---
 
 #notes/content-management
@@ -11,26 +11,7 @@ Definitions
 History/timeline
 ### Best practices
 ### Supporting my learning
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "content-management")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
 
 ## My experiences/history
 I've worked in content management since before I had a job. I started making websites as a teenager and have been creating digital content management strategies since getting a computer at home. 

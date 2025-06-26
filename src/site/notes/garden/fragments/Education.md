@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Education.md","permalink":"/fragments/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-06-25T20:30:36.445-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Education.md","permalink":"/fragments/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-06-25T22:10:49.542-04:00"}
 ---
 
 #notes/education
@@ -16,25 +16,6 @@ what does (did) the department of Education do
 ### Supporting my learning
 - [[garden/trees/2016 in e-Learning\|2016 in e-Learning]]
 
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "education")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
 
 ## My experiences/history
 I work in learning technology. :)

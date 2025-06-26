@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Technology.md","permalink":"/fragments/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-06-25T20:39:43.946-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Technology.md","permalink":"/fragments/technology/","created":"2025-02-01T01:56:44.394-05:00","updated":"2025-06-25T22:02:31.210-04:00"}
 ---
 
 #notes/technology 
@@ -13,26 +13,8 @@ History/timeline
 ### Supporting my learning
 - [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
 - [[garden/trees/library/Intro to AI Class\|Intro to AI Class]]
-
-```datacards
-TABLE file.link, format, cover, gardentags 
-WHERE contains(gardentags, "technology")
-SORT genre DESC
-
-// Settings
-preset: portrait
-imageProperty: cover
-imageFit: contain
-columns: 4
-fontSize: small
-showLabels: true
-propertiesAlign: center
-exclude: file.link, gardentags
-titleAlign: center
-enableShadows: true
-mobilePreset: compact
-mobileColumns: 1
-```
+- [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
+- [[garden/trees/library/are dot na\|are dot na]]
 
 ## My experiences/history
 all my things
