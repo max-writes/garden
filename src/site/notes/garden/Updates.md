@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-26T10:01:20.667-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-26T10:21:23.930-04:00"}
 ---
 
 #path/faq 
@@ -8,9 +8,9 @@ This page includes major updates only (significant new content, new pages, delet
 
 The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
 
-## June 25, 2025
+## June 26, 2025
 I have been doing a lot of stuff on the offline side of this garden and although it may be a few months until you see the fruits of those labors I hope you'll constantly check back waiting for it (just kidding, I hope you're only checking once a month or less).
-* Added: **Accessibility Trainings**, **Knowledge Capture Flows**, **summer**
+* Added: **Accessibility Trainings**, **Knowledge Capture Flows**, **summer**, **10 things that shape my reality**, **Fort Wherever**, **Max's tips for recent grads**
 * Updated: **Home**, **Purpose and Guidelines**, **Living Seasons**
 * Housekeeping:
 	* Updated all book and notes pages to add properties so I can use nice tag-filtered views of my books and media from the Datacards plugin.

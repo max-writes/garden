@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-06-26T10:00:36.733-04:00"}
+{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-06-26T10:26:29.800-04:00"}
 ---
 
 #path/faq
@@ -94,6 +94,7 @@ Link: [www.swyx.io/learn-in-public](https://www.swyx.io/learn-in-public)
 - Life sharing: Neocities sites, Maxwrites, Letterboxd, Storygraph, MyAlbum, Pencilbooth, Shapchat (private), are.na
 	- Digital art tools: Canva, BandLab, Phomemo, Pixilart, CapCut, Infinite Painter
 ## Content management 
+See also: [[garden/fragments/Knowledge Capture Flows\|Knowledge Capture Flows]]
 
 ### Obsidian folder structure 
 Here is an outline of the folder structure I use in Obsidian:
