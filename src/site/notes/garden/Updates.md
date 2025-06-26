@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-25T21:12:05.243-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-25T21:36:59.532-04:00"}
 ---
 
 #path/faq 
@@ -13,7 +13,7 @@ I have been doing a lot of stuff on the offline side of this garden and although
 * Added: **Accessibility Trainings**, **Knowledge Capture Flows**, **summer**
 * Updated: **Home**, **Purpose and Guidelines**, **Living Seasons**
 * Housekeeping:
-	* Updated all book and notes pages to add properties so I can use nice tag-filtered views of my books and media from the Datacards plugin. 
+	* Updated all book and notes pages to add properties so I can use nice tag-filtered views of my books and media from the Datacards plugin. (oops this relies on Dataview and I never figured out how to publish that so now all those pages are ugly online but they are lovely in Obsidian!)
 
 ## May 11, 2025
 ~~Oh rad, I am having deployment issues.~~ hello, please be proud of me, I fixed my first deployment issue!
