@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/summer.md","permalink":"/fragments/summer/","created":"2025-06-25T19:23:47.985-04:00","updated":"2025-07-26T13:56:31.638-04:00"}
+{"dg-publish":true,"dg-path":"fragments/summer.md","permalink":"/fragments/summer/","created":"2025-06-25T19:23:47.985-04:00","updated":"2025-07-26T14:02:34.842-04:00"}
 ---
 
 #notes/seasons #topic/summer 
@@ -10,61 +10,45 @@ I already hate it!
 
 ### Blue heron, circle spider web, and other things I saw this morning 7/26/25
 I've been sharing these photos with everyone this morning so of course I'm sharing here with you, my summer diary. It's 91°F now but earlier it was just below 80° and I decided that instead of scrolling Reddit all morning and contributing my thoughts where people literally ask for them but get mad at me for replying, I should take advantage of the relative coolness and take a walk before the temperatures creep up too high. 
-```columns
-id: CeWCROIKQCvJDE_ATyvNG
-===
+
 ![summer-1753549937659.jpg](/img/user/garden/fragments/attachments/summer-1753549937659.jpg)
 Very lush, very green.
 
-===
 ![summer-1753549974738.jpg](/img/user/garden/fragments/attachments/summer-1753549974738.jpg)
 Morning vibes
 
-```
 I almost drove to a familiar place but decided to try somewhere "new" (it turns out I'd been there before, but only once, but just hadn't moved the park to the right label in my notes). It was still new enough in that the park has several trails to walk and I had only been on one of them. As I was choosing my direction at the fork, I recalled that last time I had too much anxiety to take the heron trail because there were a million people there with giant cameras and tripods, lots of kids and older people, and it definitely seemed like a fun day out for everyone. I went left.
-```columns
-id: BawFWxqlBAWJdfg4GcjKr
-===
+
 ![summer-1753550547977.jpg](/img/user/garden/fragments/attachments/summer-1753550547977.jpg)
 Nice.
 
-===
 ![summer-1753550563639.jpg](/img/user/garden/fragments/attachments/summer-1753550563639.jpg)
 Also very nice.
 
-```
 This time I went right; there were a handful of people with cameras and tripods, and I didn't see any giant groups of children until I was on my way out. There were many bugs: dragonflies, butterflies, bees, but no photos to prove it. They were fast and I was moving slow with only a phone camera, several years outdated. 
-```columns
-id: GXmXESkrQzEsDgAjtijvb
-===
+
 ![summer-1753550094850.jpg](/img/user/garden/fragments/attachments/summer-1753550094850.jpg)
 So green!
 
-===
 ![summer-1753550113556.jpg](/img/user/garden/fragments/attachments/summer-1753550113556.jpg)
 Turtle.
 
-```
 First I found a [Eastern Painted Turtle](https://dwr.virginia.gov/wildlife/information/eastern-painted-turtle/) (I think). I decided it wasn't a Red-Eared Slider because I didn't see the distinct red patch on its head behind the eyes, but it has the patches of red around the bottom of the shell. It's not a great photo, though. 
 
 What caught my attention next was these white flowers, which I've diagnosed as a [Swamp Rose Mallow](https://mgnv.org/plants/native-plants/perennials/hibiscus-moscheutos/) (omg), also called Hardy Hibiscus or Crimson-eyed Rose Mallow. What a magnificent flower! I didn't know what it was called when I was there and now I'm excited to revisit the swamp rose marshmallow. (I hope to become someone's swamp marshmallow someday.)
-```columns
-id: ZZOI5Xt2RLY7k1ywgiQjs
-===
+
 ![summer-1753550768558.jpg](/img/user/garden/fragments/attachments/summer-1753550768558.jpg)
 You walk on a scary, slippery bridge with no sides over water and are welcomed by a field of greens and white flowers.
 
 ![summer-1753550775478.jpg](/img/user/garden/fragments/attachments/summer-1753550775478.jpg)
 Here's the flower!
 
-===
 ![summer-1753550794816.jpg](/img/user/garden/fragments/attachments/summer-1753550794816.jpg)
 Here's the scary bridge, plus a patch of the white flowers growing from the water. 
 
 ![summer-1753550804672.jpg](/img/user/garden/fragments/attachments/summer-1753550804672.jpg)
 Field of flowers and nice golden tones in the leaves.
 
-```
 It was a gorgeous walk, though a little scary with my unsteady shakes and slippery shoes. Next time I'll wear shoes with more traction. 
 
 There were toads everywhere, but I never saw them. Their croaks reverberated next to your feet but their bodes remained hidden in the marsh.
@@ -83,17 +67,13 @@ Can you see it?
 The walk was a good 45 minutes of beautiful sights, sounds, and lovely naturey smells. I haven't done much outside walking because of the heat but I'm glad I snuck this in this morning in between thunder storms and periods of increased humidity.
 
 If you weren't sure whether this forest had fairies in it... well first of all, most probably do. But I may have found a few front porches, even if I can't see the homes.
-```columns
-id: yDd__sHhUQ76bsFGxPaYR
-===
+
 ![summer-1753551840456.jpg](/img/user/garden/fragments/attachments/summer-1753551840456.jpg)
 Very cool and well-decorated tree stump.
 
-===
 ![summer-1753551860739.jpg](/img/user/garden/fragments/attachments/summer-1753551860739.jpg)
 Mushrooms
 
-```
 I didn't see the spider (it was very small and far away), but I saw the round web and looked that up to find that orb-weaver spiders make these. There were two visible along the trail I took, I imagine they are probably all over in this forest. They look like little portals; they catch your eye and you can't help but admire how perfect the circle looks.
 
 ![summer-1753551803703.jpg](/img/user/garden/fragments/attachments/summer-1753551803703.jpg)
