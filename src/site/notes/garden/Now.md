@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-06-25T20:13:51.183-04:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-08-02T14:16:21.660-04:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
-[[garden/trees/Now (archive)\|Now (archive)]]
+[[garden/x archive/Now (2024)\|Now (2024)]]
 
 ## June 25, 2025
 I moved some stuff off my phone Obsidian sync and as a result I now only touch the garden when I'm on my computer. This was INTENTIONAL to get myself off my phone but as a result I completely forgot about the public garden and have only been focusing on offline stuff. 
