@@ -11,7 +11,7 @@ Definitions
 History/timeline
 ### Best practices
 ### Supporting my learning
-- [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
+- [[garden/x archive/Axe Con - 2024\|Axe Con - 2024]]
 - [[garden/trees/library/Intro to AI Class\|Intro to AI Class]]
 - [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
 - [[garden/trees/library/are dot na\|are dot na]]

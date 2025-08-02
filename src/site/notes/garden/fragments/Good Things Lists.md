@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-05-17T16:01:30.818-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-07-10T20:48:52.262-04:00"}
 ---
 
 #notes/mental-health 
@@ -26,6 +26,8 @@
 - light and shadows in nature 
 - when you're taking a walk and it's really hot and suddenly there's a breeze 
 - The little bubbles in your legs that pop after a walk 
+- making room for your cat on the couch and she comes to sit next to you in the little spot you made
+
 
 Crushes
 - name change

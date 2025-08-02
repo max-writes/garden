@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-06-26T10:21:23.930-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-08-02T14:04:06.102-04:00"}
 ---
 
 #path/faq 
@@ -7,6 +7,11 @@
 This page includes major updates only (significant new content, new pages, deleted pages). 
 
 The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
+
+## August 2, 2025
+No significant updates, I've been working on other things. I think I am in an input moment and not ready to synthesize for output and updating all the things.
+- Added: **President Fact Sheets**, **Rocks and Minerals Fact Sheets**
+- Archived some content that will be going up on my portfolio site exclusively. Not sure how to handle archived content yet.
 
 ## June 26, 2025
 I have been doing a lot of stuff on the offline side of this garden and although it may be a few months until you see the fruits of those labors I hope you'll constantly check back waiting for it (just kidding, I hope you're only checking once a month or less).

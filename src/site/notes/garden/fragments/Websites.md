@@ -24,5 +24,5 @@ https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons
 
 > [!example] Garden
 > - [[garden/fragments/Technology\|Technology]]
-> - [[garden/fragments/Social Media\|Social Media]]
+> - [[digital garden/fragments/Social Media\|Social Media]]
 

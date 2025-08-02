@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-06-25T20:14:52.820-04:00"}
+{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-07-16T23:42:02.384-04:00"}
 ---
 
 
@@ -9,6 +9,9 @@ There are a few journals I keep around this site, in addition to the one below. 
 If you're interested in the rest, find them under:
 - #diary-bingo : Progress and reflection on my [[garden/trees/Living Seasons#bingo\|seasonal BINGO]] cards
 - #diary-camping : Entries about camping 
+- season journals
+	- [[garden/fragments/spring\|spring]]
+	- [[garden/fragments/summer\|summer]]
 
 ## April 19, 2025
 I've added two new pieces from Horrornaments (2018 and 2021 but new to me) to my little haunted house display. 

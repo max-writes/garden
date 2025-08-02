@@ -16,9 +16,9 @@ V1: The first version of this master guide was written almost entirely by one pe
 This version of the guide stayed with our team for about 5 years, but required rewrite due to major updates to the process and application.
 
 > [!Review in more detail]
-> [[garden/trees/Master Guide Approach\|Master Guide Approach]]
+> [[garden/x archive/Master Guide Approach\|Master Guide Approach]]
 > 
-> [[garden/trees/Master Guide Revision Steps\|Master Guide Revision Steps]]
+> [[garden/x archive/Master Guide Revision Steps\|Master Guide Revision Steps]]
 
 V2: As a project and writing upskilling exercise, the second version of the guide was written by four team members who didn’t normally write. They were tasked to review V1, keep what was not changing, add content about the updates, and then fill in any gaps in knowledge by interviewing senior support team members or developers. They got to define most of the structure in how they worked with each other, and were provided with guide requirements laid out clearly. This assignment was the first where I played role of the documentation mentor, rather than the author-SME-editor.
 

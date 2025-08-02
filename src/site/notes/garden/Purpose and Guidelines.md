@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-06-26T10:26:29.800-04:00"}
+{"dg-publish":true,"dg-path":"Purpose and Guidelines.md","permalink":"/purpose-and-guidelines/","created":"2024-12-14T14:33:35.397-05:00","updated":"2025-07-19T01:12:32.774-04:00"}
 ---
 
 #path/faq
@@ -25,46 +25,14 @@ There is no intended linear way to browse or read content on this site. You can 
 * Use the **search bar** to see if there is anything on this site that interests you based on your own keywords.
 * Select a **tag** when you see it to browse all pages.
 * Start with a **path** from the [[garden/Home\|homepage]] or see the embed below.
-* Use the **navigation bar** to browse pages divided by level of depth or information source. You can find a description of what each of these sections means on the homepage:
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/home/#browse-to-read" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Paths
-
-</div>
-
-
-## Browse to read!
-My goal for this site is to create non-linear paths of browsing and learning. 
-
-It's not perfect; you'll find a little bit of everything everywhere, but here are some paths through the content if you prefer:
-
-| What                   | Description                                                                                                                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| fragments              | Loose notes, thoughts, ideas, etc. fragments are sometimes drafts which become notes or trees. **In my digital garden, fragments are like flowers: ideas that grow when it rains.**                     |
-| notes                  | Structured pages for each topic/interest including quotes, summaries, and other materials from outside sources. **Notes are like birds and butterflies, ideas that come & go from external locations.** |
-| trees                  | Synthesis of information - connections between notes & fragments. **Trees are ideas that have taken root and expanded beyond a "fragment."**                                                            |
-| #path/lessons-learned  | Capturing various lessons learned over my life                                                                                                                                                          |
-| #path/career           | Related to my career                                                                                                                                                                                    |
-| #path/faq              | Lost or don't know where to begin? Start here to see what this is all about.                                                                                                                            |
-
----
-
-
-</div></div>
-
-
-
+* Use the **navigation bar** to browse pages divided by level of depth or information source. You can find a description of what each of these sections means on the homepage.
 ## Learn in Public
 In reading about digital gardens and their philosophies, I keep seeing the "learn in public" approach come up, which is something I've been trying to do better with this site. (I am still learning to be consistent with it to get the most value.)
 
 For me, there are a few reasons to learn in public, as scary as it can be to be vulnerable about how much (or little) you know, and to put incomplete thoughts online assigned to your name.
 
 * Learn loudly and without structure
-	* Document as you go: [[garden/fragments/TIL\|TIL]], notes, book notes, "huh" or "a-ha" moments, etc.
+	* Document as you go: [[digital garden/fragments/TIL\|TIL]], notes, book notes, "huh" or "a-ha" moments, etc.
 	* This is something I struggle with sometimes, but with my system it's easy to keep structures depending on what I need using tags, links, properties, and so on. 
 	* By encouraging myself to publish informal thoughts and partial exploration, it's easy to draft up an update and polish it for the site so I can keep the flows going.
 * Emphasis on growth

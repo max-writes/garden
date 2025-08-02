@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Accessibility Trainings.md","permalink":"/fragments/library/accessibility-trainings/","created":"2025-05-17T17:22:50.168-04:00","updated":"2025-06-26T10:09:00.497-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Accessibility Trainings.md","permalink":"/fragments/library/accessibility-trainings/","created":"2025-05-17T17:22:50.168-04:00","updated":"2025-08-02T13:27:18.575-04:00"}
 ---
 
 
@@ -10,7 +10,7 @@ The training went to a group of employees in various roles: content support team
 
 I am building this page with my notes, questions, and takeaways related to not just my position writing user guides and release notes, but also my website-making hobby.
 
-*In progress:* The notes are getting typed up post-training but with holidays and vacations things keep getting in the way!
+*In progress:* The notes are getting typed up post-training, I have some other higher priority life stuff to take care of first.
 
 ## Sessions 1 & 2
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/summer.md","permalink":"/fragments/summer/","created":"2025-06-25T19:23:47.985-04:00","updated":"2025-07-26T14:02:34.842-04:00"}
+{"dg-publish":true,"dg-path":"fragments/summer.md","permalink":"/fragments/summer/","created":"2025-06-25T19:23:47.985-04:00","updated":"2025-07-26T14:16:21.866-04:00"}
 ---
 
 #notes/seasons #topic/summer 
@@ -58,6 +58,7 @@ Though the swamp mallows^ dominated the landscape I also found many of these coo
 ^ This sounds like a *great* alternative to squish mallows.
 
 ![summer-1753551897531.jpg](/img/user/garden/fragments/attachments/summer-1753551897531.jpg)
+Cool spiky dudes
 
 At some point on a bend in the bridge a few people stood in awe and pointed their fingers and cameras. I heard someone say "it's a [blue heron](https://www.allaboutbirds.org/guide/Great_Blue_Heron/overview)!" with excitement and wonder, so I stopped and watched the bird with them for a while. 
 

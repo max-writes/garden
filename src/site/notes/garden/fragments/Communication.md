@@ -14,7 +14,7 @@ Different types of communication
 ### Supporting my learning
 - [[garden/fragments/library/Shady Characters\|Shady Characters]]
 - [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
-- [[garden/trees/library/Axe Con - 2024\|Axe Con - 2024]]
+- [[garden/x archive/Axe Con - 2024\|Axe Con - 2024]]
 - [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 ## My experiences/history
@@ -49,7 +49,7 @@ from _Digital Minimalism: Choosing a Focused Life in a Noisy World_ by Cal New
 > - [[garden/fragments/Technology\|Technology]]
 > - [[garden/fragments/Writing\|Writing]]
 > - [[garden/fragments/Zines\|Zines]]
-> - [[garden/fragments/Social Media\|Social Media]]
+> - [[digital garden/fragments/Social Media\|Social Media]]
 > - [[garden/fragments/Websites\|Websites]]
 > - #topic/language
 

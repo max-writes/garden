@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-06-25T22:03:43.380-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-06-29T00:24:27.308-04:00"}
 ---
 
 #notes/stories
@@ -12,6 +12,10 @@ fairy tales
 folklore 
 life stories 
 ghost stories 
+
+![original_05ddafb0851fe5293108011fe937268d.jpg](/img/user/garden/fragments/attachments/original_05ddafb0851fe5293108011fe937268d.jpg)
+
+
 
 ## About
 Definitions

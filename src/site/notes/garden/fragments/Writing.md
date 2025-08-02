@@ -11,14 +11,14 @@ Definitions
 History/timeline
 ### Best practices
 ### Supporting my learning
-- [[garden/trees/10 Years of Doc Work\|10 Years of Doc Work]]
+- [[garden/x archive/10 Years of Doc Work\|10 Years of Doc Work]]
 - [[garden/fragments/library/Shady Characters\|Shady Characters]]
 - [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
 
 ## My experience
-- [[garden/trees/Autobiography of a Writer\|Autobiography of a Writer]]
-- [[garden/trees/Writer Mission Statement\|Writer Mission Statement]]
-- [[garden/trees/Writing Process\|Writing Process]]
+- [[garden/x archive/Autobiography of a Writer\|Autobiography of a Writer]]
+- [[garden/x archive/Writer Mission Statement\|Writer Mission Statement]]
+- [[garden/x archive/Writing Process\|Writing Process]]
 
 I'm a writer. Going to upload all my old writing somewhere and link it here.
 

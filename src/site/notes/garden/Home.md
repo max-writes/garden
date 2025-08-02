@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-06-25T20:51:47.528-04:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2025-01-31T21:53:03.686-05:00","updated":"2025-07-19T01:11:05.698-04:00"}
 ---
 
 
@@ -37,7 +37,7 @@ This site is *always* a work in progress.
 To do 
 - [ ] Improve image and video syncing & embedding (it's ugly) - in progress
 	- [ ] Can I display images with a max size, but if they're smaller they are small? They're all needlessly huge.
-- [ ] How to get dataview plugin stuff to publish to site?
+- [ ] How to get dataview plugin stuff to publish to site? (7/18 - tried to figure out an HTML export plugin but it didn't work or I was doing it wrong. still TBD)
 - [ ] Move quotes from draft garden to online pages 
 - [ ] Export Google Books quotes and add to garden pages
 - [ ] Type quotes from physical books
