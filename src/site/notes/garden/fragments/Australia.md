@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Australia.md","permalink":"/fragments/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-07-26T14:09:54.693-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Australia.md","permalink":"/fragments/australia/","created":"2025-03-17T17:51:37.938-04:00","updated":"2025-08-16T12:53:53.124-04:00"}
 ---
 
 #notes/australia
@@ -16,9 +16,6 @@
 - **Biodiversity:** Unique marsupials like kangaroos and koalas; coral reefs, endemic bird species  
 - **Economy:** Mix of tourism, mining, agriculture, and services  
 - **Trivia:** Over 90% of Australian wildlife is found nowhere else. Papua New Guinea has over 800 languages.
-
-### Supporting my learning
-
 ### Links
 https://en.wikipedia.org/wiki/Australia
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Africa.md","permalink":"/fragments/africa/","created":"2025-03-17T17:50:21.634-04:00","updated":"2025-07-26T14:10:10.964-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Africa.md","permalink":"/fragments/africa/","created":"2025-03-17T17:50:21.634-04:00","updated":"2025-08-16T12:53:21.509-04:00"}
 ---
 
 #notes/africa
@@ -16,10 +16,6 @@
 - **Biodiversity**: Home to elephants, lions, rhinos, and the Congo Rainforest (2nd largest rainforest)
 - **Economy**: Rich in natural resources like gold, oil, diamonds, and cobalt
 - **Trivia**: Africa is the most genetically diverse continent. Madagascar has unique species found nowhere else.
-
-### Supporting my learning
-- [[garden/trees/library/African History\|African History]]
-
 ### Links
 https://en.wikipedia.org/wiki/Africa
 
@@ -83,6 +79,5 @@ https://en.wikipedia.org/wiki/Africa
 |      | Zimbabwe                      | Home to one of the largest waterfalls, Victoria Falls, and the Great Zimbabwe ruins                           |
 
 > [!example] Garden
-> - Link to related notes, fragments, trees
-> - And other tags!
+> - [[garden/trees/library/African History\|African History]]
 

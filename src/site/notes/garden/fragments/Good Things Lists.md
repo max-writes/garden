@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-07-10T20:48:52.262-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Good Things Lists.md","permalink":"/fragments/good-things-lists/","created":"2024-12-14T17:44:55.992-05:00","updated":"2025-08-16T13:02:27.303-04:00"}
 ---
 
 #notes/mental-health 
@@ -27,6 +27,12 @@
 - when you're taking a walk and it's really hot and suddenly there's a breeze 
 - The little bubbles in your legs that pop after a walk 
 - making room for your cat on the couch and she comes to sit next to you in the little spot you made
+- going into every corner of the digital garden and pruning
+- adding a page (even if it exhausts me!)
+- running into friends at the coffee shop after last-minute deciding to get coffee
+- the album "plainsongs for bunmak interim" by the band sonder especially on gloomy days
+- increasingly, not freezing/stopping entirely when I mess up drums, and instead I keep going and get back on beat
+- fighting Lagiacrus in Monster Hunter Wilds
 
 
 Crushes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Antarctica.md","permalink":"/fragments/antarctica/","created":"2025-03-17T17:51:10.850-04:00","updated":"2025-08-02T13:52:38.853-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Antarctica.md","permalink":"/fragments/antarctica/","created":"2025-03-17T17:51:10.850-04:00","updated":"2025-08-16T12:53:39.608-04:00"}
 ---
 
 #notes/antarctica
@@ -19,9 +19,6 @@ The first landing on the continent was likely in the mid 1800s, and the "Heroic 
 - **Biodiversity**: Penguins, seals, krill, whales, cold-adapted microbes
 - **Economy**: No permanent economy; research and limited tourism only
 - **Trivia**: Antarctica is technically a desert (least precipitation), and some parts have not seen rain or snow in over 2 million years.
-
-### Supporting my learning
-
 ### Links
 - https://en.wikipedia.org/wiki/Antarctica
 - https://en.wikipedia.org/wiki/History_of_Antarctica
@@ -30,6 +27,5 @@ The first landing on the continent was likely in the mid 1800s, and the "Heroic 
 
 
 > [!example] Garden
-> - Link to related notes, fragments, trees
-> - And other tags!
+> - [[digital garden/fragments/library/Of Maps and Men\|Of Maps and Men]]
 

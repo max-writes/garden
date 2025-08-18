@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Education.md","permalink":"/fragments/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-06-25T22:10:49.542-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Education.md","permalink":"/fragments/education/","created":"2025-02-01T01:56:32.786-05:00","updated":"2025-08-16T12:56:26.932-04:00"}
 ---
 
 #notes/education
@@ -13,9 +13,6 @@ what does (did) the department of Education do
 
 ![original_6fb52fff619e58ba5a43a33800d8e83b.png](/img/user/garden/notes/attachments/original_6fb52fff619e58ba5a43a33800d8e83b.png)
 ### Best practices
-### Supporting my learning
-- [[garden/trees/2016 in e-Learning\|2016 in e-Learning]]
-
 
 ## My experiences/history
 I work in learning technology. :)
@@ -76,3 +73,4 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 > [!example] Garden
 > - [[garden/fragments/Learning and Teaching\|Learning and Teaching]]
 > - [[garden/fragments/Education\|Education]]
+> - [[garden/trees/2016 in e-Learning\|2016 in e-Learning]]

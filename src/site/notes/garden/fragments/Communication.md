@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Communication.md","permalink":"/fragments/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-06-26T10:34:06.358-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Communication.md","permalink":"/fragments/communication/","created":"2025-03-17T17:45:58.746-04:00","updated":"2025-08-16T12:55:19.724-04:00"}
 ---
 
 #notes/communication
@@ -11,11 +11,6 @@ Definitions
 History/timeline
 Different types of communication
 ### Best practices
-### Supporting my learning
-- [[garden/fragments/library/Shady Characters\|Shady Characters]]
-- [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
-- [[garden/x archive/Axe Con - 2024\|Axe Con - 2024]]
-- [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 ## My experiences/history
 I was very awkward for a long time but I got over it and now I'm a confident talker. Sometimes too confident.
@@ -52,4 +47,7 @@ from _Digital Minimalism: Choosing a Focused Life in a Noisy World_ by Cal New
 > - [[digital garden/fragments/Social Media\|Social Media]]
 > - [[garden/fragments/Websites\|Websites]]
 > - #topic/language
+> - [[garden/fragments/library/Shady Characters\|Shady Characters]]
+> - [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
+> - [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 

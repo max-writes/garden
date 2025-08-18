@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Cemetery List.md","permalink":"/fragments/cemetery-list/","created":"2024-12-23T21:22:30.572-05:00","updated":"2025-07-16T23:10:04.207-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Cemetery List.md","permalink":"/fragments/cemetery-list/","created":"2024-12-23T21:22:30.572-05:00","updated":"2025-08-18T17:23:15.267-04:00"}
 ---
 
 
@@ -41,38 +41,36 @@ As I go through my digital photo archive (since 2004), I will add to this list a
 ### Mt. Hope Cemetery (Rochester, NY)
 *Photos taken by me on 6/26/24.* It was very rainy, super muddy, rush hour, and we had places to be, so we didn't find Frederick Douglass' grave. GPS took us to a dead end and it became clear we'd have to walk and wander, so we went to get birthday snacks and rejoin our family instead.
 
-![20240626_172257.jpg](/img/user/garden/fragments/attachments/20240626_172257.jpg)
+![20240626_172257.jpg|600](/img/user/garden/fragments/attachments/20240626_172257.jpg)
 Mt Hope Cemetery in Rochester, NY
 
 
-![20240626_172828.jpg](/img/user/garden/fragments/attachments/20240626_172828.jpg)
+![20240626_172828.jpg|600](/img/user/garden/fragments/attachments/20240626_172828.jpg)
 Jennie
 
-![20240626_172905.jpg](/img/user/garden/fragments/attachments/20240626_172905.jpg)
+![20240626_172905.jpg|600](/img/user/garden/fragments/attachments/20240626_172905.jpg)
 Gravesite for Susan B. Anthony and family
+- [Daniel Anthony](https://www.findagrave.com/memorial/7710039/daniel-anthony) 
+- [Susan B. Anthony](https://www.findagrave.com/memorial/31/susan-b-anthony)
+- [Mary S. Anthony](https://www.findagrave.com/memorial/7690074/mary-stafford-anthony)
+- [Madge Osborn Anthony](https://www.findagrave.com/memorial/7710091/madge-osborn-anthony)
 
-[Daniel Anthony](https://www.findagrave.com/memorial/7710039/daniel-anthony) 
-[Susan B. Anthony](https://www.findagrave.com/memorial/31/susan-b-anthony)
-[Mary S. Anthony](https://www.findagrave.com/memorial/7690074/mary-stafford-anthony)
-[Madge Osborn Anthony](https://www.findagrave.com/memorial/7710091/madge-osborn-anthony)
-
-![20240626_172945.jpg](/img/user/garden/fragments/attachments/20240626_172945.jpg)
+![20240626_172945.jpg|600](/img/user/garden/fragments/attachments/20240626_172945.jpg)
 Gravesite for Susan B. Anthony
 
 Many voters place their "I Voted!" stickers on Susan B. Anthony's grave, but I went there in June. People put coins on graves as a way to pay respects and rocks to signify remembrance and the permanence of memory. Trinkets are often left as a way to indicate someone has visited and connected with a gravesite.
 
-![20240626_173003.jpg](/img/user/garden/fragments/attachments/20240626_173003.jpg)
+![20240626_173003.jpg|600](/img/user/garden/fragments/attachments/20240626_173003.jpg)
 Gravesite for Robert Henry Butts and the Butts family
+- [Robert Henry Butts](https://www.findagrave.com/memorial/8220053/robert-henry-butts)
+- [John DeWitt Butts](https://www.findagrave.com/memorial/8220050/john-dewitt-butts)
+- [Katherine Cooke Butts](https://www.findagrave.com/memorial/8220052/katherine-cooke-butts)
+- [Mary Smyles Butts](https://www.findagrave.com/memorial/8220055/mary-butts)
+- [Isaac Butts](https://www.findagrave.com/memorial/8220045/isaac-butts)
 
-[Robert Henry Butts](https://www.findagrave.com/memorial/8220053/robert-henry-butts)
-[John DeWitt Butts](https://www.findagrave.com/memorial/8220050/john-dewitt-butts)
-[Katherine Cooke Butts](https://www.findagrave.com/memorial/8220052/katherine-cooke-butts)
-[Mary Smyles Butts](https://www.findagrave.com/memorial/8220055/mary-butts)
-[Isaac Butts](https://www.findagrave.com/memorial/8220045/isaac-butts)
-
-![20240626_173029.jpg](/img/user/garden/fragments/attachments/20240626_173029.jpg)
+![20240626_173029.jpg|600](/img/user/garden/fragments/attachments/20240626_173029.jpg)
 Wooden cross grave marker.
 
-![20240626_173448.jpg](/img/user/garden/fragments/attachments/20240626_173448.jpg)
+![20240626_173448.jpg|600](/img/user/garden/fragments/attachments/20240626_173448.jpg)
 Mt Hope Cemetery in Rochester, NY.
 

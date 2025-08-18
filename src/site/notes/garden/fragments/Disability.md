@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-06-26T10:34:13.737-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Disability.md","permalink":"/fragments/disability/","created":"2024-12-19T23:32:54.691-05:00","updated":"2025-08-16T12:56:10.295-04:00"}
 ---
 
 #notes/disability
@@ -9,10 +9,6 @@
 ## About
 Definitions
 History/timeline
-### Supporting my learning
-- [[garden/x archive/Axe Con - 2024\|Axe Con - 2024]]
-- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
-- [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 ## Quotes
 
@@ -74,6 +70,8 @@ from *Demystifying Disability: What to Know, What to Say, and How to Be an Ally*
 
 > [!example] Garden
 > - #topic/accessibility 
+> - [[garden/trees/library/Divergent Mind\|Divergent Mind]]
+> - [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
 
 
 
