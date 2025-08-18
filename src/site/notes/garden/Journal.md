@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-07-16T23:42:02.384-04:00"}
+{"dg-publish":true,"dg-path":"Journal.md","permalink":"/journal/","created":"2025-03-18T23:40:15.766-04:00","updated":"2025-08-16T14:05:53.826-04:00"}
 ---
 
 
@@ -12,6 +12,19 @@ If you're interested in the rest, find them under:
 - season journals
 	- [[garden/fragments/spring\|spring]]
 	- [[garden/fragments/summer\|summer]]
+
+## August 16, 2025
+I am officially on vacation!! Every year I take a week off for my birthday. I wanted to take a moment to write about how I'm feeling/doing overall since I've been doing a lot of hobby-based journaling lately and sort of ignoring my thoughts and feelings.
+
+Recently my company got word that we're closing and getting integrated into the university where we provide support. I'm not that worried because I am taking the process seriously, but it's still incredibly anxiety-inducing and the way that other people are reacting sometimes makes things worse. Not that they shouldn't be upset! But just that overall I recognize the last few weeks/months have been upsetting and it's been a lot to get through.
+
+I did it though! Okay, we're not through it yet... but I updated my resume, LinkedIn, and made a cover letter, completing prep for the first milestone in the process: applying for my job. That happens next week.
+
+It's nice to take a minute to relax. Even though my vacation has started and I won't be in office next week, it still feels like this is the "weekend" to that week I just had, rushing to finish all my work and finalize my resume within 40 hours. (Don't worry, we got the go-ahead to work on that at work.) To decompress and share, I made this page with my process: [[garden/fragments/Update Your Resume\|Update Your Resume]] 
+
+Outside of that I've been cleaning my home, declogging pipes, without A/C, taking nature walks, cuddling with Zenny, watching stuff, and building websites. I'm making a Halloween site and a site to display my postage, not for any particular reason other than I want to be able to stare at my collection wherever I am. I am hoping to have the Halloween site done by Halloween, but we'll see how that goes. 
+
+2025 so far has been weird and not great in a lot of ways, but I'm glad I set up all these little journal and note systems because they are keeping me afloat really well. Things are falling out of my brain more often lately but Obsidian is here to catch them and remind me later. 
 
 ## April 19, 2025
 I've added two new pieces from Horrornaments (2018 and 2021 but new to me) to my little haunted house display. 

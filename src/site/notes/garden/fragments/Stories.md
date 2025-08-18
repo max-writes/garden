@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-06-29T00:24:27.308-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Stories.md","permalink":"/fragments/stories/","created":"2025-03-17T17:48:05.506-04:00","updated":"2025-08-16T13:06:01.896-04:00"}
 ---
 
 #notes/stories
@@ -20,14 +20,6 @@ ghost stories
 ## About
 Definitions
 History/timeline
-### Supporting my learning
-- [[garden/trees/library/African History\|African History]]
-- [[garden/fragments/library/The Ghost - A Cultural History\|The Ghost - A Cultural History]]
-- [[garden/trees/library/Haunting The Outer Banks\|Haunting The Outer Banks]]
-- [[garden/trees/library/Men Without Women\|Men Without Women]]
-- [[garden/trees/library/The Halloween Tree\|The Halloween Tree]]
-- [[garden/trees/library/Unsinkable\|Unsinkable]]
-- [[garden/trees/library/Drunk Shakespeare\|Drunk Shakespeare]]
 
 ## My experiences/history
 
@@ -56,4 +48,11 @@ from _Book and Dagger: How Scholars and Librarians Became the Unlikely Spies of
 > - #topic/ghost-stories 
 > - #topic/paranormal 
 > - #topic/storytelling 
+> - [[garden/trees/library/African History\|African History]]
+> - [[garden/fragments/library/The Ghost - A Cultural History\|The Ghost - A Cultural History]]
+> - [[garden/trees/library/Haunting The Outer Banks\|Haunting The Outer Banks]]
+> - [[garden/trees/library/Men Without Women\|Men Without Women]]
+> - [[garden/trees/library/The Halloween Tree\|The Halloween Tree]]
+> - [[garden/trees/library/Unsinkable\|Unsinkable]]
+> - [[garden/trees/library/Drunk Shakespeare\|Drunk Shakespeare]]
 

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Dysfunctional Documents.md","permalink":"/fragments/library/dysfunctional-documents/","created":"2025-01-07T20:17:51.882-05:00","updated":"2025-06-25T18:53:04.937-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Dysfunctional Documents.md","permalink":"/fragments/library/dysfunctional-documents/","created":"2025-01-07T20:17:51.882-05:00","updated":"2025-08-16T13:49:50.927-04:00"}
 ---
 
 #notes/content-management #notes/writing #books
 # Dysfunctional Documents : A 12-Step Recovery Program for User Documentation
 by Kurt Ament
 
+![cover|200](https://i.ebayimg.com/images/g/PXMAAOSwfylm2S5I/s-l500.jpg)
 ## Summary
 This hands-on guide shows you how to use levels of edit to turn dysfunctional documents into healthy documents. It provides a flexible 12-step process to diagnose problems, develop treatments, and prevent relapses. And it explains how to create, maintain, enforce, and even automate consensual writing guidelines to keep your documents healthy. Each step identifies the roles of writers, editors, and managers. You can customize the process, as needed. Kurt Ament is a technical editor and indexer with extensive experience helping leading companies in science and industry such as European XFEL, Hewlett-Packard, Symantex, and Xerox. He is the author of Single Sourcing: Building Modular Documentation and Indexing: A Nuts-and-Bolts Guide for Technical Writers. www.levels-of-edit.com
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Websites.md","permalink":"/fragments/websites/","created":"2025-03-18T20:14:11.103-04:00","updated":"2025-06-25T22:01:56.014-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Websites.md","permalink":"/fragments/websites/","created":"2025-03-18T20:14:11.103-04:00","updated":"2025-08-18T17:25:04.186-04:00"}
 ---
 
 #notes/websites
@@ -11,18 +11,16 @@
 Definitions
 History/timeline
 ### Best practices
-### Supporting my learning
-
-https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons
 
 ## My experiences/history
 
 ## Quotes
 
 ## Links
+https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons
 
 
 > [!example] Garden
 > - [[garden/fragments/Technology\|Technology]]
-> - [[digital garden/fragments/Social Media\|Social Media]]
+
 

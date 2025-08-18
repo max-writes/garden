@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Shady Characters.md","permalink":"/fragments/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-06-25T18:53:22.336-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Shady Characters.md","permalink":"/fragments/library/shady-characters/","created":"2024-12-14T13:19:12.276-05:00","updated":"2025-08-16T13:50:24.230-04:00"}
 ---
 
 #topic/language #books
 # Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks
 by Keith Houston
+
+![cover|200](https://cdn2.penguin.com.au/covers/original/9781846146480.jpg)
 ## Summary
 Revealing the secret history of punctuation, this tour of two thousand years of the written word, from ancient Greece to the Internet, explores the parallel histories of language and typography throughout the world and across time.
 ## My review

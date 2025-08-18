@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-06-26T09:56:34.824-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Writing.md","permalink":"/fragments/writing/","created":"2025-02-01T01:57:32.398-05:00","updated":"2025-08-16T13:30:44.836-04:00"}
 ---
 
 #notes/writing
@@ -9,18 +9,9 @@
 ## About
 Definitions
 History/timeline
-### Best practices
-### Supporting my learning
-- [[garden/x archive/10 Years of Doc Work\|10 Years of Doc Work]]
-- [[garden/fragments/library/Shady Characters\|Shady Characters]]
-- [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
-
-## My experience
-- [[garden/x archive/Autobiography of a Writer\|Autobiography of a Writer]]
-- [[garden/x archive/Writer Mission Statement\|Writer Mission Statement]]
-- [[garden/x archive/Writing Process\|Writing Process]]
 
 I'm a writer. Going to upload all my old writing somewhere and link it here.
+### Best practices
 
 ## Quotes
 
@@ -48,4 +39,7 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 > - [[garden/fragments/Technology\|Technology]]
 > - #type/weeknotes 
 > - #type/how-to 
+> - [[garden/fragments/library/Shady Characters\|Shady Characters]]
+> - [[garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
+> - [[digital garden/fragments/library/Track Changes\|Track Changes]]
 

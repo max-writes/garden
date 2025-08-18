@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Transgender History.md","permalink":"/fragments/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-06-25T18:54:20.416-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Transgender History.md","permalink":"/fragments/library/transgender-history/","created":"2024-12-14T13:00:43.876-05:00","updated":"2025-08-16T13:51:03.941-04:00"}
 ---
 
 #topic/lgbtq #notes/identity #books
 # Transgender History
 by Susan Stryker
+
+![cover|200](https://images-na.ssl-images-amazon.com/images/I/31ewDxXm6iL._SY291_BO1,204,203,200_QL40_ML2_.jpg)
 ## Summary
 A chronological account of transgender theory documents major movements, writings, and events, offering insight into the contributions of key historical figures while discussing treatments of transgenderism in pop culture. 
 ## My review

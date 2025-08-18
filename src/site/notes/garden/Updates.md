@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-08-02T14:06:00.969-04:00"}
+{"dg-publish":true,"dg-path":"Updates.md","permalink":"/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-08-18T17:50:03.069-04:00"}
 ---
 
 #path/faq 
@@ -7,6 +7,13 @@
 This page includes major updates only (significant new content, new pages, deleted pages). 
 
 The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
+
+## August 18, 2025
+I am trying to slowly fill out the fragment pages so I can move them over to notes and start building on them. I'm already doing the stuff I do with my life that I want to record here, and I'm doing okay with adding new topics and pages, but filling out and defining all the "base level" stuff to get the garden going is taking a while. 
+
+Not beating myself up, just recognizing it will be incremental. I want to tackle at least two fragments a month and get some of my ideas out, even if I don't finish the page yet.
+- Added: **Update Your Resume**, **Open Veins of Latin America**, **Down to the River and Up to the Trees**, **Use Plex on Home NAS**
+- Updated: **Books**, **NAS**, **Zines**
 
 ## August 2, 2025
 No significant updates, I've been working on other things. I think I am in an input moment and not ready to synthesize for output and updating all the things.

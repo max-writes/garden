@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/South America.md","permalink":"/fragments/south-america/","created":"2025-03-17T17:50:52.210-04:00","updated":"2025-07-26T14:12:55.428-04:00"}
+{"dg-publish":true,"dg-path":"fragments/South America.md","permalink":"/fragments/south-america/","created":"2025-03-17T17:50:52.210-04:00","updated":"2025-08-16T13:05:32.907-04:00"}
 ---
 
 #notes/south-america
@@ -16,19 +16,12 @@
 - **Economy:** Rich in agriculture, mining (copper, lithium), and oil
 - **Trivia:** The Amazon River has the largest discharge volume of any river; some Amazon tribes are still uncontacted.​
 
-### Supporting my learning
-Books
-- The Veins of Latin America 
-
-Things I made
-- [[garden/fragments/pages/Rocks and Minerals\|Rocks and Minerals]]
-
 ### Links
 https://en.wikipedia.org/wiki/South_America
 
 ## Countries/Regions
 
 > [!example] Garden
-> - Link to related notes, fragments, trees
-> - And other tags!
+> - [[garden/fragments/library/Open Veins of Latin America\|Open Veins of Latin America]]
+> - [[garden/fragments/pages/Rocks and Minerals\|Rocks and Minerals]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Mental Health.md","permalink":"/fragments/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-06-25T22:09:29.544-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Mental Health.md","permalink":"/fragments/mental-health/","created":"2025-01-20T19:30:17.636-05:00","updated":"2025-08-16T13:02:15.700-04:00"}
 ---
 
 #notes/mental-health
@@ -10,15 +10,6 @@ Therapy/survey, Reaction vs response, Neuropsychology, life tracking
 ## About
 Definitions
 History/timeline
-### Supporting my learning
-- [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
-- [[garden/trees/library/I Didn’t Do the Thing Today\|I Didn’t Do the Thing Today]]
-- [[garden/trees/library/The Little Book of Hygge\|The Little Book of Hygge]]
-- [[garden/trees/library/Divergent Mind\|Divergent Mind]]
-- [[garden/fragments/library/The Body Keeps the Score\|The Body Keeps the Score]]
-- [[garden/trees/library/Your Haunted Brain\|Your Haunted Brain]]
-- [[garden/trees/library/Finch\|Finch]]
-- [[garden/trees/library/Routines and Ruts\|Routines and Ruts]]
 
 ## Quotes
 
@@ -52,4 +43,12 @@ Link: [psyche.co/guides/to-start-to-heal-from-trauma-in-your-life-write-about-it
 > - #topic/neurodivergent 
 > - #topic/productivity
 > - #topic/rest
+> -  [[garden/fragments/library/Digital Minimalism\|Digital Minimalism]]
+> - [[garden/trees/library/I Didn’t Do the Thing Today\|I Didn’t Do the Thing Today]]
+> - [[garden/trees/library/The Little Book of Hygge\|The Little Book of Hygge]]
+> - [[garden/trees/library/Divergent Mind\|Divergent Mind]]
+> - [[garden/fragments/library/The Body Keeps the Score\|The Body Keeps the Score]]
+> - [[garden/trees/library/Your Haunted Brain\|Your Haunted Brain]]
+> - [[garden/trees/library/Finch\|Finch]]
+> - [[garden/trees/library/Routines and Ruts\|Routines and Ruts]]
 

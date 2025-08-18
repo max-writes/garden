@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/The Ghost - A Cultural History.md","permalink":"/fragments/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-06-25T18:53:51.314-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/The Ghost - A Cultural History.md","permalink":"/fragments/library/the-ghost-a-cultural-history/","created":"2024-12-14T12:57:14.175-05:00","updated":"2025-08-16T13:50:53.688-04:00"}
 ---
 
 #topic/ghost-stories #books 
 # The Ghost: A Cultural History
 by Susan Owens
+
+![cover|200](https://m.media-amazon.com/images/I/61wO1-05oKL._SL1024_.jpg)
 ## Summary
 Ghosts are woven into the very fabric of British life. Their enduring popularity in literature, art, folklore and film attests to their continuing power to fascinate, terrify and inspire. Our conceptions of ghosts - the fears that they provoke, the forms they take - personifies our shared past, reminding us of the layers of history beneath our feet and of old stories and timeless terrors that refuse to be erased. In this broad cultural history, Susan Owens reveals what these spirits and apparitions can tell us about our culture and about ourselves, and explores how ghosts have inhabited a wide range of roles from medieval times to the present day. A dazzling range of artists are featured, including William Blake, Henry Fuseli, Dante Gabriel Rossetti, John Everett Millais, Paul Nash and Jeremy Deller, alongside writers such as John Donne, William Shakespeare, Samuel Pepys, Daniel Defoe, Mary Shelley, Emily Brontë, Charles Dickens, Thomas Hardy, Hilary Mantel and Sarah Waters.
 ## My review

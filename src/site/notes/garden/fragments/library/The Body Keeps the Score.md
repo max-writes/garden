@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/The Body Keeps the Score.md","permalink":"/fragments/library/the-body-keeps-the-score/","created":"2025-01-07T20:50:48.918-05:00","updated":"2025-06-25T18:42:32.819-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/The Body Keeps the Score.md","permalink":"/fragments/library/the-body-keeps-the-score/","created":"2025-01-07T20:50:48.918-05:00","updated":"2025-08-16T13:50:40.829-04:00"}
 ---
 
 #notes/mental-health 
 
 # The Body Keeps the Score : Brain, Mind, and Body in the Healing of Trauma
 by Bessel Van der Kolk, M.D.
+
+![cover|200](https://images-na.ssl-images-amazon.com/images/I/51HZpvdVMjL._SY291_BO1,204,203,200_QL40_.jpg)
 ## Summary
 The book describes van der Kolk's research and experiences on how people are affected by traumatic stress, including its effects on the mind and body.
 ## Review
