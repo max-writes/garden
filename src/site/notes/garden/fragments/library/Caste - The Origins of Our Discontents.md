@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/library/Caste - The Origins of Our Discontents.md","permalink":"/fragments/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-06-25T18:51:19.922-04:00"}
+{"dg-publish":true,"dg-path":"fragments/library/Caste - The Origins of Our Discontents.md","permalink":"/fragments/library/caste-the-origins-of-our-discontents/","created":"2025-01-07T20:13:18.090-05:00","updated":"2025-08-16T13:49:02.995-04:00"}
 ---
 
 #notes/north-america #books
 # Caste : The Origins of Our Discontents
 by Isabel Wilkerson
+
+![cover|200](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597267568i/51152447.jpg)
 ## Summary
 The Pulitzer Prize-winning author of *The Warmth of Other Suns* examines the unspoken caste system that has shaped America and shows how our lives today are still defined by a hierarchy of human divisions.
 

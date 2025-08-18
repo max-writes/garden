@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Knowledge.md","permalink":"/fragments/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-06-25T22:09:50.637-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Knowledge.md","permalink":"/fragments/knowledge/","created":"2025-02-01T01:55:47.874-05:00","updated":"2025-08-16T13:01:30.273-04:00"}
 ---
 
 #notes/knowledge
@@ -15,8 +15,7 @@ value of tacit knowledge
 - currency 
 https://www.reddit.com/r/PKMS/comments/1k3ydsq/fundamentalsprinciples_for_a_good_pkms/
 ### Best practices
-### Supporting my learning
-- [[garden/trees/library/Book and Dagger\|Book and Dagger]]
+
 
 ## My experiences/history
 I am on a path to learn everything I can about knowledge management!
@@ -102,4 +101,5 @@ Link: [linkedin.com/pulse/30th-year-1000-blog-posts-30-lessons-learned-stan-garf
 > [!example] Garden
 > - [[garden/fragments/Learning and Teaching\|Learning and Teaching]]
 > - [[garden/fragments/Education\|Education]]
+> - [[garden/trees/library/Book and Dagger\|Book and Dagger]]
 

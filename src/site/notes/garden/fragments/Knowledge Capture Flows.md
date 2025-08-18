@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Knowledge Capture Flows.md","permalink":"/fragments/knowledge-capture-flows/","created":"2025-05-17T18:02:15.811-04:00","updated":"2025-06-26T10:17:49.297-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Knowledge Capture Flows.md","permalink":"/fragments/knowledge-capture-flows/","created":"2025-05-17T18:02:15.811-04:00","updated":"2025-08-16T12:50:25.716-04:00"}
 ---
 
 #notes/knowledge 
 
 # Knowledge Capture Flows
 As this system evolves I want to capture how I am intaking knowledge.
+
+Also see: [[garden/fragments/Update Your Resume\|Update Your Resume]], [[garden/fragments/Journal Systems\|Journal Systems]]
 
 ## After trainings, courses, or other large investments into knowledge
 Pilots: [[digital garden/fragments/library/Knowledge Management Certification\|Knowledge Management Certification]], [[garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]

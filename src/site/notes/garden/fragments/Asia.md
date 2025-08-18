@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"fragments/Asia.md","permalink":"/fragments/asia/","created":"2025-03-17T17:49:47.478-04:00","updated":"2025-07-26T14:10:25.664-04:00"}
+{"dg-publish":true,"dg-path":"fragments/Asia.md","permalink":"/fragments/asia/","created":"2025-03-17T17:49:47.478-04:00","updated":"2025-08-16T12:53:46.883-04:00"}
 ---
 
 #notes/asia
@@ -16,10 +16,6 @@
 - **Biodiversity:** Tigers, pandas, orangutans, snow leopards, rich marine life  
 - **Economy:** Includes major economies like China, Japan, and India; diverse tech, manufacturing, and agriculture sectors  
 - **Trivia:** The Dead Sea (bordering Asia) is Earth’s lowest land elevation at ~430m below sea level.
-
-### Supporting my learning
-
-
 ### Links
 https://en.wikipedia.org/wiki/Asia
 
