@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Site Updates.md","permalink":"/site-updates/","created":"2025-10-12T11:00:04.099-04:00","updated":"2025-10-12T11:01:57.131-04:00"}
+{"dg-publish":true,"dg-path":"Site Updates.md","permalink":"/site-updates/","created":"2025-10-12T11:00:04.099-04:00","updated":"2025-10-12T11:03:18.790-04:00"}
 ---
 
 

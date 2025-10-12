@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/Digital Garden.md","permalink":"/notebook/digital-garden/","created":"2025-10-12T10:54:47.715-04:00","updated":"2025-10-12T10:58:45.466-04:00"}
+{"dg-publish":true,"dg-path":"notebook/Digital Garden.md","permalink":"/notebook/digital-garden/","created":"2025-10-12T10:54:47.715-04:00","updated":"2025-10-12T11:10:24.410-04:00"}
 ---
 
 
@@ -36,11 +36,11 @@ I will start adding these as I update these pages so this list will grow over ti
 May 4, 2025
 - **Be patient with how long it takes to flesh things out**. I had a lot of ideas at once and did a pretty good job at **capturing what knowledge I'd like to capture**, but it was a bit overwhelming to suddenly have all these pages to fill out fully (like this one, which I had already started building before I made all those). **No pressure to get things done all at once. Let the thoughts percolate over time.**
 - **The pace at which I update my PKMS is not reflective of the pace at which I am learning or gaining knowledge.** I don't rush to this to update every time I learn something and my approach is and has always been to build it out slowly as I have time among other projects and things going on in my life. I know this and yet I feel weird that the site does not always accurately reflect the currency of my understanding of things! Especially the new pages where I definitely know more than what's written there!
-- **Don't feel pressured to increase expectations of yourself.** This has been a good lesson to learn. Although in some ways I think this site may end up serving as a portfolio piece somewhere, it's not actually a professionally driven site. This is a personal project that I decided to do because I was interested in taking on this challenge. There is no reason to pressure myself to do "more" unless I want to. I don't mind drifting in and out. I am learning how to be okay with being or appearing wrong online, either due to lack of knowledge or outdated information. Simply starting a list of topics is pretty cool in itself, I don't need to be at the "end of this site" (whatever that means) immediately! (though I want to be, I think it will be great!)
+- **Don't feel pressured to increase expectations of yourself.** This has been a good lesson to learn. Although I hope this site will end up serving as a portfolio piece, it's not actually a professional assignment. This is a personal project that I decided to do because I was interested in taking on this challenge. There is no reason to pressure myself to do "more" unless I want to. I don't mind drifting in and out. I am learning how to be okay with being or appearing wrong online, either due to lack of knowledge or outdated information. Simply starting a list of topics is pretty cool in itself, I don't need to be at the "end of this site" (whatever that means) immediately! (though I want to be, I think it will be great!)
 ### Supporting my learning
-- Everyone else's digital garden I can find on the internet (linked in my are.na channel below)
+- Everyone else's digital garden I can find on the internet 
 - Reflecting over time I hope
-- My are.na channel embedded here
+- My [digitalgarden are.na channel](https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4) embedded here
 
 <iframe src="https://www.are.na/max-bones/digitalgarden-8iohdsr1rc4" width="90%" height="500" allow="autoplay"></iframe>
 
