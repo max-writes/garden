@@ -1,0 +1,61 @@
+---
+{"dg-publish":true,"permalink":"/dgarden/fragments/women-in-horror/","created":"2024-12-23T21:56:38.440-05:00","updated":"2025-03-18T20:26:20.868-04:00"}
+---
+
+#tagTBD 
+# women in horror
+
+- babadook
+- American Psycho
+- the invitation
+- Raw and Titane by Julia Ducournau
+- A Girl Walks Home Alone At Night by Ana Lily Amirpour
+- Trouble Every Day by Claire Denis
+- Saint Maud (2019)
+- Censor (2021)
+- She Dies Tomorrow (2020)
+- near dark
+- ravenous
+- slash/back
+- Candyman (2021) - directed and co-written by
+- Fresh (2022) -written and directed by
+- The Love Witch (2016) - written and directed by
+- Suspiria (2018) - directed by
+- Saint Maud (2019) - written and directed by
+- Goodnight Mommy (2014) - co-directed and co-written by
+- boxing Helena
+- Watcher (2022)
+- Pet Sematary (1989)
+- Pet Sematary 2
+- Messiah of Evil
+- American Mary
+- Rabid (2019)
+- Hatching (2022)
+- Jennifer’s Body by Diablo Cody
+- M3GAN by Alika Cooper
+- Faust and Mephistopheles
+- The Bring
+- The Oracle
+- sorority house massacre 
+- ginger snaps
+- 12 hour shift
+- ghostwatch
+- tigers are not afraid
+- the house (2022)
+- the babadook
+- Nothing Bad Can Happen
+- relic (2020)
+- honorable mentions:
+- promising young woman
+- Bodies Bodies Bodies
+- trans horror
+- https://translash.org/trans-horror-a-translash-guide/
+- We’re All Going to the World’s Fair’ (2021)
+- DRACULA'S DAUGHTER
+- the haunting 1963
+- night warning 1981
+- the hunger 1983
+- THE HAUNTING OF HAMILTON HIGH 1987
+- May 2002
+- seed of Chucky 
+- the covenant 2006

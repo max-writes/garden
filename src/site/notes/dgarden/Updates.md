@@ -1,0 +1,83 @@
+---
+{"dg-publish":true,"permalink":"/dgarden/updates/","created":"2025-02-15T13:35:11.256-05:00","updated":"2025-10-02T22:59:34.507-04:00"}
+---
+
+#path/faq 
+# Site Updates
+This page includes major updates only (significant new content, new pages, deleted pages). 
+
+The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
+
+## Next update
+- New pages: **Of Maps and Men**, **Learning to Design for Accessibility**
+- Updated: **Living Seasons**, **Seasons**, **Knowledge Intake Flows**, **Antarctica**, **Down to the River and Up to the Trees**, **Accessibility Trainings**
+	- Minor updates to book page template for better consistency.
+	- I added a book report to the template which will appear on new books going forward. Since you may not see it for a while, here it is:
+
+| Prompt                                                  | Answer                               |
+| ------------------------------------------------------- | ------------------------------------ |
+| 3 most interesting things I learned                     | 1. this!<br>2. this!<br>3. and this! |
+| What was the author's goal, argument, or claim?         | (in a nutshell)                      |
+| What are the main ideas and themes?                     | (in a nutshell)                      |
+| I chose this book because...                            |                                      |
+| After reading this, I'm interested in learning about... |                                      |
+| Who should read this book?                              |                                      |
+
+## August 18, 2025
+I am trying to slowly fill out the fragment pages so I can move them over to notes and start building on them. I'm already doing the stuff I do with my life that I want to record here, and I'm doing okay with adding new topics and pages, but filling out and defining all the "base level" stuff to get the garden going is taking a while. 
+
+Not beating myself up, just recognizing it will be incremental. I want to tackle at least two fragments a month and get some of my ideas out, even if I don't finish the page yet.
+- Added: **Update Your Resume**, **Open Veins of Latin America**, **Down to the River and Up to the Trees**, **Use Plex on Home NAS**
+- Updated: **Books**, **NAS**, **Zines**
+
+## August 2, 2025
+No significant updates, I've been working on other things. I think I am in an input moment and not ready to synthesize for output and updating all the things.
+- Added: **President Fact Sheets**, **Rocks and Minerals Fact Sheets**
+- Archived some content that will be going up on my portfolio site. Not sure how to handle archived content yet.
+
+## June 26, 2025
+I have been doing a lot of stuff on the offline side of this garden and although it may be a few months until you see the fruits of those labors I hope you'll constantly check back waiting for it (just kidding, I hope you're only checking once a month or less).
+* Added: **Accessibility Trainings**, **Knowledge Capture Flows**, **summer**, **10 things that shape my reality**, **Fort Wherever**, **Max's tips for recent grads**
+* Updated: **Home**, **Purpose and Guidelines**, **Living Seasons**
+* Housekeeping:
+	* Updated all book and notes pages to add properties so I can use nice tag-filtered views of my books and media from the Datacards plugin.
+		* Oops this relies on Dataview and I never figured out how to publish that so now all those pages are ugly online but they are lovely in Obsidian!
+		* Reversed this update.
+	* Started adding headers to some of my older pieces in "trees." Most of these started as very rambly journal entries and I'll be updating and finessing.
+	* Started making connections between various notes and adding page links.
+
+## May 11, 2025
+~~Oh rad, I am having deployment issues.~~ hello, please be proud of me, I fixed my first deployment issue!
+- Added: **The Body Keeps the Score**, **Book and Dagger**, **Horror Movies**, **Journal Systems**
+- Updated: **Cemetery List**, **Spring**, **Purpose and Guidelines**, **Good Things Lists**, **Romance Movies**, **NAS**, **Journal**, **Knowledge**, **Creativity**, **Digital Gardens**, **Living Seasons**, **African History**, **Your Haunted Brain**
+- Housekeeping
+	- Moved some pages from Trees to Fragments because they aren't quite complete thoughts yet 
+	- Moved many pages from Notes to Fragments to make it clearer to myself what pages need more work (damn, it's almost all of them)
+	- Cleaned up my tags 
+	- Added some book quotes to some of the book pages and linked them in topic pages
+	- **Cemetery List** is my test for images with captions, fingers crossed. If it looks good after publishing I'll start updating the rest of my pages with images to match.
+		- TIL I can't put quotes in the caption. Also the nice captions and formatting don't show up online at all! Womp womp.
+## March 22, 2025
+- Added: **Copyright**, **Zines**, **Communication**, **Stories**, **Asia**, **Europe**, **Antarctica**, **Australia**, **Africa**, **North America**, **South America**, **Process**, **Books**, **Websites**, **Photo Journal**, **Agile Certified Professional**, **Digital Minimalism**, **Dysfunctional Documents**, **GIFs**, **Zines**, **Seasons**, **Spring**
+- Updated: **Living Seasons**, **Content Management**, **Purpose and Guidelines**
+	- Updated all notes pages to standardize outline/template
+	- Added hard connections on notes pages to other places around the garden, cleaned up tags a bit
+	- Updated the published library / book pages to match new book page template
+## March 8, 2025
+* Added: **Identity**, **Creativity** 
+* Updated: **Digital Gardens**, **Purpose and Guidelines**, **Homepage**, **Mental Health**
+## February 15, 2025
+* Added: **NAS**, **Writing**, **Technology**, **Learning and Teaching**, **Knowledge**, **Information Management**, **Education**, **Updates**
+* Updated: **TIL**, **Now**, **Social Media**
+## February 1, 2025
+Site initiation!
+* Learned how to publish Obsidian -> GitHub -> Netlify to show on Maxwrites
+* Determined site structure/picked theme
+* Added items from my offline garden that I deemed ready for public sharing (mostly items written prior to using Obsidian)
+	* **Cemetery Wishlist**, **GIFs**, **Good Things Lists**, **Music ABCs**, **Noodles**, **Overheard**, **Packing Lists**, **Romance Movies**, **Sharing Your Story**, **Women in Horror**, **Digital Gardens**, **Disability**, **Mental Health**, **Social Media**, **Change DNS**, **6 Year Drummerversary**, **10 Years of Doc Work**, **2016 in e-learning**, **Autobiography of a Writer**, **Doc Revision Struggles**, **I Want to Write**, **LTDS Promotion**, **Master Guide Approach**, **Master Guide Revisions**, **Reading Habits Reflection**, **Seasonal Observation**, **TIL**, **Weeknotes - 2023**, **Writer Mission Statement**, **Writing Process**
+	* Library: **African History**, **are dot na**, **Axe Con - 2024**, **Caste - The Origins of Our Discontents**, **Divergent Mind**, **Drunk Shakespeare**, **Finch**, **Haunting the Outer Banks**, **I Didn't Do the Thing Today**, **Intro to AI Class**, **Men Without Women**, **Monster Hunter Now**, **Routines and Ruts**, **Shady Characters**, **The Ghost - A Cultural History**, **The Halloween Tree**, **The Little Book of Hygge**, **Transgender History**, **Unsinkable**, **Your Haunted Brain**
+
+
+_Hey, Max, I read all the way to the bottom of your updates page. Can you reward me by answering a question? Why didn't you link any of these pages?_
+
+Forgive me, I didn't want this page to come up as a reference on every page on the site 🤷🙏🫶
