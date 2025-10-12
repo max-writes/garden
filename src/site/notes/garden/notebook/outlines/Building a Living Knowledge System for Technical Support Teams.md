@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-10-12T10:37:11.092-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-10-12T11:51:23.904-04:00"}
 ---
 
 
+[Read the LinkedIn post.](https://www.linkedin.com/posts/maxswetnam_for-support-teams-troubleshooting-isnt-activity-7383167206592884737-Y0-Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfXl3ABz6VzuGURGA9Y432Et8k5iPrJKw4)
 
 # Building a Living Knowledge System for Technical Support Teams
 
