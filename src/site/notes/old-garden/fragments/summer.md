@@ -213,4 +213,4 @@ Summer bingo is going to be a stretch so I put a lot of stuff on here that I wou
 
 The bingo activity has been a lot of fun in defining what each season means to me, and the many activities I enjoy doing (though perhaps not every year). Summer is the 4th bingo card I've done and I'll be excited to give a review after a year.
 
-![summer-1750893883772.jpg|500](/img/user/digital%20garden/fragments/attachments/summer-1750893883772.jpg)
+![summer-1750893883772.jpg|500](/img/user/old-garden/digital%20garden/fragments/attachments/summer-1750893883772.jpg)

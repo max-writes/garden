@@ -42,7 +42,7 @@ What I've been doing with websites:
 What's going on creatively:
 * I'm participating in Blobtober from buttercat_paradox, a friend [posted about it on her newsletter](https://adriennepriceart.substack.com/p/monthly-recap-and-blobtober) and it seems like a fun way to play without the pressure of a daily challenge. I've made all my blobs and will be following the prompts on this page.
 
-![20251001_210210~2.jpg](/img/user/old-garden/attachments/20251001_210210~2.jpg)
+![20251001_210210~2.jpg](/img/user/garden/attachments/20251001_210210~2.jpg)
 
 * I started a new year of seasonal projects following prompts from [[Down to the River and Up to the Trees\|Down to the River and Up to the Trees]]. I've only done two so far but I'm enjoying it!
 
@@ -63,7 +63,7 @@ What's going on creatively:
 * Since spring ended I'm supposed to make a spring seasonal zine which is another [[old-garden/trees/Living Seasons\|yearlong seasonal project]] and I do want to do it, but I am also incredibly hot and unmotivated.
 * We had Art & Eat at work today and I did a unicorn coloring page emphasizing love and support between the LGB and Trans communities. I accidentally used a kind of peach instead of a pink for the trans unicorn but that's okay. I really love the rainbow one. I ran out of time after coloring the banner but maybe I'll revisit later and color the horses too.
 
-![Now-1750894631115.jpg](/img/user/old-garden/attachments/Now-1750894631115.jpg)
+![Now-1750894631115.jpg](/img/user/garden/attachments/Now-1750894631115.jpg)
 
 What's going on at work:
 
@@ -99,8 +99,8 @@ What I've been doing with websites:
 
 What's going on creatively:
 * Last night I participated in my friend [Adrienne](https://substack.com/@adriennepriceart)'s virtual drink and draw event where I made a very nice doodle, and then I colored it. There is not much else happening. I've been swamped at work and out of focus afterwards, focused more on websites than anything else!
-![20250409_210726~2.jpg](/img/user/old-garden/attachments/20250409_210726~2.jpg)
-![20250409_214029~2 1.jpg](/img/user/old-garden/attachments/20250409_214029~2%201.jpg)
+![20250409_210726~2.jpg](/img/user/garden/attachments/20250409_210726~2.jpg)
+![20250409_214029~2 1.jpg](/img/user/garden/attachments/20250409_214029~2%201.jpg)
 
 What's going on at work:
 - We wrapped up FY25Q3 this week and even though Q4 planning doesn't happen for another week and a half, we're in it! So I'm spending these last weeks before then figuring out the last details for the stuff that didn't quite make the deadline. 
@@ -136,7 +136,7 @@ What's going on creatively:
 * I have been drafting my winter zine but my printer needs to be reconnected so I hit that blocker until I have enough focus energy to deal with it.
 * Mostly website stuff otherwise, though I did make a little thingy in Canva the other day for funsies.
 
-![[welcome to my website_20250317_114511_0000.png\|welcome to my website_20250317_114511_0000.png]]
+![welcome to my website_20250317_114511_0000.png](/img/user/garden/attachments/welcome%20to%20my%20website_20250317_114511_0000.png)
 
 What's going on at work:
 - Swamped because I had to take two days off last week due to tooth pain (I'm all better now). Catching up with LTI documentation. For each tool, we make guides for course developers, faculty, students, and tech support info.Without meetings it takes about a day and a half to make them all.

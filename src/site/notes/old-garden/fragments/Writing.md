@@ -41,5 +41,5 @@ from _Learning with E’s: Educational Theory and Practice in the Digital Age_�
 > - #type/how-to 
 > - [[old-garden/fragments/library/Shady Characters\|Shady Characters]]
 > - [[old-garden/fragments/library/Dysfunctional Documents\|Dysfunctional Documents]]
-> - [[digital garden/fragments/library/Track Changes\|Track Changes]]
+> - [[old-garden/digital garden/fragments/library/Track Changes\|Track Changes]]
 

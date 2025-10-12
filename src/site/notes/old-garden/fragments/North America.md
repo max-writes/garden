@@ -30,7 +30,7 @@ Courses
 > - [[old-garden/trees/library/Book and Dagger\|Book and Dagger]]
 > - [[old-garden/trees/library/Haunting The Outer Banks\|Haunting The Outer Banks]]
 > - [[old-garden/trees/library/Unsinkable\|Unsinkable]]
-> - [[digital garden/fragments/library/A People's History of the United States\|A People's History of the United States]]
+> - [[old-garden/digital garden/fragments/library/A People's History of the United States\|A People's History of the United States]]
 > - [[old-garden/fragments/library/Open Veins of Latin America\|Open Veins of Latin America]]
 > - [[old-garden/fragments/pages/Presidents\|Presidents]]
 
