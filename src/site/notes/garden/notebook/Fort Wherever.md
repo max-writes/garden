@@ -1,0 +1,77 @@
+---
+{"dg-publish":true,"dg-path":"notebook/Fort Wherever.md","permalink":"/notebook/fort-wherever/","created":"2025-05-11T21:05:01.102-04:00","updated":"2025-10-12T10:39:43.656-04:00"}
+---
+
+
+# Fort Wherever (reflections on my home)
+I live in an okay place. I like my place. I kind of settled on it because I was tired of looking for places to live and it checked enough boxes to go for it, but I wish I had taken more time to really think about what I wanted. 
+
+Oh well. I could move, it's just a lot of work/effort/resources/energy. This is the largest place I've ever lived in and I certainly have expanded to fill the space! I have a lot more stuff than I did when I moved in.
+
+I am lucky to be a homeowner in the current economy and so above all complaints here, I'm grateful to have a stable place to live where the only fluctuating bill is my utilities. I just want to put that here so the reader knows I'm glad for my position and the support I have available to me, I'm certainly not forgetting that in my words here!
+
+## Floor Plan
+
+
+![2025-05-11-1746977433072.png](/img/user/0/daily/attachments/2025-05-11-1746977433072.png)
+
+I downloaded a floor plan app called Floor Plan Creator and paid the $8 to be able to export an image of my home's floor plan. It was kind of a struggle to make it because all of the official floor plans from my community don't include measurements for the kitchens, bathrooms, porches, or closets. Frankly I was too lazy to measure, so I think the kitchen is definitely too big, but I couldn't figure out how to make it all work and line up in its little rectangle otherwise. 
+
+It's been a "weird" floor plan since before I moved in but I saw a lot of potential in the space. I don't know how well the image really illustrates the weirdness, so here are some of the major points:
+- The living room is very long and there's no real "entrance" type of area to divide the space
+- There are only two windows and no other natural light in the entire back of the house, which sits in a hill, so I'm basically a cave creature (or hobbit)
+- There's only one way out/in (unless you count the windows)
+- It is on the ground floor facing the parking lot (what was I thinking??) - sure you get a "private entrance" but you also have zero porch privacy
+- Weird tiny hallway full of doors
+- The bedroom is an odd shape 
+- HVAC and water closet in the bedroom sux
+- Not floor plan specific but it's bottom floor under three other floors and every time something goes wrong upstairs it trickles down to me
+
+## Decor
+I moved here in 2018 and struggled for a few years with how to set up my stuff. I didn't have much at the time but also I couldn't understand how to practically use the giant spaces. Animal Crossing: New Horizons taught me a lot about decorating small spaces and dividing rooms in creative ways and once I started applying that knowledge it was very easy to see how I could section off my giant  rooms into separate spaces, and keep other furniture out of the way but still useful. Those home decor skillz have served me across the unit as I created little corners to engage in hobbies and focus.
+
+I like my setup. There are a few things I want to change but everything I like to do is easy to do, just go to that part of the house and it's all set up and ready to go. I learned that in this place: how to decorate for me, my comfort, my 'configuration settings.' 
+
+Some rooms I want to make cluttered with stuff to look at, enjoy, or get lost in. Walls full of art, colorful furniture, atmosphere or aura infusing decor, cute things. Books everywhere: titles that you'll run your eyes across, words that might spark interest or ideas. Pumpkin figurines with faces (I love expressive pumpkins) and how it makes you feel when you randomly see it - a laugh, a smile, a sense of connection (cuz same). Maximalism aesthetic can be very overwhelming. I don't do it in every room but I love it, so I tend to hang out in the room with the most stuff on the walls.
+
+When I moved in I didn't own a TV. I didn't have one in my previous home. I eventually got one so I could play Monster Hunter Rise and use it as speakers while I bought stuff I never owned before (such as bluetooth speakers), but one of my compromises for having a television at home was to not become one of those households that centers the TV for all activities. My living room went through a few different renditions where my record player or art desk took center stage. Eventually I lost the battle and centralized the TV as the main focal point. It's still very easy to ignore it in the living room, though. There is plenty of stuff to do in my house. I made peace with it.
+
+The bedroom is more minimal. The walls aren't empty but they're more intentional. Pictures with moons, my Pride flag (duh), sleepy dreamy sort of things. Some mood lighting, a couple of things that make me smile when I see them. There is a bookshelf because I keep books in every room but it's smaller than the rest. Everything in here either supports wind down time, nap time, wake up time and not much else. (If I had a bigger bedroom I might put more in there.) (Also, Zenny rules the areas in front of the windows so I don't do a lot in that section near the window.)
+
+I had some mishaps with furniture on the way. I knew I was going to fill the space so I wanted to prioritize furniture in the hopes I could just fill the furniture and feel satisfied! Every time I got something new I set it up and hung out with it for a while. Does it work there? Should I move it? Am I bumping against it? Does it make it awkward to move around this space? Do I even like it? (Don't worry, the furnitures I ended up disliking found good homes or I still have them.) 
+
+I found the process exciting. I was fine tuning a setup that was totally scoped to my comfort, desires, and loves. Yes, I considered whether I might have guests and where they'd sit or set their things, but I didn't design the space around the specific comforts of another person. People don't visit me that often. If they did, everyone would have a comfy place to sit, somewhere to put the water I offered them, a place to charge their phones (though I lost my iPhone cable so right now they have to bring their own), and plenty of pillows and blankets for variable comfort levels. Most of what I need, other people need too. People who cat sit and hang out tell me that they love doing it because they'll get all cozy and realize they forgot to do something, but then find out everything they need is right there within reach (remote, pens, trash can, bluetooth speaker, heart monitor, scissors, cat toys, cat treats). Finding out what I needed was fun (except when I found out I should be monitoring my heart). I use all my furniture; nothing is "only" for guests.
+## Fort Wherever
+
+Since I was a kid, I've always had a fort in my room. It was a semi-permanent fort (I might take it down and remake it but there was always a fort) and I usually built it initially while moving in. Even as an adult living with roommates or partners I kept a fort somewhere, even if it was a secret closet fort where I didn't have all my fort essentials. I have always needed a smaller, more enclosed space to go and be alone and collect my thoughts. Somewhere that made me feel "more isolated" than simply being behind a closed door.
+
+That fort always has a name and the name changes in each home (but it keeps the same name even if the fort was rebuilt). Some that come to top of mind are Fort Man, Fort Henry Rollins, Fort Porch (it wasn't on the porch but had lots of natural light), Fort Jack (Halloween decor fort), and Fort Fort (commonly written "Ft. Fort").
+
+When I moved into my current place with its plentiful bountiful rooms, I made several forts because there are so many good fort spots in these rooms. I mean, look at how many closets I have! This is where "Fort Wherever" came from - wherever I was in my home, there was a fort ready for me to use. As time went by, I realized that although I was building the forts, I wasn't using them. I already felt sufficiently isolated because I live alone. 
+
+At some point I decided to take the forts down so I could utilize the space for something else and instead adopted the name "Fort Wherever" for the whole home.
+
+## A Pattern Language
+
+Shortly before I moved in here I started reading *A Pattern Language* by Christopher Alexander which is about urban architecture and planning. It's a huge book which I expect to be reading for the rest of my life. I started reading it on a flight to Canada and continued reading it on my way home. Very interesting to get that perspective of city/town layout and then get on a plane and see it from above.
+
+The [entrance room](https://www.patternlanguageindex.com/patterns/entrance-room) inspired me to ensure I had an entrance space in my giant living room. I got a tall room divider and moved some of my furniture around and found this to be an essential change overall. Before this, you opened the door directly into the living room and everyone outside could see exactly what was going on inside. Now, you open the front door and all they see is a pretty tree divider, welcome sign, coat rack, and my enter/exit necessities. People sitting on the couch don't feel so exposed. Somehow the biggest difference this made for me is that my neighborhood is very loud, especially in the evenings during warmer months, and with the simple addition of a divider I feel more isolated from the outside world. I can't even see my front door from my sitting areas anymore.
+
+When I was trying to figure out the arrangement of my living room with a 72 inch couch, 44x46 inch round sofa, 35x45 inch chair, coffee table, end tables, TV, and rug, after constructing my entrance, I referenced [sitting circle](https://www.patternlanguageindex.com/patterns/sitting-circle) for help. I didn't get too circular with it, but because the space is so long and one of my items is round, it works out pretty well. This will comfortably seat 4 people, 5 if one is a child, 6 if two are a couple... but I'll never have more than 3 other people in my house at a time. (If I did there's a plan and I've moved furniture around - I have other chairs I can bring from another room.) No matter where you sit you can see everyone and everyone has their own space for their stuff.
+
+I read [child caves](https://www.patternlanguageindex.com/patterns/child-caves) a few months after getting my first cat and it made me realize that my cat also wants to be in tiny, cave-like places. This inspired me to rearrange some furniture so that Zenny has more places to climb around or hide. Verdict: She loved it.
+
+## Random thoughts
+
+My community has the usual "stairwell" that most communities have so delivery people immediately go there and don't even look at the instructions to navigate to my front door. They can't find my unit number, get upset and frustrated, and then I have to leave my place and track them down wherever they are. It's a no-win situation because then we are both frustrated but I try to give them slack (unless they're rude about it, which happened a few times). I don't order delivery as much as I used to but this was a huge pain point for this place. The first time I came here I had difficulty finding it too. Not sure why I thought the porch entrance was a pro for choosing this spot, I guess I was just very tired of people at that moment. (On the plus side, I can literally park right in front of my door.)
+
+When I got the place it was a huge mess and needed a lot of work (that's why it was so affordable). Appliances needed replacing and some damage necessitated renovations. I don't know what was going on with the previous owners but some doors looked like they had been gnawed down. This was an opportunity for me to go full on creative (as well as I could given financial limits). We fixed and painted the walls, built a new cabinet for the bathroom, installed a few ceiling lights, got other work done. This is now one of my major selling points for the place: It's got its issues, but I customized it fully. I know I could do that again somewhere else but dang I don't want to leave my black floors and dark door frames. How many other places have a purple accent wall and chandelier in the bathroom? I hand-selected the ceiling fans because they look like they have moons on them. You're telling me I have to re-purchase (or bring this but purchase something else in its place)?
+
+A few years ago my parents moved into a smaller space and offloaded all the stuff they saved for my brother and I during our lives. Suddenly not only do I have too much stuff, but I also now have all this childhood stuff I didn't even know was being saved. I thought it was a good opportunity to go through these artifacts of my life and do some writing/reflecting, so I do that every once in a while and it's very rewarding. However, it does mean I've got a room full of junk. Sadly, I wasn't using that back room for a very long time (the one without windows). In Dec 2024, I built a nest in there that combined a giant bean bag chair I got from a friend and the loveseat I've carried with me to a few homes. I dropped my fort blankets and sheets in that corner too and now I have a cozy mood corner for playing video games, listening to records, building Lego sets, reading, writing, napping, or whatever else I want to do that doesn't entail moving or getting up.
+
+I've had my ups and downs here. In addition to it being the largest place I've ever lived, I've also lived here the longest of any place since moving out of my parents house. Sometimes I hate the shape and weirdness of it more than anything because I'm sick of seeing the same stuff in the same places. I've reorganized and rearranged and always come back to the same things. Because of the positioning of the window or where the wifi box needs to be in order to get service or where there's a door/wall/opening, there's always a reason why you wouldn't want to place a piece of furniture in other spots. A weirdly shaped place limits your options. Other times, I love how it's so unique and odd, that even if it's limited in some ways it allows for variety in other ways and I can decide how to construct my living room because there are no walls to stop me. 
+
+I've heard people say that a house isn't a home until you put something on the walls. The metaphor is that it's just a place that holds you and your stuff until you start decorating it and making it whatever you want to be. Maybe that's what makes a house a home, but for me what makes a house FEEL like a home is when you leave and come back and all your stuff is waiting for you. You don't have to do anything extra, you can sit on the couch after a long, exhausting day, and all your blankets and cozy things are there. You don't have to order or pay or customize or work on it first. But that magic only comes after you leave the house and come back, bonus points if you take a trip so you're gone for a few days. That moment unlocking the door and walking into the threshhold, kicking my foot out so my cat doesn't escape, closing the door behind me and feeling the comforts and smells of my cozy place: that's home.
+
+---
+This note originally began as a Daily Note (5/11/25) during the 100 Days Project (100 days of writing).
