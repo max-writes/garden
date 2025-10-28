@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/horizons.md","permalink":"/notebook/horizons/","created":"2025-08-18T23:12:51.555-04:00","updated":"2025-10-12T11:13:35.358-04:00"}
+{"dg-publish":true,"dg-path":"notebook/horizons.md","permalink":"/notebook/horizons/","created":"2025-08-18T23:12:51.555-04:00","updated":"2025-10-27T21:22:47.361-04:00"}
 ---
 
 

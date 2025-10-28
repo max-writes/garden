@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/Learning in Public.md","permalink":"/notebook/learning-in-public/","created":"2025-10-12T10:53:20.281-04:00","updated":"2025-10-12T10:58:52.679-04:00"}
+{"dg-publish":true,"dg-path":"notebook/Learning in Public.md","permalink":"/notebook/learning-in-public/","created":"2025-10-12T10:53:20.281-04:00","updated":"2025-10-27T21:23:04.603-04:00"}
 ---
 
-
+#notes/learning 
 # Learning in Public
 In reading about digital gardens and their philosophies, I keep seeing the "learn in public" approach come up, which is something I've been trying to do better with this site. (I am still learning to be consistent with it to get the most value.)
 

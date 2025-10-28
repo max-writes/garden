@@ -1,9 +1,31 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-10-11T22:53:37.105-04:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-10-27T22:31:12.088-04:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
+
+## October 27, 2025
+I opened Obsidian to start writing a month-in-review but instead decided to add more thoughts as callouts to [[garden/notebook/outlines/Building a Living Knowledge System for Technical Support Teams\|Building a Living Knowledge System for Technical Support Teams]]. I guess making little callout blurbs counts as working on that.
+
+Listening to: Hannibal Season 3 Episode 8: The Red Dragon
+
+What I've been doing with websites:
+* I created a [landing page for Phantom Manor](https://frankenweb.neocities.org) and thus "completed" the site for the year. I still have a lot to learn about mobile responsive design and accessibility, but I'm dedicated to it so I look forward to improving it for better usability in the 2026 update!
+* The Halloween site took so long and so much energy that I haven't been doing much else, though I've been following [Weird Web October](https://weirdweboctober.website/) and enjoying each of these 1-page fidget toys people are creating!
+
+What's going on creatively:
+* I've been forgetting to do Blobtober, I caught up on 3 doodles the other day and I have 2 more to catch up on before the final one arrives Friday. It's been such a busy month!
+* I'm also building blocks from a 13-day Halloween advent calendar my mom got me. Again, catching up every few days, rather than engaging in it daily. 
+
+What's going on at work:
+- This is release week so I've been setting up my document to draft release notes and get them reviewed before the release on Wednesday. It took a while but I'm excited to say I've established a process for getting these ready to go that works for all the people involved in it. I thought it would be difficult to streamline an administrative process across multiple product owners (incredibly busy people) but it turns out I just had to make it as easy as possible for them and they'd be fine with it. I make a giant doc for all release notes for the month, draft there, then comment and @ them with my questions. After approval, I build the SharePoint news post and off it goes!
+- I have Friday off for a Halloween destination trip, so my prioritization method is coming out HARD. That interview question you get about how you prioritize work when there are conflicting deadlines is getting tested right now since I have four items due after a week of having high priority (unplanned) tickets interrupting my flow. Using this method, I usually get all my smaller tasks completed on the first day which opens up the rest of the week for priority focus. Here's what I do:
+	- Create a list of days (top bullets) for however many days I'm looking ahead/planning (in this case, Monday - Thursday)
+	- Under each day, list all the priority items due (they were all due Thursday except one item due Monday)
+	- Previous to the due date, add a bullet to get the work started that day - I try to portion this out well given the level of effort or work involved, don't put too many things on a day with lots of meetings, etc. (I portioned between Mon, Tues, Wed given that Tue is a big meeting day and Wed is release day)
+	- List all the other non-priority work (such as operations) that needs to be done during that time
+	- Do what I need to do to ensure focus: Rest, eat well, take breaks.
 
 ## October 11, 2025
 I'm redoing this entire site - yay! I'll still keep the garden, but this is going to morph into a more professional presence for me. I don't have any writing online anywhere to use as a portfolio or display my expertise. That was one of the original goals for creating this site and then it somehow went down a path of personal interests.
@@ -62,8 +84,6 @@ What I've been doing with websites:
 What's going on creatively:
 * Since spring ended I'm supposed to make a spring seasonal zine which is another [[old-garden/trees/Living Seasons\|yearlong seasonal project]] and I do want to do it, but I am also incredibly hot and unmotivated.
 * We had Art & Eat at work today and I did a unicorn coloring page emphasizing love and support between the LGB and Trans communities. I accidentally used a kind of peach instead of a pink for the trans unicorn but that's okay. I really love the rainbow one. I ran out of time after coloring the banner but maybe I'll revisit later and color the horses too.
-
-![Now-1750894631115.jpg](/img/user/garden/attachments/Now-1750894631115.jpg)
 
 What's going on at work:
 

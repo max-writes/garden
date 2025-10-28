@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-10-12T11:51:23.904-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-10-27T22:06:42.452-04:00"}
 ---
 
-
-[Read the LinkedIn post.](https://www.linkedin.com/posts/maxswetnam_for-support-teams-troubleshooting-isnt-activity-7383167206592884737-Y0-Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAfXl3ABz6VzuGURGA9Y432Et8k5iPrJKw4)
-
+#notes/knowledge #topic/technical-writing #notes/writing #notes/content-management 
 # Building a Living Knowledge System for Technical Support Teams
 
 ## I. Introduction: The Complexity of Support Knowledge
@@ -33,6 +31,22 @@
 	* Departmental variations and role-specific nuances
 * Challenge: library is internal, cross-functional, deeply technical, making organization & clarity essential
 
+
+> [!tip] Building Confidence and Independence at Work Through Documentation
+> Sometimes documentation can feel like more work to use than it is to simply ask a question and wait for someone to answer. However, consider this: Documentation isn't extra work; it’s your shortcut to clarity, confidence, and skill growth. 
+> 
+> Here’s how to make the most of the resources you have available: **7 Ways to Get More Out of Documentation**
+> 
+> 1. **Start with the docs**. Before asking around, check your company or vendor documentation. You might find the full context, not just the quick fix.
+> 2. **Save yourself time later.** Reading once now means fewer repeated questions and more confidence when issues pop up again.
+> 3. **Learn, don’t just copy**. Docs explain why things work; that builds independent problem-solving, not dependency on others.
+> 4. **See the bigger picture**. Vendor docs show how the product fits into a wider ecosystem. Internal guides explain how your team uses it. Together, they complete the story. Plus, vendor guides may include edge cases the internal guides omit.
+> 5. **Fix gaps you find**. If something’s out of date or missing, note it! Using internal doc update workflows, provide feedback, submit a draft with edits, or share your notes with the documentation owner.
+> 6. **Share feedback constructively**. "This step fails with X" with a suggested wording or snippet is actionable help for doc owners. When teammates see you using and improving docs, it normalizes the practice across your team.
+> 7. **Make it habitual**. Bookmark essentials, link guides in tickets, and model doc-first behavior so the team treats docs as the shared single source of truth.
+> 
+> Documentation isn’t just a reference; it's the shared knowledge for your team. The more you use it, the smarter and more self-sufficient the system becomes.
+
 ## III. Building a Sustainable Documentation System
 - Key components
 	- Clear structure: Logical hierarchy and consistent taxonomy (systems, workflows, processes, tools)
@@ -60,6 +74,22 @@
 - Documentation as culture: frame docs as a shared responsibility - everyone upkeeps the system. it's not an afterthought. leadership buy-in for resourcing and capacity is essential to a healthy system.
 - Tooling: list what you have available to you, list your documentation needs, and venn diagram them to figure out the best tool
 - Versioning and transparency: easy to see who changed what and when
+
+
+> [!example] Honor the System: A Knowledge Library is a Relationship
+> 
+> On a support team, good documentation isn't written for you, it's written with you. A strong connection between readers, writers, and technologists keeps the whole system healthy and useful.
+> 
+> Here are 5 ways to strengthen your relationship with the resource library your team uses:
+> 
+> 1. **Know what docs can (and can’t) do**. Writers capture the best-known process at a point in time, not every edge case. Some answers still need technologist insight, research, or teamwork.
+> 2. **Understand what to expect**. Check doc intros or version notes to see what’s covered. If it’s unclear, ask! Setting expectations helps everyone use the right materials at the right time.
+> 3. **Participate in the system**. A doc library isn’t a static repository; it’s a living knowledge network. Every reader, technologist, and writer helps keep it accurate by sharing discoveries and feedback.
+> 4. **Don’t wait for magic updates**. Docs evolve when people learn something new. If you solved a tricky issue, draft it for inclusion or send your notes to the doc team.
+> 5. **Use docs as a tool, not a task**. Documentation supports thinking, troubleshooting, and decision-making. The more you engage with it, the more it gives back.
+> 
+> Strong documentation depends on shared responsibility. When readers and writers collaborate, the result isn’t just better content, it’s a smarter, more connected team.
+
 
 ## V. Conclusion: Documentation is Foundational
 - Reframe your ideas on how documentation fits in the workflow: a well-maintained library isn't "extra work" - it's foundational to operational resilience.
