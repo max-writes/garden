@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/Zines.md","permalink":"/notebook/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-10-27T22:53:36.390-04:00"}
+{"dg-publish":true,"dg-path":"notebook/Zines.md","permalink":"/notebook/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-10-27T23:52:32.491-04:00"}
 ---
 
 
@@ -52,7 +52,7 @@ Past zines:
 	- Zines to Color: Coloring book type of zines of various topics (postage, Monster Hunter, horror movies)
 ## Learn more
 
-### # Zines 101
+### Zines 101
 Link: [guides.library.cornell.edu/zines101/home](https://guides.library.cornell.edu/zines101/home)
 
 > Zines (pronounced like "magazines" without the "maga") are:
