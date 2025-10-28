@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-27T23:35:13.927-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-27T23:48:59.694-04:00"}
 ---
 
 #notes/writing #topic/technical-writing 
@@ -17,14 +17,11 @@ Subtitle ideas
 - Writing good documentation is a philosophical exercise requiring empathy, reasoning, and anticipating counter arguments
 
 > [!quote] Parallels
-> "The unexamined life is not worth living." - Socrates<br/>
-> "The unexamined workflow will confuse your users." - Every tech writer, probably
+> "The unexamined life is not worth living." - Socrates | "The unexamined workflow will confuse your users." - Every tech writer, probably
 > 
-> "Doubt is the origin of wisdom." - René Descartes<br/>
-> "Testing every possible user action is the origin of great documentation."
+> "Doubt is the origin of wisdom." - René Descartes | "Testing every possible user action is the origin of great documentation."
 > 
-> "All men by nature desire to know." - Aristotle<br/>
-> "All users by nature desire to understand, not just follow directions."
+> "All men by nature desire to know." - Aristotle | "All users by nature desire to understand, not just follow directions."
 
 ## II. Shared Foundations: Inquiry and Clarity
 - In philosophy, clarity and structure ensure users can act with confidence
@@ -84,26 +81,18 @@ Subtitle ideas
 
 
 > [!quote] Parallels, Extended Edition
-> "We do not learn from experience... we learn from reflecting on experience." - John Dewey<br/>
-> "We do not write great docs from first drafts... we write them by reflecting on how users actually experience them."
+> "We do not learn from experience... we learn from reflecting on experience." - John Dewey | "We do not write great docs from first drafts... we write them by reflecting on how users actually experience them."
 > 
-> "The only thing I know is that I know nothing." - Socrates<br/>
-> "The only thing I know is that users will always surprise me."
+> "The only thing I know is that I know nothing." - Socrates | "The only thing I know is that users will always surprise me."
 > 
-> "You cannot step into the same river twice." - Heraclitus<br/>
-> "You cannot step into the same document twice - you always return armed with new knowledge."
+> "You cannot step into the same river twice." - Heraclitus | "You cannot step into the same document twice - you always return armed with new knowledge."
 > 
-> "He who knows only his own side of the case knows little of that." - John Stuart Mill<br/>
-> "They who test only one user path knows little of the full workflow."
+> "He who knows only his own side of the case knows little of that." - John Stuart Mill | "They who test only one user path knows little of the full workflow."
 > 
-> "The measure of intelligence is the ability to change." - Albert Einstein<br/>
-> "The measure of good documentation is the ability to adapt when your product or users do."
+> "The measure of intelligence is the ability to change." - Albert Einstein | "The measure of good documentation is the ability to adapt when your product or users do."
 > 
-> "Truth springs from argument among friends." - David Hume<br/>
-> "Clarity springs from review among teammates."
+> "Truth springs from argument among friends." - David Hume | "Clarity springs from review among teammates."
 > 
-> "We are what we repeatedly do. Excellence, then, is not an act but a habit." - Aristotle<br/>
-> "Those who do not document past issues are condemned to rediscover them."
+> "We are what we repeatedly do. Excellence, then, is not an act but a habit." - Aristotle | "Those who do not document past issues are condemned to rediscover them."
 > 
-> "The more sand that has escaped from the hourglass of our life, the clearer we should see through it." - Niccolò Machiavellia<br/>
-> "The more versions a system has gone through, the clearer our documentation should become."
+> "The more sand that has escaped from the hourglass of our life, the clearer we should see through it." - Niccolò Machiavellia | "The more versions a system has gone through, the clearer our documentation should become."
