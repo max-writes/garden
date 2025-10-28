@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Site Updates.md","permalink":"/site-updates/","created":"2025-10-12T11:00:04.099-04:00","updated":"2025-10-27T23:36:18.610-04:00"}
+{"dg-publish":true,"dg-path":"Site Updates.md","permalink":"/site-updates/","created":"2025-10-12T11:00:04.099-04:00","updated":"2025-10-27T23:40:49.857-04:00"}
 ---
 
 
 # Site Updates
 This page includes major updates only (significant new content, new pages, deleted pages). The date is when I uploaded the batch, not necessarily when I made the change. Each page has a time stamp for created and updated if you're that curious!
 
-## Date
+## Oct 27, 2025
 - Added: **LinkedIn Posts**, **How Writing User Guides is Like Philosophy**
 - Updated: **Building a Living Knowledge System for Technical Support Teams**, **Home**, **Zines**
 
