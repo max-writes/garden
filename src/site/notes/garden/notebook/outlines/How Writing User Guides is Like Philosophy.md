@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-27T23:48:59.694-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-27T23:50:19.115-04:00"}
 ---
 
 #notes/writing #topic/technical-writing 
@@ -76,8 +76,7 @@ Subtitle ideas
 
 ## VII. The Philosophical Mindset of a Writer
 - The best writers question their own assumptions, anticipate the unknown, and refine endlessly.
-- Themes:
-	- Writing a user guide isn’t about giving answers, it’s about asking every possible question first
+- Writing a user guide isn’t about giving answers, it’s about asking possible questions first
 
 
 > [!quote] Parallels, Extended Edition
