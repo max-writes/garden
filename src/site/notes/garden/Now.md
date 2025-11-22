@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:25:46.809-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:27:14.989-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -20,9 +20,9 @@ What's going on creatively:
 
 What's going on at work:
 - I'm on a small team of people working to consolidate resources for a major project into a SharePoint Teams channel, so we can share it with certain people without exposing the full library. We've hit so many limitations and unexpected issues with SharePoint and the way things are set up, but we're almost done. It was supposed to finish today but needed an extension into next week to fix some unexpected issues. 
-	- Before launch today I decided to go on my hunch and test it. Everyone was sure everything would work as expected, but I wanted to make sure. I went into that 3-hour session anticipating it'd be 20 minutes just like everyone else did. I can't believe I started my career as a technologist and I didn't put testing into my doc migration plan. I got wrapped up in the idea of finishing something early quarter before Thanksgiving week that I made a huge rookie move.
+	- Before launch today I decided to go on my hunch and test it. Everyone was sure everything would work as expected, but I wanted to make sure. I went into that 3-hour session anticipating it'd be 20 minutes just like everyone else did. I can't believe I started my career as a technologist and I didn't put testing into my doc migration plan. I got so wrapped up in the idea of finishing something early quarter before Thanksgiving week that I made a huge rookie move.
 	- Anyway, we figured it out, solutioned it, created a spreadsheet and assigned ourselves to fix it. High priority items first. That will probably take up my whole Monday next week.
-- It was a week of two release notes posts so that took up most of my week. I really like release notes weeks. My system of release notes is my baby.
+- It was a week of two release notes posts so that took up most of my week - one posted Wed and one on Thur. I really like release notes weeks. My system of release notes is my baby.
 
 ## October 27, 2025
 I opened Obsidian to start writing a month-in-review but instead decided to add more thoughts as callouts to [[garden/notebook/outlines/Building a Living Knowledge System for Technical Support Teams\|Building a Living Knowledge System for Technical Support Teams]]. I guess making little callout blurbs counts as working on that.
