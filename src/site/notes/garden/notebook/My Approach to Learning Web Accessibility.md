@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/My Approach to Learning Web Accessibility.md","permalink":"/notebook/my-approach-to-learning-web-accessibility/","created":"2025-11-08T13:29:57.998-05:00","updated":"2025-11-15T12:52:45.672-05:00"}
+{"dg-publish":true,"dg-path":"notebook/My Approach to Learning Web Accessibility.md","permalink":"/notebook/my-approach-to-learning-web-accessibility/","created":"2025-11-08T13:29:57.998-05:00","updated":"2025-11-21T20:51:18.845-05:00"}
 ---
 
 
@@ -75,7 +75,7 @@ My advice:
 > [!example] Tools
 >  - [WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/)
 >  - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
->  - Don't want to use AI? Use sites like [Fiverr](https://www.fiverr.com/) to have a human create transcripts or closed captions.
+>  - Use sites like [Fiverr](https://www.fiverr.com/) to hire a human create transcripts or closed captions.
 
 ## 4. Keep a Growth Mindset
 Above all, adopt a growth mindset towards learning accessibility. You won't get everything perfect; often you'll learn new things that make you rethink how you've been doing things. It's a good sign if looking back on past work makes you feel weird. 

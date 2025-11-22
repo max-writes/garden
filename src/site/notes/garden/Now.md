@@ -1,9 +1,28 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T20:03:35.122-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:20:57.211-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
 # Now
+
+## November 21, 2025
+Listening to: [Robyn's Place](https://robynsplace.org/) on the radio. I went out to pick up supplies for my night (including chocolate covered cherries) and the show started on my way home and I wanted to keep that mood going. It's a nice and calm Friday night with Robyn. It's very cozy. Her mom was a guest!
+
+In the DC area it's 89.3 FM 7-10pm, worldwide here (EST): https://www.wpfwfm.org
+
+What I've been doing with websites:
+* Reorganizing this one and trying to figure out how I want to use it. I feel like it's just on the tip of my tongue. I am refining it to include both private and published pages; I am breaking the law and putting them all in the same folders. It felt so good to combine my entire library of notes, instead of having a 'draft' folder in Obsidian separately.
+* Also thinking of the daunting task of auditing all of my hand-coded websites for accessibility using the [WAVE](ttps://wave.webaim.org/extension/) , [taba11y](https://chromewebstore.google.com/detail/aocppmckdocdjkphmofnklcjhdidgmga), and [ARIA DevTools](https://chromewebstore.google.com/detail/dneemiigcbbgbdjlcdjjnianlikimpck) extensions to start.
+
+What's going on creatively:
+* I started a [ko-fi](https://ko-fi.com/zinetherapy) to post my zines after I make them because I felt inspired to make a bunch of zines, and then immediately got sick (unrelated). I'm just getting back up on my feet so I'm looking forward to finding that energy again.
+* In addition to zines I've been exploring more ideas on how to document my life in little ways, and how to bring them together in a map. I express creatively in so many different ways, in different spaces, that I wonder how I could bring them together. 
+
+What's going on at work:
+- I'm on a small team of people working to consolidate resources for a major project into a SharePoint Teams channel, so we can share it with certain people without exposing the full library. We've hit so many limitations and unexpected issues with SharePoint and the way things are set up, but we're almost done. It was supposed to finish today but needed an extension into next week to fix some unexpected issues. 
+	- That said! Before launch today I decided to go on my hunch and test it. Everyone was sure everything would work as expected, but I wanted to make sure. I went into that 3-hour session anticipating it'd be 20 minutes just like everyone else did. I can't believe I started my career as a technologist and I didn't put testing into my doc migration plan. I got wrapped up in the idea of finishing something early quarter before Thanksgiving week that I made a huge rookie move.
+	- Anyway, we figured it out, solutioned it, created a spreadsheet and assigned ourselves to fix it. High priority items first. That will probably take up my whole Monday next week.
+- It was a week of two release notes posts so that took up most of my week. I really like release notes weeks. My system of release notes is my baby.
 
 ## October 27, 2025
 I opened Obsidian to start writing a month-in-review but instead decided to add more thoughts as callouts to [[garden/notebook/outlines/Building a Living Knowledge System for Technical Support Teams\|Building a Living Knowledge System for Technical Support Teams]]. I guess making little callout blurbs counts as working on that.
