@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-10-27T22:06:42.452-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/Building a Living Knowledge System for Technical Support Teams.md","permalink":"/notebook/outlines/building-a-living-knowledge-system-for-technical-support-teams/","created":"2025-10-12T10:30:18.774-04:00","updated":"2025-11-21T21:49:35.702-05:00"}
 ---
 
 #notes/knowledge #topic/technical-writing #notes/writing #notes/content-management 
@@ -52,10 +52,10 @@
 	- Clear structure: Logical hierarchy and consistent taxonomy (systems, workflows, processes, tools)
 	- Accessible: Easy to search, skim, and update
 	- Ownership: Defined roles for content upkeep (who writes, reviews, approves)
-	- Version control (track changes)
+	- Version control: Track changes in a revision history, documentation release notes, 
 	- Governance: Doc standards like template, voice/tone, update cadence
 - Create a single source of truth that supports continuous learning, not just a static reference
-- Ensure the documentation fits in the workflow (write for a user in progress resolving a ticket, not a user who is going to read the doc top to bottom)
+- Ensure the documentation fits in the workflow (write for a user in progress resolving a ticket, not just a new user who is going to read the doc top to bottom)
 
 
 > [!tip] 5 Signs Your Documentation Needs Updates

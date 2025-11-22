@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:29:12.490-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:34:25.540-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -43,7 +43,7 @@ What's going on at work:
 	- Create a list of days (top bullets) for however many days I'm looking ahead/planning (in this case, Monday - Thursday)
 	- Under each day, list all the priority items due (they were all due Thursday except one item due Monday)
 	- Previous to the due date, add a bullet to get the work started that day - I try to portion this out well given the level of effort or work involved, don't put too many things on a day with lots of meetings, etc. (I portioned between Mon, Tues, Wed given that Tue is a big meeting day and Wed is release day)
-	- List all the other non-priority work (such as operations) that needs to be done during that time
+	- List all the other non-priority work that needs to be done during that time
 	- Do what I need to do to ensure focus: Rest, eat well, take breaks.
 
 ## October 11, 2025
