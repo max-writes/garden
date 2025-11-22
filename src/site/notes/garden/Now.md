@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:27:14.989-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:27:58.066-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -12,7 +12,7 @@ In the DC area it's 89.3 FM 7-10pm, worldwide here (EST): https://www.wpfwfm.org
 
 What I've been doing with websites:
 * Reorganizing this one and trying to figure out how I want to use it. I feel like it's just on the tip of my tongue. I am refining it to include both private and published pages; I am breaking the law and putting them all in the same folders. It felt so good to combine my entire library of notes, instead of having a 'draft' folder in Obsidian separately.
-* Also thinking of the daunting task of auditing all of my hand-coded websites for accessibility using the [WAVE](ttps://wave.webaim.org/extension/) , [taba11y](https://chromewebstore.google.com/detail/aocppmckdocdjkphmofnklcjhdidgmga), and [ARIA DevTools](https://chromewebstore.google.com/detail/dneemiigcbbgbdjlcdjjnianlikimpck) extensions to start.
+* Also thinking of the daunting task of auditing all of my hand-coded websites for accessibility using the [WAVE](ttps://wave.webaim.org/extension/) , [taba11y](https://chromewebstore.google.com/detail/aocppmckdocdjkphmofnklcjhdidgmga), and [ARIA DevTools](https://chromewebstore.google.com/detail/dneemiigcbbgbdjlcdjjnianlikimpck) extensions, to start.
 
 What's going on creatively:
 * I started a [ko-fi](https://ko-fi.com/zinetherapy) to post my zines after I make them because I felt inspired to make a bunch of zines, and then immediately got sick (unrelated). I'm just getting back up on my feet so I'm looking forward to finding that energy again.
