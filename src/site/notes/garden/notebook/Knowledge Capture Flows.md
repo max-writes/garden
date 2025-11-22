@@ -10,7 +10,7 @@ As this system evolves I want to capture how I am intaking knowledge.
 Also see: [[garden/notebook/Update Your Resume\|Update Your Resume]], [[garden/notebook/Journal Systems\|Journal Systems]]
 
 ## After trainings, courses, or other large investments into knowledge
-Pilots: [[old-garden/digital garden/fragments/library/Knowledge Management Certification\|Knowledge Management Certification]], [[old-garden/fragments/library/Accessibility Trainings\|Accessibility Trainings]]
+Pilots: [[maxcrunch/library/Knowledge Management Certification\|Knowledge Management Certification]], [[maxcrunch/library/Accessibility Trainings\|Accessibility Trainings]]
 1. While I'm taking a course or engaging in something, I take notes. Sometimes that's directly in Obsidian but most of the time it's in a journal or on a scrap of paper because I couldn't find a journal.
 	- For my KM cert, I started a new journal just for this sort of thing and thankfully I found it before the accessibility trainings began.
 	- I've been using this journal for every training or instructional video I watch, whether it's at work or not. it's been very helpful to keep those notes in a consolidated place.

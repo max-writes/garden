@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/Zines.md","permalink":"/notebook/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-10-27T23:52:32.491-04:00"}
+{"dg-publish":true,"dg-path":"notebook/Zines.md","permalink":"/notebook/zines/","created":"2025-03-17T17:43:59.158-04:00","updated":"2025-11-21T20:32:04.999-05:00"}
 ---
 
 
@@ -29,6 +29,7 @@ I've been making zines since 2011, behind the game but never lacking in ideas. Z
 Current projects:
 * Free zines to print: [Zine Library](https://zinetherapy.neocities.org/library)
 * Free self-directed alternative to therapy: [Zine Therapy](https://zinetherapy.neocities.org/)
+* Posting zines online for free at ko-fi.com/zinetherapy
 * Making seasonal zines in 2025
 * Doing Zine Therapy round 2
 

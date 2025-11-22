@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-10-27T22:31:12.088-04:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T20:03:35.122-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -36,17 +36,17 @@ What I've been doing with websites:
 * I created a Halloween site! Visit the [Phantom Manor](https://frankenweb.neocities.org/manor)! I had a lot of fun creating this, and learned LOTS about CSS. However, since the design portions and trying to make it mobile friendly took so long, I lost time to make all the content. I have lots more ideas to add for next year! Desktop is best, mobile is ok.
 * That's pretty much it - I've spent almost all my website energy making this the last few months.
 
-![Now-1760236994825.png](/img/user/garden/attachments/Now-1760236994825.png)
+![Now-1760236994825.png](/img/user/garden/notebook/journals/attachments/Now-1760236994825.png)
 
 What's going on creatively:
 * I'm refining how I want to express online and starting to write article type of posts more often. I'm in the "synthesis" part of the process, ready to write about everything I've learned and dwelled upon extensively.
 * Here are my completed Blobtober prompts so far:
 
-![Now-1760237263755.png|300](/img/user/garden/attachments/Now-1760237263755.png)
+![[Now-1760237263755.png\|300]]
 
-![Now-1760237302106.png|300](/img/user/garden/attachments/Now-1760237302106.png)
+![[Now-1760237302106.png\|300]]
 
-![Now-1760237319513.png|300](/img/user/garden/attachments/Now-1760237319513.png)
+![[Now-1760237319513.png\|300]]
 
 What's going on at work:
 - I've been working on prepping and analysis ahead of the documentation revision I mentioned in the last update. Most of my focus has gone into creating a content inventory to help with prioritizing any intensive reviews/updates needed, beyond the standardization of formatting and styles.
@@ -59,12 +59,12 @@ Listening to: the weird wobbly noise my ceiling fan makes
 
 What I've been doing with websites:
 * Making a Halloween site which I hope to launch soon. I kept getting ideas as I was working on other ideas and eventually it became too big, so I need to get an MVP out!
-* [[old-garden/fragments/Learning to Design for Accessibility\|Learning to Design for Accessibility]] - getting started on this long time goal.
+* [[maxcrunch/Learning to Design for Accessibility\|Learning to Design for Accessibility]] - getting started on this long time goal.
 
 What's going on creatively:
 * I'm participating in Blobtober from buttercat_paradox, a friend [posted about it on her newsletter](https://adriennepriceart.substack.com/p/monthly-recap-and-blobtober) and it seems like a fun way to play without the pressure of a daily challenge. I've made all my blobs and will be following the prompts on this page.
 
-![20251001_210210~2.jpg](/img/user/garden/attachments/20251001_210210~2.jpg)
+![[20251001_210210~2.jpg\|20251001_210210~2.jpg]]
 
 * I started a new year of seasonal projects following prompts from [[Down to the River and Up to the Trees\|Down to the River and Up to the Trees]]. I've only done two so far but I'm enjoying it!
 
@@ -82,7 +82,7 @@ What I've been doing with websites:
 * Building on content in the offline digital garden and in my personal notes area. Obsidian has become a vital part of managing my life and keeping up with things, as well as giving me a feedback loop to inspire myself over and over again... It's been 6 months since I began and I'm excited about this outcome so far!
 
 What's going on creatively:
-* Since spring ended I'm supposed to make a spring seasonal zine which is another [[old-garden/trees/Living Seasons\|yearlong seasonal project]] and I do want to do it, but I am also incredibly hot and unmotivated.
+* Since spring ended I'm supposed to make a spring seasonal zine which is another [[maxcrunch/Living Seasons\|yearlong seasonal project]] and I do want to do it, but I am also incredibly hot and unmotivated.
 * We had Art & Eat at work today and I did a unicorn coloring page emphasizing love and support between the LGB and Trans communities. I accidentally used a kind of peach instead of a pink for the trans unicorn but that's okay. I really love the rainbow one. I ran out of time after coloring the banner but maybe I'll revisit later and color the horses too.
 
 What's going on at work:
@@ -109,7 +109,7 @@ What's going on at work:
 - I'm helping with a training site project where I get to contribute my expertise and do some work but someone else is leading it (baby's first project). It's been a long time since I've been able to mentor someone and help provide context for why certain decisions are made and I'm happy to say that I'm doing pretty well offering suggestions without dominating the conversation, providing encouragement, and supporting something I've done 100 times (assess needs, content inventory, build a site, iterate). I love that my coworker is approaching it as a learning opportunity and has been very vocal to our group chat about getting our input on her ideas. I love when people are eager to grow and learn and it's incredibly wonderful to be in a position where I can help them. 
 
 ## April 10, 2025
-I've been doing lots of digital organization since I got my [[old-garden/fragments/instructions/NAS\|NAS]], which is what I focused on after work today. I updated the [[old-garden/fragments/Cemetery List\|Cemetery List]] page and finally got some photos up there, but I know I have lots more to add!
+I've been doing lots of digital organization since I got my [[garden/notebook/NAS\|NAS]], which is what I focused on after work today. I updated the [[maxcrunch/Cemetery List\|Cemetery List]] page and finally got some photos up there, but I know I have lots more to add!
 
 Listening to: Nothing, just the buzz of my computer's fan
 
@@ -119,8 +119,8 @@ What I've been doing with websites:
 
 What's going on creatively:
 * Last night I participated in my friend [Adrienne](https://substack.com/@adriennepriceart)'s virtual drink and draw event where I made a very nice doodle, and then I colored it. There is not much else happening. I've been swamped at work and out of focus afterwards, focused more on websites than anything else!
-![20250409_210726~2.jpg](/img/user/garden/attachments/20250409_210726~2.jpg)
-![20250409_214029~2 1.jpg](/img/user/garden/attachments/20250409_214029~2%201.jpg)
+![[garden/attachments/20250409_210726~2.jpg\|garden/attachments/20250409_210726~2.jpg]]
+![[garden/attachments/20250409_214029~2 1.jpg\|garden/attachments/20250409_214029~2 1.jpg]]
 
 What's going on at work:
 - We wrapped up FY25Q3 this week and even though Q4 planning doesn't happen for another week and a half, we're in it! So I'm spending these last weeks before then figuring out the last details for the stuff that didn't quite make the deadline. 
@@ -137,7 +137,7 @@ What I've been doing with websites:
 
 What's going on creatively:
 * I finally made my spring bingo card! I mean spring hasn't been on for very long but I did mean to make it last week.
-* I built flower Legos today and set them up very nicely in my cozy area - [[old-garden/fragments/spring#Spring Lego 3/22/25\|Spring Lego]]
+* I built flower Legos today and set them up very nicely in my cozy area - [[garden/notebook/journals/spring#Spring Lego 3/22/25\|Spring Lego]]
 
 What's going on at work:
 - This last week was a crunch week, lots to do and very little time to do it! A bunch of LTI documents came in at once while I still had a few to complete, but I got everything done quickly and it seems to have impressed the people involved so that's a win! I feel 10x more proud delivering on doc projects than I do on anything else in my current position.
@@ -156,7 +156,7 @@ What's going on creatively:
 * I have been drafting my winter zine but my printer needs to be reconnected so I hit that blocker until I have enough focus energy to deal with it.
 * Mostly website stuff otherwise, though I did make a little thingy in Canva the other day for funsies.
 
-![welcome to my website_20250317_114511_0000.png](/img/user/garden/attachments/welcome%20to%20my%20website_20250317_114511_0000.png)
+![welcome to my website_20250317_114511_0000.png](/img/user/garden/notebook/journals/attachments/welcome%20to%20my%20website_20250317_114511_0000.png)
 
 What's going on at work:
 - Swamped because I had to take two days off last week due to tooth pain (I'm all better now). Catching up with LTI documentation. For each tool, we make guides for course developers, faculty, students, and tech support info.Without meetings it takes about a day and a half to make them all.
@@ -165,7 +165,7 @@ What's going on at work:
 ## February 15, 2025
 This is my first update to maxwrites since I figured out how to publish Obsidian to the web a few weeks ago. I haven't done much to it (I've mostly been going through the motions lately) but I did start consolidating the quotes I've gotten from various books read into topic pages which I will eventually expand upon. Lots to come!
 
-Listening to: My [[old-garden/fragments/instructions/NAS\|NAS]] Plex library is scanning and trying its hardest to get all my media to me for my walk later today.
+Listening to: My [[garden/notebook/NAS\|NAS]] Plex library is scanning and trying its hardest to get all my media to me for my walk later today.
 
 What I've been doing with websites:
 * Described above for maxwrites. I'm still building this out but increasingly getting a better idea of how I want my digital garden to flow and present information. I need to add some kind of feedback mechanism so people can correct me, if they want to. It's scary to potentially be so publicly wrong about things but I think it's good for the learning process to share progress.

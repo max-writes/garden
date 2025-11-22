@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-27T23:50:19.115-04:00"}
+{"dg-publish":true,"dg-path":"notebook/outlines/How Writing User Guides is Like Philosophy.md","permalink":"/notebook/outlines/how-writing-user-guides-is-like-philosophy/","created":"2025-10-27T23:12:39.034-04:00","updated":"2025-10-28T01:08:58.127-04:00"}
 ---
 
 #notes/writing #topic/technical-writing 
 
 # How Writing User Guides is Like Philosophy
-
-Subtitle ideas
-* Exploring Every Path to Understanding
-* How Documents Anticipate Questions Before They're Asked
-* User Documentation as a Philosophical Exercise
 
 ## I. Introduction: The Unexpected Parallel
 - Most people think writing user guides is about listing steps, but it's really about anticipating human action
