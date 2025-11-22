@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:27:58.066-05:00"}
+{"dg-publish":true,"dg-path":"Now.md","permalink":"/now/","created":"2024-12-14T12:03:57.298-05:00","updated":"2025-11-21T21:29:12.490-05:00"}
 ---
 
 [See more Now pages](http://nownownow.com)
@@ -16,7 +16,7 @@ What I've been doing with websites:
 
 What's going on creatively:
 * I started a [ko-fi](https://ko-fi.com/zinetherapy) to post my zines after I make them because I felt inspired to make a bunch of zines, and then immediately got sick (unrelated). I'm just getting back up on my feet so I'm looking forward to finding that energy again.
-* In addition to zines I've been exploring more ideas on how to document my life in little ways, and how to bring them together in a map. I express creatively in so many different ways, in different spaces, that I wonder how I could connect them. 
+* In addition to zines I've been exploring more ideas on how to document my life in little ways, and how to bring them together in a map. I express creatively in so many different ways, in different spaces, that I wonder how I could connect them. (In case it's not clear, I'm thinking in a visual way, not just a list of links.)
 
 What's going on at work:
 - I'm on a small team of people working to consolidate resources for a major project into a SharePoint Teams channel, so we can share it with certain people without exposing the full library. We've hit so many limitations and unexpected issues with SharePoint and the way things are set up, but we're almost done. It was supposed to finish today but needed an extension into next week to fix some unexpected issues. 
